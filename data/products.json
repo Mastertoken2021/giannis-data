@@ -93307,4 +93307,76 @@
   {
     "name": "ΣΟΛΟΜΟΣ ΦΕΤΑ Μ/Δ ΝΩΠΟΣ ΣΥΣΚ/ΝΟ 4/250G",
     "price": 18.0,
-    "merchant": "Σκλ
+    "merchant": "Σκλαβενίτης"
+  },
+  {
+    "name": "ΣΟΛΟΜΟΣ ΦΕΤΑ Μ/Δ ΝΩΠΟΣ ΣΥΣΚ/ΝΟ 4/250G",
+    "price": 22.4,
+    "merchant": "Xalkiadakis"
+  },
+  {
+    "name": "ΣΟΛΟΜΟΣ SALMO SALAR ΦΙΛΕΤΑΡΙΣΜΕΝΟΣ ΥΔ ΕΙ",
+    "price": 23.99,
+    "merchant": "My Market"
+  },
+  {
+    "name": "ΣΟΛΟΜΟΣ SALMO SALAR ΦΙΛΕΤΑΡΙΣΜΕΝΟΣ ΥΔ ΕΙ",
+    "price": 19.8,
+    "merchant": "Σκλαβενίτης"
+  },
+  {
+    "name": "ΣΟΛΟΜΟΣ SALMO SALAR ΦΙΛΕΤΑΡΙΣΜΕΝΟΣ ΥΔ ΕΙ",
+    "price": 19.9,
+    "merchant": "Xalkiadakis"
+  },
+  {
+    "name": "COCA COLA ZERO 24/150ML",
+    "price": 0.8,
+    "merchant": "ΑΒ Βασιλόπουλος"
+  },
+  {
+    "name": "COCA COLA ZERO 24/150ML",
+    "price": 0.8,
+    "merchant": "Μασούτης"
+  },
+  {
+    "name": "COCA COLA ZERO 24/150ML",
+    "price": 0.8,
+    "merchant": "My Market"
+  },
+  {
+    "name": "COCA COLA ZERO 24/150ML",
+    "price": 0.8,
+    "merchant": "Σκλαβενίτης"
+  },
+  {
+    "name": "COCA COLA ZERO 24/150ML",
+    "price": 0.8,
+    "merchant": "Synka"
+  },
+  {
+    "name": "COCA COLA ZERO 24/150ML",
+    "price": 0.73,
+    "merchant": "Xalkiadakis"
+  },
+  {
+    "name": "ΣΟΛΟΜΟΣ ΦΙΛΕΤΟ Μ/Δ ΝΩΠΟ 4/250G",
+    "price": 19.84,
+    "merchant": "Σκλαβενίτης"
+  },
+  {
+    "name": "ΣΟΛΟΜΟΣ ΦΙΛΕΤΟ Μ/Δ ΝΩΠΟ 4/250G",
+    "price": 24.9,
+    "merchant": "Xalkiadakis"
+  },
+  {
+    "name": "ALPILAND ESPRESSO 250ML",
+    "price": 1.35,
+    "merchant": "ΑΒ Βασιλόπουλος"
+  },
+  {
+    "name": "ALPILAND CAPPUCCINO 250ML",
+    "price": 1.35,
+    "merchant": "ΑΒ Βασιλόπουλος"
+  }
+]
