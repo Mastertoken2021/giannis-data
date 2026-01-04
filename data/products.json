@@ -71,7 +71,7 @@
   },
   {
     "name": "ΝΙΤΣΙΑΚΟΣ ΚΟΤ. ΕΛΛΗΝΙΚΑ ΝΩΠΑ ΔΙΣΚ(Τ. ΚΙΛ)",
-    "price": 3.26,
+    "price": 3.0,
     "merchant": "Μασούτης"
   },
   {
@@ -146,7 +146,7 @@
   },
   {
     "name": "ΑΡΝΙΑ ΕΛΛΗΝΙΚΑ (ΤIMH ΚΙΛΟY)",
-    "price": 13.9,
+    "price": 11.9,
     "merchant": "Synka"
   },
   {
@@ -156,7 +156,7 @@
   },
   {
     "name": "ΑΡΝΙΑ ΕΛΛΗΝΙΚΑ (ΤIMH ΚΙΛΟY)",
-    "price": 13.75,
+    "price": 12.98,
     "merchant": "Market In"
   },
   {
@@ -166,7 +166,7 @@
   },
   {
     "name": "ΑΡΝΙΑ ΕΛΛΗΝΙΚΑ (ΤIMH ΚΙΛΟY)",
-    "price": 13.4,
+    "price": 12.9,
     "merchant": "Synka"
   },
   {
@@ -181,7 +181,7 @@
   },
   {
     "name": "ΑΡΝΙΑ ΕΛΛΗΝΙΚΑ (ΤIMH ΚΙΛΟY)",
-    "price": 13.9,
+    "price": 11.9,
     "merchant": "Synka"
   },
   {
@@ -406,7 +406,7 @@
   },
   {
     "name": "ΜΠΟΥΤΙ ΧΟΙΡ. ΕΛΛΗΝΙΚΟ ΝΩΠΟ Α/Ο(ΤΙΜΗ ΚΙΛ)",
-    "price": 6.75,
+    "price": 5.95,
     "merchant": "Σκλαβενίτης"
   },
   {
@@ -596,7 +596,7 @@
   },
   {
     "name": "ΜΕΛΙΤΖΑΝΑ ΦΛΑΣΚΑ ΕΓΧΩΡΙΑ (ΤΙΜΗ ΚΙΛΟΥ)",
-    "price": 3.32,
+    "price": 2.99,
     "merchant": "My Market"
   },
   {
@@ -641,7 +641,7 @@
   },
   {
     "name": "ΛΕΜΟΝΙΑ ΧΥΜΑ ΕΓΧ. ΠΟΙΟΤΗΤΑ Α'(TIMH ΚΙΛ. )",
-    "price": 1.75,
+    "price": 1.59,
     "merchant": "Synka"
   },
   {
@@ -746,7 +746,7 @@
   },
   {
     "name": "ΠΑΤΑΤΕΣ ΚΥΠΡΟΥ ΣΥΣ/ΝΕΣ ΠΟΙΟΤ Α(ΤΙΜΗ ΚΙΛ)",
-    "price": 1.49,
+    "price": 1.45,
     "merchant": "Synka"
   },
   {
@@ -1036,7 +1036,7 @@
   },
   {
     "name": "ΤΟΜΑΤΕΣ ΕΓΧΩΡΙΕΣ ΥΔΡΟΠΟΝΙΑΣ (ΤΙΜΗ ΚΙΛΟΥ)",
-    "price": 1.99,
+    "price": 1.8,
     "merchant": "My Market"
   },
   {
@@ -1076,12 +1076,12 @@
   },
   {
     "name": "ΝΤΟΜΑΤΕΣ ΨΙΛΕΣ ΕΛΛΗΝ(ΚΙΛΟ)",
-    "price": 1.25,
+    "price": 1.3,
     "merchant": "Synka"
   },
   {
     "name": "ΝΤΟΜΑΤΕΣ ΨΙΛΕΣ ΕΛΛΗΝ(ΚΙΛΟ)",
-    "price": 1.18,
+    "price": 1.3,
     "merchant": "Xalkiadakis"
   },
   {
@@ -1101,7 +1101,7 @@
   },
   {
     "name": "ΝΤΟΜΑΤΕΣ A ΕΛΛΗΝΙΚΕΣ (ΚΙΛΟ)",
-    "price": 1.99,
+    "price": 1.8,
     "merchant": "My Market"
   },
   {
@@ -1111,7 +1111,7 @@
   },
   {
     "name": "ΝΤΟΜΑΤΕΣ A ΕΛΛΗΝΙΚΕΣ (ΚΙΛΟ)",
-    "price": 1.87,
+    "price": 1.9,
     "merchant": "Synka"
   },
   {
@@ -1151,7 +1151,7 @@
   },
   {
     "name": "ΤΟΜΑΤΙΝΙΑ ΒΕΛΑΝΙΔ. ΕΓΧ. ΠΟΙΟΤ. Α'(ΤΙΜ. ΚΙΛ)",
-    "price": 3.66,
+    "price": 3.88,
     "merchant": "My Market"
   },
   {
@@ -1186,17 +1186,17 @@
   },
   {
     "name": "ΑΓΓΟΥΡΙΑ ΕΓΧΩΡΙΑ (TIMH ΤΕM)",
-    "price": 0.95,
+    "price": 0.97,
     "merchant": "Market In"
   },
   {
     "name": "ΑΓΓΟΥΡΙΑ ΕΓΧΩΡΙΑ (TIMH ΤΕM)",
-    "price": 0.94,
+    "price": 0.97,
     "merchant": "Μασούτης"
   },
   {
     "name": "ΑΓΓΟΥΡΙΑ ΕΓΧΩΡΙΑ (TIMH ΤΕM)",
-    "price": 0.99,
+    "price": 0.97,
     "merchant": "My Market"
   },
   {
@@ -1206,12 +1206,12 @@
   },
   {
     "name": "ΑΓΓΟΥΡΙΑ ΕΓΧΩΡΙΑ (TIMH ΤΕM)",
-    "price": 3.19,
+    "price": 2.55,
     "merchant": "Synka"
   },
   {
     "name": "ΑΓΓΟΥΡΙΑ ΕΓΧΩΡΙΑ (TIMH ΤΕM)",
-    "price": 2.98,
+    "price": 2.88,
     "merchant": "Xalkiadakis"
   },
   {
@@ -1236,7 +1236,7 @@
   },
   {
     "name": "ΑΓΓΟΥΡΑΚΙΑ ΤΟΥ ΚΙΛΟΥ ΕΓΧΩΡΙΑ (ΤΙΜΗ ΚΙΛ)",
-    "price": 3.19,
+    "price": 2.89,
     "merchant": "Synka"
   },
   {
@@ -1506,7 +1506,7 @@
   },
   {
     "name": "NESCAFE CAPPUCCINO GOLD 6/10ΦΑΚ. (14G)",
-    "price": 2.7,
+    "price": 3.38,
     "merchant": "Μασούτης"
   },
   {
@@ -1521,7 +1521,7 @@
   },
   {
     "name": "NESCAFE CAPPUCCINO GOLD 6/10ΦΑΚ. (14G)",
-    "price": 2.79,
+    "price": 3.49,
     "merchant": "Synka"
   },
   {
@@ -1561,7 +1561,7 @@
   },
   {
     "name": "NESCAFE CAPPUCCINO DECAF 6/10ΦΑΚ. (12. 5G)",
-    "price": 2.7,
+    "price": 3.38,
     "merchant": "Μασούτης"
   },
   {
@@ -1571,7 +1571,7 @@
   },
   {
     "name": "NESCAFE CAPPUCCINO DECAF 6/10ΦΑΚ. (12. 5G)",
-    "price": 2.9,
+    "price": 3.63,
     "merchant": "Synka"
   },
   {
@@ -1626,7 +1626,7 @@
   },
   {
     "name": "BONNE MAMAN ΜΑΡΜΕΛΑΔΑ ΦΡΑΟΥΛΑ 12/370G",
-    "price": 4.48,
+    "price": 4.55,
     "merchant": "ΑΒ Βασιλόπουλος"
   },
   {
@@ -1676,7 +1676,7 @@
   },
   {
     "name": "BONNE MAMAN ΜΑΡΜΕΛΑΔΑ ΒΕΡΥΚΟΚΟ 12/370G",
-    "price": 4.48,
+    "price": 4.9,
     "merchant": "ΑΒ Βασιλόπουλος"
   },
   {
@@ -2291,12 +2291,12 @@
   },
   {
     "name": "ΚΟΛΟΚΥΘΙΑ ΕΓΧΩΡΙΑ (TIMH ΚΙΛΟΥ).",
-    "price": 2.09,
+    "price": 1.99,
     "merchant": "Market In"
   },
   {
     "name": "ΚΟΛΟΚΥΘΙΑ ΕΓΧΩΡΙΑ (TIMH ΚΙΛΟΥ).",
-    "price": 2.2,
+    "price": 1.99,
     "merchant": "My Market"
   },
   {
@@ -2681,7 +2681,7 @@
   },
   {
     "name": "ΜΠΡΟΚΟΛΟ ΕΓΧΩΡΙΟ (ΤΙΜΗ ΚΙΛ. )",
-    "price": 2.25,
+    "price": 2.35,
     "merchant": "Market In"
   },
   {
@@ -2701,7 +2701,7 @@
   },
   {
     "name": "ΜΠΡΟΚΟΛΟ ΕΓΧΩΡΙΟ (ΤΙΜΗ ΚΙΛ. )",
-    "price": 2.85,
+    "price": 2.95,
     "merchant": "Synka"
   },
   {
@@ -3291,7 +3291,7 @@
   },
   {
     "name": "LISTERINE TOTAL CARE ΣΤΟΜ. ΔΙΑΛ. 500ML.",
-    "price": 7.88,
+    "price": 4.32,
     "merchant": "Galaxias"
   },
   {
@@ -3336,7 +3336,7 @@
   },
   {
     "name": "LISTERINE ADV. TART. CON. ΣΤ. ΔΙΑΛ 12/500ML",
-    "price": 7.88,
+    "price": 4.32,
     "merchant": "Galaxias"
   },
   {
@@ -4125,11 +4125,6 @@
     "merchant": "Xalkiadakis"
   },
   {
-    "name": "ΝΕΚΤΑΡΙΝΙΑ VELVITA ΕΛΛΗΝΙΚΑ(ΚΙΛΟ)",
-    "price": 3.98,
-    "merchant": "Synka"
-  },
-  {
     "name": "ΝΕΚΤΑΡΙΝΙΑ ΕΛΛΗΝΙΚΑ (ΚΙΛΟ)",
     "price": 2.98,
     "merchant": "Μασούτης"
@@ -4271,7 +4266,7 @@
   },
   {
     "name": "ΜΗΛΑ ΖΑΓΟΡΑΣ ΠΗΛΙΟΥ Π. Ο. Π. ΠΟΙΟΤ. Α(ΤΙ. ΚΙΛ",
-    "price": 2.65,
+    "price": 2.5,
     "merchant": "My Market"
   },
   {
@@ -4306,7 +4301,7 @@
   },
   {
     "name": "ΜΗΛΑ ΣΤΑΡΚΙΝ ΕΓΧ. ΠΟΙΟΤΗΤΑ Α'(ΤΙΜΗ ΚΙΛ. )",
-    "price": 1.98,
+    "price": 1.58,
     "merchant": "My Market"
   },
   {
@@ -5201,6 +5196,11 @@
   },
   {
     "name": "NIVEA FOR MEN INVIS. POW. ΣΠ. ΣΩΜ. 6/150ML",
+    "price": 2.49,
+    "merchant": "Market In"
+  },
+  {
+    "name": "NIVEA FOR MEN INVIS. POW. ΣΠ. ΣΩΜ. 6/150ML",
     "price": 2.98,
     "merchant": "Μασούτης"
   },
@@ -5248,6 +5248,11 @@
     "name": "NIVEA FOR MEN INVIS. POWER ROLL-ON 50M",
     "price": 2.39,
     "merchant": "Lidl"
+  },
+  {
+    "name": "NIVEA FOR MEN INVIS. POWER ROLL-ON 50M",
+    "price": 2.49,
+    "merchant": "Market In"
   },
   {
     "name": "NIVEA FOR MEN INVIS. POWER ROLL-ON 50M",
@@ -5711,7 +5716,7 @@
   },
   {
     "name": "PAMPERS PREMIUM CARE N. 3 6-10KG 3/60Τ.",
-    "price": 13.99,
+    "price": 13.49,
     "merchant": "Market In"
   },
   {
@@ -5761,6 +5766,11 @@
   },
   {
     "name": "PAMPERS PREMIUM CARE N. 4 9-14KG 2/52Τ.",
+    "price": 13.49,
+    "merchant": "Market In"
+  },
+  {
+    "name": "PAMPERS PREMIUM CARE N. 4 9-14KG 2/52Τ.",
     "price": 13.48,
     "merchant": "Μασούτης"
   },
@@ -5803,6 +5813,11 @@
     "name": "PAMPERS PREMIUM CARE N. 5 11-16KG 2/44T.",
     "price": 14.89,
     "merchant": "Galaxias"
+  },
+  {
+    "name": "PAMPERS PREMIUM CARE N. 5 11-16KG 2/44T.",
+    "price": 13.49,
+    "merchant": "Market In"
   },
   {
     "name": "PAMPERS PREMIUM CARE N. 5 11-16KG 2/44T.",
@@ -5851,6 +5866,11 @@
   },
   {
     "name": "ALWAYS ULTR SECUR NIGHT ΟΙΚ. ΣΥΣ. 12/12ΤΕΜ",
+    "price": 2.39,
+    "merchant": "Market In"
+  },
+  {
+    "name": "ALWAYS ULTR SECUR NIGHT ΟΙΚ. ΣΥΣ. 12/12ΤΕΜ",
     "price": 2.99,
     "merchant": "Μασούτης"
   },
@@ -5893,6 +5913,11 @@
     "name": "ALWAYS FRESH NORMAL ΣΕΡΒ/ΚΙΑ 6/20ΤΕΜ",
     "price": 1.43,
     "merchant": "Galaxias"
+  },
+  {
+    "name": "ALWAYS FRESH NORMAL ΣΕΡΒ/ΚΙΑ 6/20ΤΕΜ",
+    "price": 1.39,
+    "merchant": "Market In"
   },
   {
     "name": "ALWAYS FRESH NORMAL ΣΕΡΒ/ΚΙΑ 6/20ΤΕΜ",
@@ -6296,6 +6321,11 @@
   },
   {
     "name": "FAIRY ΥΓΡΟ ΠΙΑΤΩΝ 8/900ML",
+    "price": 2.69,
+    "merchant": "Market In"
+  },
+  {
+    "name": "FAIRY ΥΓΡΟ ΠΙΑΤΩΝ 8/900ML",
     "price": 3.6,
     "merchant": "Μασούτης"
   },
@@ -6503,6 +6533,11 @@
     "name": "ARLA PROTEIN ΠΟΥΤΙΓΚΑ ΣΟΚ. Χ. Λ. 6/200G",
     "price": 1.35,
     "merchant": "Lidl"
+  },
+  {
+    "name": "ARLA PROTEIN ΠΟΥΤΙΓΚΑ ΣΟΚ. Χ. Λ. 6/200G",
+    "price": 1.45,
+    "merchant": "Market In"
   },
   {
     "name": "ARLA PROTEIN ΠΟΥΤΙΓΚΑ ΣΟΚ. Χ. Λ. 6/200G",
@@ -7306,11 +7341,6 @@
   },
   {
     "name": "BAYGON ENΤ. ΥΓΡΟ ΑΝ/ΚΟ 120Ν. 24/36ML(1+1)",
-    "price": 2.17,
-    "merchant": "Synka"
-  },
-  {
-    "name": "BAYGON ENΤ. ΥΓΡΟ ΑΝ/ΚΟ 120Ν. 24/36ML(1+1)",
     "price": 4.34,
     "merchant": "Xalkiadakis"
   },
@@ -8096,7 +8126,7 @@
   },
   {
     "name": "NESCAFE LATTE CARAMEL 6/8ΦΑΚ. (17G)",
-    "price": 2.6,
+    "price": 3.25,
     "merchant": "Μασούτης"
   },
   {
@@ -8111,7 +8141,7 @@
   },
   {
     "name": "NESCAFE LATTE CARAMEL 6/8ΦΑΚ. (17G)",
-    "price": 2.79,
+    "price": 3.49,
     "merchant": "Synka"
   },
   {
@@ -15291,7 +15321,7 @@
   },
   {
     "name": "ΠΑΠΑΔΟΠΟΥΛΟΥ ΦΡΥΓΑΝΙΕΣ ΧΩΡ. ΟΛ. ΑΛΕΣ. 240G",
-    "price": 1.69,
+    "price": 1.68,
     "merchant": "Lidl"
   },
   {
@@ -16016,7 +16046,7 @@
   },
   {
     "name": "ΠΑΠΑΔΟΠΟΥΛΟΥ ΦΡΥΓΑΝΙΕΣ ΧΩΡ. ΜΕ ΔΗΜ. 240G",
-    "price": 1.69,
+    "price": 1.68,
     "merchant": "Lidl"
   },
   {
@@ -17256,6 +17286,11 @@
   },
   {
     "name": "MISKO ΠΕΝΝΕΣ ΡΙΓΚΑΤΕ 12/500G",
+    "price": 1.65,
+    "merchant": "Market In"
+  },
+  {
+    "name": "MISKO ΠΕΝΝΕΣ ΡΙΓΚΑΤΕ 12/500G",
     "price": 1.57,
     "merchant": "Μασούτης"
   },
@@ -17491,6 +17526,11 @@
   },
   {
     "name": "MISKO ΣΠΑΓΓΕΤΙΝΗ ΝΟ10 ΟΛ. ΑΛΕΣΗΣ 24/500G",
+    "price": 1.59,
+    "merchant": "Market In"
+  },
+  {
+    "name": "MISKO ΣΠΑΓΓΕΤΙΝΗ ΝΟ10 ΟΛ. ΑΛΕΣΗΣ 24/500G",
     "price": 1.55,
     "merchant": "Μασούτης"
   },
@@ -17618,6 +17658,11 @@
     "name": "MISKO ΜΑΚΑΡΟΝΙΑ ΝΟ 2 500G",
     "price": 1.57,
     "merchant": "Galaxias"
+  },
+  {
+    "name": "MISKO ΜΑΚΑΡΟΝΙΑ ΝΟ 2 500G",
+    "price": 1.65,
+    "merchant": "Market In"
   },
   {
     "name": "MISKO ΜΑΚΑΡΟΝΙΑ ΝΟ 2 500G",
@@ -17956,6 +18001,11 @@
   },
   {
     "name": "MISKO ΑΧΙΒΑΔΕΣ 12 /500 G",
+    "price": 1.65,
+    "merchant": "Market In"
+  },
+  {
+    "name": "MISKO ΑΧΙΒΑΔΕΣ 12 /500 G",
     "price": 1.57,
     "merchant": "Μασούτης"
   },
@@ -17998,6 +18048,11 @@
     "name": "MISKO ΤΡΙΒΕΛΑΚΙ 12/500 G",
     "price": 1.57,
     "merchant": "Galaxias"
+  },
+  {
+    "name": "MISKO ΤΡΙΒΕΛΑΚΙ 12/500 G",
+    "price": 1.65,
+    "merchant": "Market In"
   },
   {
     "name": "MISKO ΤΡΙΒΕΛΑΚΙ 12/500 G",
@@ -18651,7 +18706,7 @@
   },
   {
     "name": "LAY'S ΣΤΟ ΦΟΥΡΝΟ ΝΤΟΜΑΤΑ&ΒΑΣΙΛ. 24/105G",
-    "price": 1.82,
+    "price": 1.46,
     "merchant": "Galaxias"
   },
   {
@@ -18856,7 +18911,7 @@
   },
   {
     "name": "LAY'S ΣΤΟ ΦΟΥΡΝΟ ΠΑΠΡΙΚΑ 24/105G",
-    "price": 1.82,
+    "price": 1.46,
     "merchant": "Galaxias"
   },
   {
@@ -20681,7 +20736,7 @@
   },
   {
     "name": "ΒΛΑΧΑΣ ΓΑΛΑ ΖΑΧΑΡΟΥΧΟ 48/397G",
-    "price": 1.62,
+    "price": 1.9,
     "merchant": "My Market"
   },
   {
@@ -20936,7 +20991,7 @@
   },
   {
     "name": "ΒΛΑΧΑΣ ΓΑΛΑ ΠΛΗΡΕΣ ΣΥΜΠΥΚΝΩΜΕΝΟ 48/410G",
-    "price": 1.16,
+    "price": 1.37,
     "merchant": "My Market"
   },
   {
@@ -20971,7 +21026,7 @@
   },
   {
     "name": "ΒΛΑΧΑΣ ΓΑΛΑ ΕΛΑΦΡΥ ΣΥΜΠΥΚΝΩΜΕΝΟ 48/410G",
-    "price": 1.16,
+    "price": 1.37,
     "merchant": "My Market"
   },
   {
@@ -21001,7 +21056,7 @@
   },
   {
     "name": "ΒΛΑΧΑΣ ΓΑΛΑ ΕΛΑΦΡΥ ΣΥΜΠΥΚΝ. 410G (6ΤΕΜ)",
-    "price": 6.96,
+    "price": 8.22,
     "merchant": "My Market"
   },
   {
@@ -25146,7 +25201,7 @@
   },
   {
     "name": "ΜΕΒΓΑΛ CREME ΚΑΡΑΜΕΛΕ 12/150G",
-    "price": 1.14,
+    "price": 0.91,
     "merchant": "ΑΒ Βασιλόπουλος"
   },
   {
@@ -25331,7 +25386,7 @@
   },
   {
     "name": "ΜΕΒΓΑΛ ΕΠΙΔΟΡΠΙΟ ΚΑΙΜΑΚΙ-ΒΥΣΣΙΝΟ 12/150G",
-    "price": 1.29,
+    "price": 1.03,
     "merchant": "ΑΒ Βασιλόπουλος"
   },
   {
@@ -27776,7 +27831,7 @@
   },
   {
     "name": "ΙΟΝ BREAK ΣΟΚΟΛ. ΦΟΥΝΤΟΥΚΙ Ν. 1341 12/85G",
-    "price": 2.48,
+    "price": 2.52,
     "merchant": "ΑΒ Βασιλόπουλος"
   },
   {
@@ -27921,7 +27976,7 @@
   },
   {
     "name": "ΙΟΝ BREAK ΣΟΚΟΛΑΤΑ ΛΕΥΚΗ Ν. 4941 12/85G",
-    "price": 2.55,
+    "price": 2.52,
     "merchant": "ΑΒ Βασιλόπουλος"
   },
   {
@@ -37646,11 +37701,6 @@
   },
   {
     "name": "SANI PANTS ΕΣΩΡ. ΑΚΡΑΤ. Ν. 3 LARGE 4/14TEM",
-    "price": 9.49,
-    "merchant": "Market In"
-  },
-  {
-    "name": "SANI PANTS ΕΣΩΡ. ΑΚΡΑΤ. Ν. 3 LARGE 4/14TEM",
     "price": 8.95,
     "merchant": "Μασούτης"
   },
@@ -39278,11 +39328,6 @@
     "name": "AVA PERLE ΧΑΜ. ΛΕΜΟΝΙ ΥΓΡΟ ΠΙΑΤ. 21/430ML",
     "price": 1.58,
     "merchant": "Galaxias"
-  },
-  {
-    "name": "AVA PERLE ΧΑΜ. ΛΕΜΟΝΙ ΥΓΡΟ ΠΙΑΤ. 21/430ML",
-    "price": 1.79,
-    "merchant": "Market In"
   },
   {
     "name": "AVA PERLE ΧΑΜ. ΛΕΜΟΝΙ ΥΓΡΟ ΠΙΑΤ. 21/430ML",
@@ -50761,7 +50806,7 @@
   },
   {
     "name": "KOLIOS ΠΑΡΑΔΟΣΙΑΚΟ ΤΥΡΙ ΗΜΙΣΚΛ. 12/370G",
-    "price": 5.9,
+    "price": 4.9,
     "merchant": "Galaxias"
   },
   {
@@ -54891,7 +54936,7 @@
   },
   {
     "name": "ΚΡΙ ΚΡΙ KIDS PEPPA ΦΡ-ΜΠΙΣ. 3X140G(2+1",
-    "price": 1.72,
+    "price": 1.81,
     "merchant": "ΑΒ Βασιλόπουλος"
   },
   {
@@ -54911,7 +54956,7 @@
   },
   {
     "name": "ΚΡΙ ΚΡΙ BABIES ΓΙΑΟΥΡΤΙ ΠΑΙΔ. 10/2Χ140G",
-    "price": 1.95,
+    "price": 2.05,
     "merchant": "ΑΒ Βασιλόπουλος"
   },
   {
@@ -54921,7 +54966,7 @@
   },
   {
     "name": "ΚΡΙ ΚΡΙ BABIES ΓΙΑΟΥΡΤΙ ΠΑΙΔ. 10/2Χ140G",
-    "price": 2.04,
+    "price": 2.15,
     "merchant": "efresh"
   },
   {
@@ -59866,7 +59911,7 @@
   },
   {
     "name": "KINGS SOFT COOKIE CHOC. 10/160G",
-    "price": 2.14,
+    "price": 2.28,
     "merchant": "ΑΒ Βασιλόπουλος"
   },
   {
@@ -59921,7 +59966,7 @@
   },
   {
     "name": "KINGS SOFT COOKIE DARK CHOC. 10/160G",
-    "price": 2.14,
+    "price": 2.28,
     "merchant": "ΑΒ Βασιλόπουλος"
   },
   {
@@ -59976,7 +60021,7 @@
   },
   {
     "name": "KINGS SOFT COOKIE TR. CHOC. 10/160G",
-    "price": 2.14,
+    "price": 2.28,
     "merchant": "ΑΒ Βασιλόπουλος"
   },
   {
@@ -60031,7 +60076,7 @@
   },
   {
     "name": "ΑΛΛΑΤΙΝΗ COOK. ΚΑΚ. &ΚΟΜ. ΣΟΚ12/175G(2Τ-0. 7",
-    "price": 2.4,
+    "price": 2.66,
     "merchant": "ΑΒ Βασιλόπουλος"
   },
   {
@@ -61371,7 +61416,7 @@
   },
   {
     "name": "ΟΙΚ. ΣΤΕΡΓΙΟΥ ΤΣΟΥΡΕΚΙ ΜΑΣΤΙΧΑ16/380G",
-    "price": 2.52,
+    "price": 2.38,
     "merchant": "My Market"
   },
   {
@@ -62496,7 +62541,7 @@
   },
   {
     "name": "ΦΡΕΣΚΟΥΛΗΣ ΙΤΑΛΙΚΗ ΟΙΚΟΓΕΝΕΙΑΚΗ 425G",
-    "price": 2.98,
+    "price": 2.53,
     "merchant": "Μασούτης"
   },
   {
@@ -62686,7 +62731,7 @@
   },
   {
     "name": "ΦΡΕΣΚΟΥΛΗΣ ΚΑΠΡΙΤΣΙΟΖΑ ΟΙΚΟΓΕΝΕΙΑΚΗ 335G",
-    "price": 3.2,
+    "price": 2.72,
     "merchant": "Μασούτης"
   },
   {
@@ -62841,7 +62886,7 @@
   },
   {
     "name": "ΦΡΕΣΚΟΥΛΗΣ ΣΑΛΑΤΑ ΙΤΑΛΙΚΗ 200G(T. Τ. )",
-    "price": 1.65,
+    "price": 1.4,
     "merchant": "Μασούτης"
   },
   {
@@ -62906,7 +62951,7 @@
   },
   {
     "name": "ΦΡΕΣΚΟΥΛΗΣ ΣΑΛΑΤΑ ΠΑΝΔΑΙΣΙΑ 160G(ΤΤ)",
-    "price": 1.98,
+    "price": 1.68,
     "merchant": "Μασούτης"
   },
   {
@@ -63123,11 +63168,6 @@
     "name": "GREEN COLA 6/1. 5L",
     "price": 1.1,
     "merchant": "Lidl"
-  },
-  {
-    "name": "GREEN COLA 6/1. 5L",
-    "price": 1.55,
-    "merchant": "Market In"
   },
   {
     "name": "GREEN COLA 6/1. 5L",
@@ -64226,7 +64266,7 @@
   },
   {
     "name": "ALFA ΤΟΡΤΙΓΙΑ ΚΛΑΣΙΚΗ (6 ΤΕΜ) 370G",
-    "price": 0.85,
+    "price": 2.32,
     "merchant": "Bazaar"
   },
   {
@@ -64408,11 +64448,6 @@
     "name": "ΑΛΤΙΣ ΕΛΑΙΟΛΑΔΟ ΚΛΑΣΙΚΟ 12/1L",
     "price": 10.05,
     "merchant": "Galaxias"
-  },
-  {
-    "name": "ΑΛΤΙΣ ΕΛΑΙΟΛΑΔΟ ΚΛΑΣΙΚΟ 12/1L",
-    "price": 8.99,
-    "merchant": "Market In"
   },
   {
     "name": "ΑΛΤΙΣ ΕΛΑΙΟΛΑΔΟ ΚΛΑΣΙΚΟ 12/1L",
@@ -65426,7 +65461,7 @@
   },
   {
     "name": "ΜΑΝΙΤΑΡΙΑ ΦΡΕΣΚΑ ΕΙΣ. 500G (ΤΙΜΗ ΤΜΧ)",
-    "price": 2.55,
+    "price": 2.65,
     "merchant": "Synka"
   },
   {
@@ -69896,7 +69931,7 @@
   },
   {
     "name": "LURPAK SOFT ΜΕ ΜΕΙΩΜ. ΛΙΠ. ΑΝΑΛ. 12/400G",
-    "price": 5.33,
+    "price": 4.53,
     "merchant": "Μασούτης"
   },
   {
@@ -73071,7 +73106,7 @@
   },
   {
     "name": "NESCAFE ESPRESSO AZERA 12/95G.",
-    "price": 6.19,
+    "price": 7.28,
     "merchant": "Μασούτης"
   },
   {
@@ -73086,7 +73121,7 @@
   },
   {
     "name": "NESCAFE ESPRESSO AZERA 12/95G.",
-    "price": 6.22,
+    "price": 7.32,
     "merchant": "Synka"
   },
   {
@@ -73556,7 +73591,7 @@
   },
   {
     "name": "NESCAFE ESPRESSO AZERA DECAF 6/100G",
-    "price": 5.76,
+    "price": 6.78,
     "merchant": "Μασούτης"
   },
   {
@@ -74056,7 +74091,7 @@
   },
   {
     "name": "NESCAFE ΣΤΙΓΜ. ΚΑΦ. GOLD BLEND 12/95G",
-    "price": 5.74,
+    "price": 6.75,
     "merchant": "Μασούτης"
   },
   {
@@ -74071,7 +74106,7 @@
   },
   {
     "name": "NESCAFE ΣΤΙΓΜ. ΚΑΦ. GOLD BLEND 12/95G",
-    "price": 5.75,
+    "price": 6.77,
     "merchant": "Synka"
   },
   {
@@ -74096,7 +74131,7 @@
   },
   {
     "name": "NESCAFE ΣΤΙΓΜ. ΚΑΦ. GOLD BLEND 6/190G",
-    "price": 10.6,
+    "price": 12.47,
     "merchant": "Μασούτης"
   },
   {
@@ -74111,7 +74146,7 @@
   },
   {
     "name": "NESCAFE ΣΤΙΓΜ. ΚΑΦ. GOLD BLEND 6/190G",
-    "price": 10.62,
+    "price": 12.49,
     "merchant": "Synka"
   },
   {
@@ -74661,11 +74696,6 @@
   },
   {
     "name": "ΠΑΥΛΙΔΗΣ ΚΟΥΒΕΡΤΟΥΡΑ 18/125G(3TEM-0. 50)",
-    "price": 7.72,
-    "merchant": "Synka"
-  },
-  {
-    "name": "ΠΑΥΛΙΔΗΣ ΚΟΥΒΕΡΤΟΥΡΑ 18/125G(3TEM-0. 50)",
     "price": 3.19,
     "merchant": "Xalkiadakis"
   },
@@ -75028,11 +75058,6 @@
     "name": "HALLS CHERRY ΚΑΡ ΧΩΡΙΣ ΖΑΧΑΡΗ. 28G",
     "price": 1.17,
     "merchant": "Galaxias"
-  },
-  {
-    "name": "HALLS CHERRY ΚΑΡ ΧΩΡΙΣ ΖΑΧΑΡΗ. 28G",
-    "price": 0.69,
-    "merchant": "Market In"
   },
   {
     "name": "HALLS CHERRY ΚΑΡ ΧΩΡΙΣ ΖΑΧΑΡΗ. 28G",
@@ -75406,6 +75431,11 @@
   },
   {
     "name": "GILLETTE BL. II PLUS SLALOM SENS 20/5TΕΜ",
+    "price": 4.74,
+    "merchant": "Market In"
+  },
+  {
+    "name": "GILLETTE BL. II PLUS SLALOM SENS 20/5TΕΜ",
     "price": 4.83,
     "merchant": "Μασούτης"
   },
@@ -75438,6 +75468,11 @@
     "name": "GILLETTE BLUE II ΞΥΡ. MΗΧ. ΣΤΑΘ. ΚΕΦ. 20/5Τ",
     "price": 2.96,
     "merchant": "Galaxias"
+  },
+  {
+    "name": "GILLETTE BLUE II ΞΥΡ. MΗΧ. ΣΤΑΘ. ΚΕΦ. 20/5Τ",
+    "price": 2.99,
+    "merchant": "Market In"
   },
   {
     "name": "GILLETTE BLUE II ΞΥΡ. MΗΧ. ΣΤΑΘ. ΚΕΦ. 20/5Τ",
@@ -75613,6 +75648,11 @@
     "name": "GILLETTE FUSION ΞΥΡΑΦΑΚΙΑ ΑΝΤ/ΚΑ 10/4ΤΕ",
     "price": 17.44,
     "merchant": "Galaxias"
+  },
+  {
+    "name": "GILLETTE FUSION ΞΥΡΑΦΑΚΙΑ ΑΝΤ/ΚΑ 10/4ΤΕ",
+    "price": 17.39,
+    "merchant": "Market In"
   },
   {
     "name": "GILLETTE FUSION ΞΥΡΑΦΑΚΙΑ ΑΝΤ/ΚΑ 10/4ΤΕ",
@@ -76626,11 +76666,6 @@
   },
   {
     "name": "ALWAYS PROTECT LONG ΣΕΡ/ΚΙΑ 4/(34+18Τ Δ)",
-    "price": 4.89,
-    "merchant": "efresh"
-  },
-  {
-    "name": "ALWAYS PROTECT LONG ΣΕΡ/ΚΙΑ 4/(34+18Τ Δ)",
     "price": 3.94,
     "merchant": "Μασούτης"
   },
@@ -76658,6 +76693,11 @@
     "name": "PANTENE ΑΝΑΔΟΜΗΣΗ ΜΑΣΚΑ ΜΑΛΛΙΩΝ 6/300ML.",
     "price": 6.78,
     "merchant": "Galaxias"
+  },
+  {
+    "name": "PANTENE ΑΝΑΔΟΜΗΣΗ ΜΑΣΚΑ ΜΑΛΛΙΩΝ 6/300ML.",
+    "price": 5.99,
+    "merchant": "Market In"
   },
   {
     "name": "PANTENE ΑΝΑΔΟΜΗΣΗ ΜΑΣΚΑ ΜΑΛΛΙΩΝ 6/300ML.",
@@ -76706,6 +76746,11 @@
   },
   {
     "name": "ALWAYS PLATINUM ULTRA NORMAL 8/16",
+    "price": 2.49,
+    "merchant": "Market In"
+  },
+  {
+    "name": "ALWAYS PLATINUM ULTRA NORMAL 8/16",
     "price": 2.99,
     "merchant": "Μασούτης"
   },
@@ -76751,6 +76796,11 @@
   },
   {
     "name": "ALWAYS PLATINUM ULTRA SUPER 10/14",
+    "price": 2.39,
+    "merchant": "Market In"
+  },
+  {
+    "name": "ALWAYS PLATINUM ULTRA SUPER 10/14",
     "price": 2.99,
     "merchant": "Μασούτης"
   },
@@ -76793,6 +76843,11 @@
     "name": "ALWAYS PLATINUM ULTRA NIGHT 10/12Τ",
     "price": 2.96,
     "merchant": "Galaxias"
+  },
+  {
+    "name": "ALWAYS PLATINUM ULTRA NIGHT 10/12Τ",
+    "price": 2.39,
+    "merchant": "Market In"
   },
   {
     "name": "ALWAYS PLATINUM ULTRA NIGHT 10/12Τ",
@@ -77441,6 +77496,11 @@
   },
   {
     "name": "PAMPERS PREMIUM CARE N. 6 13+KG 3/38TΕΜ.",
+    "price": 13.49,
+    "merchant": "Market In"
+  },
+  {
+    "name": "PAMPERS PREMIUM CARE N. 6 13+KG 3/38TΕΜ.",
     "price": 13.48,
     "merchant": "Μασούτης"
   },
@@ -77608,11 +77668,6 @@
     "name": "ALWAYS PROTECT EXLONG ΣΕΡ/ΚΙΑ 4/(32Τ+12)",
     "price": 2.0,
     "merchant": "ΑΒ Βασιλόπουλος"
-  },
-  {
-    "name": "ALWAYS PROTECT EXLONG ΣΕΡ/ΚΙΑ 4/(32Τ+12)",
-    "price": 4.89,
-    "merchant": "efresh"
   },
   {
     "name": "ALWAYS PROTECT EXLONG ΣΕΡ/ΚΙΑ 4/(32Τ+12)",
@@ -78408,6 +78463,11 @@
     "name": "ILLY ΚΑΦΕΣ ESPRESSO ΑΛΕΣΜΕΝΟΣ 12/250G",
     "price": 8.66,
     "merchant": "Galaxias"
+  },
+  {
+    "name": "ILLY ΚΑΦΕΣ ESPRESSO ΑΛΕΣΜΕΝΟΣ 12/250G",
+    "price": 8.76,
+    "merchant": "Market In"
   },
   {
     "name": "ILLY ΚΑΦΕΣ ESPRESSO ΑΛΕΣΜΕΝΟΣ 12/250G",
@@ -79331,6 +79391,11 @@
   },
   {
     "name": "PAMPERS PANTS N. 4 9-15KG 3/30ΤΕΜ",
+    "price": 8.49,
+    "merchant": "Market In"
+  },
+  {
+    "name": "PAMPERS PANTS N. 4 9-15KG 3/30ΤΕΜ",
     "price": 11.1,
     "merchant": "Μασούτης"
   },
@@ -79358,6 +79423,11 @@
     "name": "PAMPERS PANTS N. 5 12-17KG 3/28ΤΕΜ",
     "price": 7.71,
     "merchant": "Lidl"
+  },
+  {
+    "name": "PAMPERS PANTS N. 5 12-17KG 3/28ΤΕΜ",
+    "price": 8.49,
+    "merchant": "Market In"
   },
   {
     "name": "PAMPERS PANTS N. 5 12-17KG 3/28ΤΕΜ",
@@ -79473,6 +79543,11 @@
     "name": "ALWAYS ULTRA SECURE NIGHT 6/24Τ.",
     "price": 4.94,
     "merchant": "Galaxias"
+  },
+  {
+    "name": "ALWAYS ULTRA SECURE NIGHT 6/24Τ.",
+    "price": 3.99,
+    "merchant": "Market In"
   },
   {
     "name": "ALWAYS ULTRA SECURE NIGHT 6/24Τ.",
@@ -80238,6 +80313,11 @@
     "name": "ALWAYS PROTECT EXTR LONG ΣΕΡ/KΙΑ 8/24ΤΕΜ",
     "price": 2.19,
     "merchant": "Galaxias"
+  },
+  {
+    "name": "ALWAYS PROTECT EXTR LONG ΣΕΡ/KΙΑ 8/24ΤΕΜ",
+    "price": 2.39,
+    "merchant": "Market In"
   },
   {
     "name": "ALWAYS PROTECT EXTR LONG ΣΕΡ/KΙΑ 8/24ΤΕΜ",
@@ -81638,6 +81718,11 @@
     "name": "BARILLA ΠΕΝΝΕΣ ΡΙΓΕ ΝO 73 500G.",
     "price": 1.3,
     "merchant": "Galaxias"
+  },
+  {
+    "name": "BARILLA ΠΕΝΝΕΣ ΡΙΓΕ ΝO 73 500G.",
+    "price": 1.31,
+    "merchant": "Market In"
   },
   {
     "name": "BARILLA ΠΕΝΝΕΣ ΡΙΓΕ ΝO 73 500G.",
@@ -83056,7 +83141,7 @@
   },
   {
     "name": "NESCAFE AZERA FREDDO ESPR. INT. 6/90G",
-    "price": 5.93,
+    "price": 6.98,
     "merchant": "Μασούτης"
   },
   {
@@ -84056,11 +84141,6 @@
   },
   {
     "name": "KLINEX POWER 5 BLOCK ΠΡΑΣ. ΛΕΜΟΝΙ 9/55G",
-    "price": 2.83,
-    "merchant": "efresh"
-  },
-  {
-    "name": "KLINEX POWER 5 BLOCK ΠΡΑΣ. ΛΕΜΟΝΙ 9/55G",
     "price": 1.55,
     "merchant": "Μασούτης"
   },
@@ -84598,11 +84678,6 @@
     "name": "ULTREX ΣΑΜΠΟΥΑΝ LEGEND RONALDO 12/360ML",
     "price": 3.53,
     "merchant": "Xalkiadakis"
-  },
-  {
-    "name": "KLINEX WC BLOCK ΦΡΕΚΑΔΑ ΩΚΕΑΝΟΥ 9/55G",
-    "price": 2.83,
-    "merchant": "efresh"
   },
   {
     "name": "KLINEX WC BLOCK ΦΡΕΚΑΔΑ ΩΚΕΑΝΟΥ 9/55G",
@@ -86631,7 +86706,7 @@
   },
   {
     "name": "COLGATE ΟΔ/ΤΣΑ SLIM ΜΑΛΑΚΗ ΑΝΘΡ. 3Τ",
-    "price": 10.24,
+    "price": 5.12,
     "merchant": "Galaxias"
   },
   {
@@ -90956,7 +91031,7 @@
   },
   {
     "name": "COLGATE TB H. DENS. CHAR. 2T ΤΙΜΗ ΣΟΚ",
-    "price": 6.28,
+    "price": 3.14,
     "merchant": "Galaxias"
   },
   {
@@ -93232,76 +93307,4 @@
   {
     "name": "ΣΟΛΟΜΟΣ ΦΕΤΑ Μ/Δ ΝΩΠΟΣ ΣΥΣΚ/ΝΟ 4/250G",
     "price": 18.0,
-    "merchant": "Σκλαβενίτης"
-  },
-  {
-    "name": "ΣΟΛΟΜΟΣ ΦΕΤΑ Μ/Δ ΝΩΠΟΣ ΣΥΣΚ/ΝΟ 4/250G",
-    "price": 22.4,
-    "merchant": "Xalkiadakis"
-  },
-  {
-    "name": "ΣΟΛΟΜΟΣ SALMO SALAR ΦΙΛΕΤΑΡΙΣΜΕΝΟΣ ΥΔ ΕΙ",
-    "price": 23.99,
-    "merchant": "My Market"
-  },
-  {
-    "name": "ΣΟΛΟΜΟΣ SALMO SALAR ΦΙΛΕΤΑΡΙΣΜΕΝΟΣ ΥΔ ΕΙ",
-    "price": 19.8,
-    "merchant": "Σκλαβενίτης"
-  },
-  {
-    "name": "ΣΟΛΟΜΟΣ SALMO SALAR ΦΙΛΕΤΑΡΙΣΜΕΝΟΣ ΥΔ ΕΙ",
-    "price": 19.9,
-    "merchant": "Xalkiadakis"
-  },
-  {
-    "name": "COCA COLA ZERO 24/150ML",
-    "price": 0.8,
-    "merchant": "ΑΒ Βασιλόπουλος"
-  },
-  {
-    "name": "COCA COLA ZERO 24/150ML",
-    "price": 0.8,
-    "merchant": "Μασούτης"
-  },
-  {
-    "name": "COCA COLA ZERO 24/150ML",
-    "price": 0.8,
-    "merchant": "My Market"
-  },
-  {
-    "name": "COCA COLA ZERO 24/150ML",
-    "price": 0.8,
-    "merchant": "Σκλαβενίτης"
-  },
-  {
-    "name": "COCA COLA ZERO 24/150ML",
-    "price": 0.8,
-    "merchant": "Synka"
-  },
-  {
-    "name": "COCA COLA ZERO 24/150ML",
-    "price": 0.73,
-    "merchant": "Xalkiadakis"
-  },
-  {
-    "name": "ΣΟΛΟΜΟΣ ΦΙΛΕΤΟ Μ/Δ ΝΩΠΟ 4/250G",
-    "price": 19.84,
-    "merchant": "Σκλαβενίτης"
-  },
-  {
-    "name": "ΣΟΛΟΜΟΣ ΦΙΛΕΤΟ Μ/Δ ΝΩΠΟ 4/250G",
-    "price": 24.9,
-    "merchant": "Xalkiadakis"
-  },
-  {
-    "name": "ALPILAND ESPRESSO 250ML",
-    "price": 1.35,
-    "merchant": "ΑΒ Βασιλόπουλος"
-  },
-  {
-    "name": "ALPILAND CAPPUCCINO 250ML",
-    "price": 1.35,
-    "merchant": "ΑΒ Βασιλόπουλος"
-  }
-]
+    "merchant": "Σκλ
