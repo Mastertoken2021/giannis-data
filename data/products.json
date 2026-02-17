@@ -11,7 +11,7 @@
   },
   {
     "name": "ΠΙΝΔΟΣ ΚΟΤΟΠΟΥΛΟ ΕΛΛΗΝΙΚΟ ΝΩΠΟ(ΤΙΜ. ΚΙΛ)",
-    "price": 3.0,
+    "price": 3,
     "merchant": "Σκλαβενίτης"
   },
   {
@@ -66,7 +66,7 @@
   },
   {
     "name": "ΑΓΓΕΛΑΚΗΣ ΚΟΤΟΠ. ΕΛΛΗΝ. ΝΩΠΟ ΔΙΣΚ. (Τ. Κ)",
-    "price": 3.0,
+    "price": 3,
     "merchant": "Σκλαβενίτης"
   },
   {
@@ -1936,7 +1936,7 @@
   },
   {
     "name": "MINI BABYBEL N. 8 16/160G",
-    "price": 4.0,
+    "price": 4,
     "merchant": "efresh"
   },
   {
@@ -3271,7 +3271,7 @@
   },
   {
     "name": "LISTERINE TOTAL CARE ΣΤΟΜ. ΔΙΑΛ. 500ML.",
-    "price": 4.0,
+    "price": 4,
     "merchant": "Xalkiadakis"
   },
   {
@@ -3311,7 +3311,7 @@
   },
   {
     "name": "LISTERINE ADV. TART. CON. ΣΤ. ΔΙΑΛ 12/500ML",
-    "price": 4.0,
+    "price": 4,
     "merchant": "Xalkiadakis"
   },
   {
@@ -4406,7 +4406,7 @@
   },
   {
     "name": "PHILADELPHIA COTTAGE CHEESE 12/200G",
-    "price": 2.0,
+    "price": 2,
     "merchant": "Xalkiadakis"
   },
   {
@@ -6006,7 +6006,7 @@
   },
   {
     "name": "VILEDA ΣΥΣΤΗΜΑ ΚΑΘΑΡ TURBO SMART SPIN.",
-    "price": 53.0,
+    "price": 53,
     "merchant": "Μασούτης"
   },
   {
@@ -6126,7 +6126,7 @@
   },
   {
     "name": "FANTA ΠΟΡΤΟΚΑΛΑΔΑ 24/500 ML.",
-    "price": 1.0,
+    "price": 1,
     "merchant": "Galaxias"
   },
   {
@@ -6706,7 +6706,7 @@
   },
   {
     "name": "SCHWEPPES PINK GRAP. Κ/Τ 330ML (5+1)",
-    "price": 4.0,
+    "price": 4,
     "merchant": "Galaxias"
   },
   {
@@ -7411,7 +7411,7 @@
   },
   {
     "name": "MCVITIE'S ΜΠΙΣΚΟΤΑ DIGESTIVE 24/250G",
-    "price": 2.0,
+    "price": 2,
     "merchant": "Σκλαβενίτης"
   },
   {
@@ -7421,7 +7421,7 @@
   },
   {
     "name": "MCVITIE'S ΜΠΙΣΚΟΤΑ DIGESTIVE 24/250G",
-    "price": 2.0,
+    "price": 2,
     "merchant": "Xalkiadakis"
   },
   {
@@ -7961,7 +7961,7 @@
   },
   {
     "name": "FINISH POW. ALLN1 ΤΑΜΠ. ΠΛ. ΠΙΑΤ. LEM. 4/85Τ",
-    "price": 27.0,
+    "price": 27,
     "merchant": "Xalkiadakis"
   },
   {
@@ -8076,7 +8076,7 @@
   },
   {
     "name": "ΙΟΝ ΣΟΚΟΛΑΤΑ ΓΑΛΑΚΤΟΣ N. 1009 10/100G",
-    "price": 2.0,
+    "price": 2,
     "merchant": "Synka"
   },
   {
@@ -10571,7 +10571,7 @@
   },
   {
     "name": "ΕΛΑΙΟΛΑΔΟ Β.ΜΥΛΟΠΟΤΑΜΟΣ ΕΞ.ΠΑΡΘ ΠΟΠ 1Lt",
-    "price": 8.0,
+    "price": 8,
     "merchant": "Σκλαβενίτης"
   },
   {
@@ -10866,7 +10866,7 @@
   },
   {
     "name": "CHOCO BIG ΚΡΟΥΣ. ΓΙΓ. ΣΟΚ. NUCR. ION 12/250G",
-    "price": 2.0,
+    "price": 2,
     "merchant": "Bazaar"
   },
   {
@@ -10951,7 +10951,7 @@
   },
   {
     "name": "ΠΡΙΤΣΑΣ ΧΩΡΙΑΤΙΚΟ ΛΟΥΚΑΝΙΚΟ ΠΡΑΣΑΤΟ 400G",
-    "price": 4.0,
+    "price": 4,
     "merchant": "Σκλαβενίτης"
   },
   {
@@ -10986,7 +10986,7 @@
   },
   {
     "name": "ΚΩΣΤΗΛΑΤΑΣ ΦΥΣ. ΜΕΤ. ΝΕΡΟ 500ML (12ΤΕΜ)",
-    "price": 2.0,
+    "price": 2,
     "merchant": "Galaxias"
   },
   {
@@ -11916,7 +11916,7 @@
   },
   {
     "name": "ΣΑΛΑΤΑ ΕΛΛΗΝΙΚΗ BABY LEAF 100G(TIMH TEM)",
-    "price": 1.0,
+    "price": 1,
     "merchant": "Σκλαβενίτης"
   },
   {
@@ -11931,7 +11931,7 @@
   },
   {
     "name": "ΚΑΡΙΜΑΛΗ MELI ANTHEON KONOF BAZO920",
-    "price": 8.0,
+    "price": 8,
     "merchant": "Σκλαβενίτης"
   },
   {
@@ -12141,7 +12141,7 @@
   },
   {
     "name": "ΓΙΩΤΗΣ ΑΝΘΟΣ ΑΡΑΒ. ΦΡΑΟΥΛΑ ΣΤΙΓΜΗΣ 20/62G",
-    "price": 1.0,
+    "price": 1,
     "merchant": "Xalkiadakis"
   },
   {
@@ -12251,7 +12251,7 @@
   },
   {
     "name": "ΓΙΩΤΗΣ ΜΑΓΙΑ ΣΤΙΓΜΗΣ 20/24G(3ΤΕΜ. )",
-    "price": 1.0,
+    "price": 1,
     "merchant": "ΑΒ Βασιλόπουλος"
   },
   {
@@ -13051,7 +13051,7 @@
   },
   {
     "name": "SANILAC 2 ΓΑΛΑ ΠΑΙΔΙΚΟ 12/400G",
-    "price": 10.0,
+    "price": 10,
     "merchant": "efresh"
   },
   {
@@ -14001,7 +14001,7 @@
   },
   {
     "name": "ΠΑΠΑΔΟΠΟΥΛΟΥ ΜΠΙΣ. ΒΡ. Χ. ΖΑΧ. ΚΑΚΑΟ 12/155G",
-    "price": 2.0,
+    "price": 2,
     "merchant": "Xalkiadakis"
   },
   {
@@ -14111,7 +14111,7 @@
   },
   {
     "name": "ΠΑΠΑΔΟΠΟΥΛΟΥ ΠΤΙ ΜΠΕΡ. ΟΛ. ΑΛ. ΜΑΥΡ ΣΟΚ200G",
-    "price": 2.0,
+    "price": 2,
     "merchant": "efresh"
   },
   {
@@ -15696,7 +15696,7 @@
   },
   {
     "name": "ΠΑΠΑΔΟΠΟΥΛΟΥ ΧΩΡΙΑΝΟ ΟΛ. ΑΛ. ΜΕ DIN. 5/700G",
-    "price": 2.0,
+    "price": 2,
     "merchant": "Galaxias"
   },
   {
@@ -16141,7 +16141,7 @@
   },
   {
     "name": "ΑΜΙΤΑ ΦΡΟΥΤΟΠΟΤΟ ΒΥΣΣΙΝΟ 12/1L",
-    "price": 2.0,
+    "price": 2,
     "merchant": "Synka"
   },
   {
@@ -16191,7 +16191,7 @@
   },
   {
     "name": "ΑΜΙΤΑ ΦΡΟΥΤΟΠΟΤΟ ΡΟΔΑΚΙΝΟ 12/1L",
-    "price": 2.0,
+    "price": 2,
     "merchant": "Synka"
   },
   {
@@ -17691,7 +17691,7 @@
   },
   {
     "name": "MISKO ΚΡΙΘΑΡΑΚΙ ΧΟΝΔΡΟ 20/500 G",
-    "price": 1.0,
+    "price": 1,
     "merchant": "Bazaar"
   },
   {
@@ -17741,7 +17741,7 @@
   },
   {
     "name": "MISKO ΚΡΙΘΑΡΑΚΙ ΜΕΤΡΙΟ 20/500 G",
-    "price": 1.0,
+    "price": 1,
     "merchant": "Bazaar"
   },
   {
@@ -19746,7 +19746,7 @@
   },
   {
     "name": "PAPADIMITRIOU ΚΡΕΜΑ BALSAMICO 12/250ML",
-    "price": 3.0,
+    "price": 3,
     "merchant": "ΑΒ Βασιλόπουλος"
   },
   {
@@ -20326,7 +20326,7 @@
   },
   {
     "name": "LIFE ΧΥΜΟΣ ΜΗΛΟ-ΠΟΡΤ. -ΚΑΡΟΤΟ 6/1. 5L",
-    "price": 4.0,
+    "price": 4,
     "merchant": "Lidl"
   },
   {
@@ -20336,12 +20336,12 @@
   },
   {
     "name": "LIFE ΧΥΜΟΣ ΜΗΛΟ-ΠΟΡΤ. -ΚΑΡΟΤΟ 6/1. 5L",
-    "price": 4.0,
+    "price": 4,
     "merchant": "Μασούτης"
   },
   {
     "name": "LIFE ΧΥΜΟΣ ΜΗΛΟ-ΠΟΡΤ. -ΚΑΡΟΤΟ 6/1. 5L",
-    "price": 3.0,
+    "price": 3,
     "merchant": "My Market"
   },
   {
@@ -20351,7 +20351,7 @@
   },
   {
     "name": "LIFE ΧΥΜΟΣ ΜΗΛΟ-ΠΟΡΤ. -ΚΑΡΟΤΟ 6/1. 5L",
-    "price": 4.0,
+    "price": 4,
     "merchant": "Synka"
   },
   {
@@ -21046,17 +21046,17 @@
   },
   {
     "name": "ΔΕΛΤΑ ΡΟΦΗΜΑ ΑΜΥΓΔΑΛΟ Χ. ΖΑΧΑΡΗ 8/1. 5L",
-    "price": 3.0,
+    "price": 3,
     "merchant": "Galaxias"
   },
   {
     "name": "ΔΕΛΤΑ ΡΟΦΗΜΑ ΑΜΥΓΔΑΛΟ Χ. ΖΑΧΑΡΗ 8/1. 5L",
-    "price": 4.0,
+    "price": 4,
     "merchant": "Μασούτης"
   },
   {
     "name": "ΔΕΛΤΑ ΡΟΦΗΜΑ ΑΜΥΓΔΑΛΟ Χ. ΖΑΧΑΡΗ 8/1. 5L",
-    "price": 3.0,
+    "price": 3,
     "merchant": "My Market"
   },
   {
@@ -21071,27 +21071,27 @@
   },
   {
     "name": "ΔΕΛΤΑ ΡΟΦΗΜΑ ΒΡΩΜΗ & 3 SUPER ΣΠΟΡΟΙ 1. 5L",
-    "price": 3.0,
+    "price": 3,
     "merchant": "Galaxias"
   },
   {
     "name": "ΔΕΛΤΑ ΡΟΦΗΜΑ ΒΡΩΜΗ & 3 SUPER ΣΠΟΡΟΙ 1. 5L",
-    "price": 4.0,
+    "price": 4,
     "merchant": "Μασούτης"
   },
   {
     "name": "ΔΕΛΤΑ ΡΟΦΗΜΑ ΒΡΩΜΗ & 3 SUPER ΣΠΟΡΟΙ 1. 5L",
-    "price": 3.0,
+    "price": 3,
     "merchant": "My Market"
   },
   {
     "name": "ΔΕΛΤΑ ΡΟΦΗΜΑ ΒΡΩΜΗ & 3 SUPER ΣΠΟΡΟΙ 1. 5L",
-    "price": 3.0,
+    "price": 3,
     "merchant": "Σκλαβενίτης"
   },
   {
     "name": "ΔΕΛΤΑ ΡΟΦΗΜΑ ΒΡΩΜΗ & 3 SUPER ΣΠΟΡΟΙ 1. 5L",
-    "price": 4.0,
+    "price": 4,
     "merchant": "Synka"
   },
   {
@@ -22851,7 +22851,7 @@
   },
   {
     "name": "ΑΓΕΛΑΔΙΤΣΑ ΓΙΑΟΥΡΤΙ 4% ΛΙΠ. 4/200G(3ΤΕΜ)",
-    "price": 2.0,
+    "price": 2,
     "merchant": "Xalkiadakis"
   },
   {
@@ -23036,7 +23036,7 @@
   },
   {
     "name": "ΑΓΕΛΑΔΙΤΣΑ ΓΙΑΟΥΡΤΙ 2%ΛΙΠ. 4/200G(3ΤΕΜ)",
-    "price": 2.0,
+    "price": 2,
     "merchant": "Xalkiadakis"
   },
   {
@@ -23791,7 +23791,7 @@
   },
   {
     "name": "KYKNOS ΚΕΤΣΑΠ ΠΛ. ΦΙΑΛΗ T. D. Χ. ΓΛΟΥΤ 560G",
-    "price": 2.0,
+    "price": 2,
     "merchant": "Xalkiadakis"
   },
   {
@@ -23856,7 +23856,7 @@
   },
   {
     "name": "KYKNOS ΚΕΤΣΑΠ ΠΛ. ΦΙΑΛ. ΧΩΡ. ΖΑΧ&ΓΛΟΥΤ 550G",
-    "price": 3.0,
+    "price": 3,
     "merchant": "Μασούτης"
   },
   {
@@ -24496,7 +24496,7 @@
   },
   {
     "name": "KYKNOS ΤΟΜΑΤΑ ΠΕΡΑΣΤΗ ΣΤΟ ΜΥΛΟ 12/500G",
-    "price": 1.0,
+    "price": 1,
     "merchant": "Synka"
   },
   {
@@ -25791,7 +25791,7 @@
   },
   {
     "name": "ΧΩΡΙΟ ΕΞ. ΠΑΡΘ. ΕΛΑΙΟΛΑΔΟ ΚΟΡΩΝΕΙΚO 4/4L",
-    "price": 39.0,
+    "price": 39,
     "merchant": "efresh"
   },
   {
@@ -26071,12 +26071,12 @@
   },
   {
     "name": "PUMMARO ΣΠΙΤΙΚΗ ΤΟΜΑΤΑ 12/680G",
-    "price": 2.0,
+    "price": 2,
     "merchant": "Μασούτης"
   },
   {
     "name": "PUMMARO ΣΠΙΤΙΚΗ ΤΟΜΑΤΑ 12/680G",
-    "price": 2.0,
+    "price": 2,
     "merchant": "My Market"
   },
   {
@@ -26536,7 +26536,7 @@
   },
   {
     "name": "ΜΙΝΕΡΒΑ ΑΡΑΒΟΣΙΤΕΛΑΙΟ 8/2L(-1. 60)",
-    "price": 4.0,
+    "price": 4,
     "merchant": "Galaxias"
   },
   {
@@ -28561,7 +28561,7 @@
   },
   {
     "name": "PEPSI TWIST 330ML 4/(6 TEM )",
-    "price": 4.0,
+    "price": 4,
     "merchant": "Σκλαβενίτης"
   },
   {
@@ -29571,7 +29571,7 @@
   },
   {
     "name": "ΔΩΔΩΝΗ ΣΝΑΚ ΦΕΤΑ ΚΑΡΑΜΕΛΩΜ. ΚΡΕΜ. 10/50G",
-    "price": 2.0,
+    "price": 2,
     "merchant": "Galaxias"
   },
   {
@@ -29586,7 +29586,7 @@
   },
   {
     "name": "ΔΩΔΩΝΗ ΣΝΑΚ ΦΕΤΑ ΤΟΜΑΤΑ ΡΙΓΑΝΗ 10/50G",
-    "price": 2.0,
+    "price": 2,
     "merchant": "Galaxias"
   },
   {
@@ -30551,7 +30551,7 @@
   },
   {
     "name": "ΜΕΛΙΣΣΑ ΚΡΙΘΑΡΑΚΙ ΧΟΝΔΡΟ 12/500 G",
-    "price": 1.0,
+    "price": 1,
     "merchant": "efresh"
   },
   {
@@ -30596,7 +30596,7 @@
   },
   {
     "name": "ΜΕΛΙΣΣΑ ΚΡΙΘΑΡΑΚΙ ΜΕΤΡΙΟ 12/500 G",
-    "price": 1.0,
+    "price": 1,
     "merchant": "efresh"
   },
   {
@@ -30631,7 +30631,7 @@
   },
   {
     "name": "ΜΕΛΙΣΣΑ ΚΡΙΘΑΡΑΚΙ ΜΕΤΡΙΟ 12/500 G",
-    "price": 1.0,
+    "price": 1,
     "merchant": "Xalkiadakis"
   },
   {
@@ -30706,7 +30706,7 @@
   },
   {
     "name": "ΜΕΛΙΣΣΑ ΣΤΡΙΦΤΟ 15/500G.",
-    "price": 1.0,
+    "price": 1,
     "merchant": "My Market"
   },
   {
@@ -30751,7 +30751,7 @@
   },
   {
     "name": "ΜΕΛΙΣΣΑ ΠΕΝΝΕΣ ΑΠΛΕΣ 15/500G",
-    "price": 1.0,
+    "price": 1,
     "merchant": "My Market"
   },
   {
@@ -30986,7 +30986,7 @@
   },
   {
     "name": "ΜΕΛΙΣΣΑ ΠΕΝΝΕΣ ΡΙΓΕ 15/500G",
-    "price": 1.0,
+    "price": 1,
     "merchant": "My Market"
   },
   {
@@ -31571,7 +31571,7 @@
   },
   {
     "name": "ΜΕΛΙΣΣΑ ΣΠΑΓΓΕΤΙΝΗ Ν. 10 ΟΛΙΚ. ΑΛ. 20/500G",
-    "price": 1.0,
+    "price": 1,
     "merchant": "My Market"
   },
   {
@@ -33471,17 +33471,17 @@
   },
   {
     "name": "ΧΡΥΣΗ ΖΥΜΗ ΚΟΥΡΟΥ ΤΥΡΟΠΙΤΑΚΙΑ ΚΤΨ10/800G",
-    "price": 5.0,
+    "price": 5,
     "merchant": "Bazaar"
   },
   {
     "name": "ΧΡΥΣΗ ΖΥΜΗ ΚΟΥΡΟΥ ΤΥΡΟΠΙΤΑΚΙΑ ΚΤΨ10/800G",
-    "price": 5.0,
+    "price": 5,
     "merchant": "efresh"
   },
   {
     "name": "ΧΡΥΣΗ ΖΥΜΗ ΚΟΥΡΟΥ ΤΥΡΟΠΙΤΑΚΙΑ ΚΤΨ10/800G",
-    "price": 5.0,
+    "price": 5,
     "merchant": "Galaxias"
   },
   {
@@ -33491,7 +33491,7 @@
   },
   {
     "name": "ΧΡΥΣΗ ΖΥΜΗ ΚΟΥΡΟΥ ΤΥΡΟΠΙΤΑΚΙΑ ΚΤΨ10/800G",
-    "price": 5.0,
+    "price": 5,
     "merchant": "Μασούτης"
   },
   {
@@ -33501,7 +33501,7 @@
   },
   {
     "name": "ΧΡΥΣΗ ΖΥΜΗ ΚΟΥΡΟΥ ΤΥΡΟΠΙΤΑΚΙΑ ΚΤΨ10/800G",
-    "price": 5.0,
+    "price": 5,
     "merchant": "Σκλαβενίτης"
   },
   {
@@ -33716,7 +33716,7 @@
   },
   {
     "name": "ΧΡΥΣΗ ΖΥΜΗ ΡΟΛ. ΠΑΤ. & ΜΥΡΩΔ. VEGAN 12/500G",
-    "price": 3.0,
+    "price": 3,
     "merchant": "Xalkiadakis"
   },
   {
@@ -34421,12 +34421,12 @@
   },
   {
     "name": "ΜΠΑΡΜΠΑ ΣΤΑΘΗΣ ΜΑΡΟΥΛΕΝΙΑ 6/200G (ΤΤ)",
-    "price": 2.0,
+    "price": 2,
     "merchant": "Synka"
   },
   {
     "name": "ΜΠΑΡΜΠΑ ΣΤΑΘΗΣ ΜΑΡΟΥΛΕΝΙΑ 6/200G (ΤΤ)",
-    "price": 2.0,
+    "price": 2,
     "merchant": "Xalkiadakis"
   },
   {
@@ -35161,12 +35161,12 @@
   },
   {
     "name": "ΜΠΑΡΜΠΑ ΣΤΑΘΗΣ ΦΑΣΟΛΑΚΙΑ ΣΤΡ. ΒΙΟ. 20/450G",
-    "price": 4.0,
+    "price": 4,
     "merchant": "Synka"
   },
   {
     "name": "ΜΠΑΡΜΠΑ ΣΤΑΘΗΣ ΦΑΣΟΛΑΚΙΑ ΣΤΡ. ΒΙΟ. 20/450G",
-    "price": 4.0,
+    "price": 4,
     "merchant": "Xalkiadakis"
   },
   {
@@ -36456,7 +36456,7 @@
   },
   {
     "name": "EVERYDAY SENSITIVE UL. PL. X. LONG 18/18ΤE",
-    "price": 4.0,
+    "price": 4,
     "merchant": "Bazaar"
   },
   {
@@ -36746,12 +36746,12 @@
   },
   {
     "name": "BABYLINO SENS. Ν3 4-9KG ΟΙΚΟΝ. ΣΥΣΚ. 5/56Τ",
-    "price": 10.0,
+    "price": 10,
     "merchant": "Synka"
   },
   {
     "name": "BABYLINO SENS. Ν3 4-9KG ΟΙΚΟΝ. ΣΥΣΚ. 5/56Τ",
-    "price": 10.0,
+    "price": 10,
     "merchant": "Xalkiadakis"
   },
   {
@@ -36801,12 +36801,12 @@
   },
   {
     "name": "BABYLINO SENS MAXI Ν. 4 ΟΙΚ. 8-13KG 5/50T",
-    "price": 10.0,
+    "price": 10,
     "merchant": "Synka"
   },
   {
     "name": "BABYLINO SENS MAXI Ν. 4 ΟΙΚ. 8-13KG 5/50T",
-    "price": 10.0,
+    "price": 10,
     "merchant": "Xalkiadakis"
   },
   {
@@ -36851,12 +36851,12 @@
   },
   {
     "name": "BABYLINO SEN. MA. PL Ν. 4+ ΟΙΚ10-15KG 5/46Τ",
-    "price": 10.0,
+    "price": 10,
     "merchant": "Synka"
   },
   {
     "name": "BABYLINO SEN. MA. PL Ν. 4+ ΟΙΚ10-15KG 5/46Τ",
-    "price": 10.0,
+    "price": 10,
     "merchant": "Xalkiadakis"
   },
   {
@@ -36906,12 +36906,12 @@
   },
   {
     "name": "BABYLINO SENS JUNI N5 ΟΙΚ 11-16KG 5/44Τ",
-    "price": 10.0,
+    "price": 10,
     "merchant": "Synka"
   },
   {
     "name": "BABYLINO SENS JUNI N5 ΟΙΚ 11-16KG 5/44Τ",
-    "price": 10.0,
+    "price": 10,
     "merchant": "Xalkiadakis"
   },
   {
@@ -36961,12 +36961,12 @@
   },
   {
     "name": "BABYLINO SENS J. PL N5+ ΟΙΚ 12-17KG 5/42T",
-    "price": 10.0,
+    "price": 10,
     "merchant": "Synka"
   },
   {
     "name": "BABYLINO SENS J. PL N5+ ΟΙΚ 12-17KG 5/42T",
-    "price": 10.0,
+    "price": 10,
     "merchant": "Xalkiadakis"
   },
   {
@@ -38296,7 +38296,7 @@
   },
   {
     "name": "ΥΦΑΝΤΗΣ ΜΟΡΤΑΔΕΛΛΑ ΒΡΑΣΤΗ 12/200G",
-    "price": 2.0,
+    "price": 2,
     "merchant": "My Market"
   },
   {
@@ -38501,7 +38501,7 @@
   },
   {
     "name": "ΥΦΑΝΤΗΣ ΤΖΑΤΖΙΚΙ 8/400G",
-    "price": 3.0,
+    "price": 3,
     "merchant": "Σκλαβενίτης"
   },
   {
@@ -38726,7 +38726,7 @@
   },
   {
     "name": "TEZA ΚΑΤΣΑΡΙΔΟΚΤΟΝΟ SPRAY EXTRA 24/400ML",
-    "price": 5.0,
+    "price": 5,
     "merchant": "My Market"
   },
   {
@@ -39776,7 +39776,7 @@
   },
   {
     "name": "ROLI ΣΚΟΝΗ ΚΑΘΑΡΙΣΜΟΥ ΛΕΜΟΝΙ 24/500G",
-    "price": 1.0,
+    "price": 1,
     "merchant": "Σκλαβενίτης"
   },
   {
@@ -40396,7 +40396,7 @@
   },
   {
     "name": "ΧΡΥΣΕΛΙΑ ΚΛΑΣΙΚΟ ΕΛΑΙΟΛΑΔΟ 12/1L",
-    "price": 10.0,
+    "price": 10,
     "merchant": "Synka"
   },
   {
@@ -41811,7 +41811,7 @@
   },
   {
     "name": "PRACTIC ΓΑΝΤΙΑ LATEX MEDIUM 10/100ΤΕΜ",
-    "price": 4.0,
+    "price": 4,
     "merchant": "Σκλαβενίτης"
   },
   {
@@ -42271,7 +42271,7 @@
   },
   {
     "name": "NEOMAT ECO ΑΠΟΡ. ΠΛ. GEL BLUE 38Μ6/1. 71L",
-    "price": 5.0,
+    "price": 5,
     "merchant": "Synka"
   },
   {
@@ -42311,7 +42311,7 @@
   },
   {
     "name": "NEOMAT GEL ECO ΑΓ. ΤΡΙΑΝΤΑΦ. 38ΜΕΖ",
-    "price": 5.0,
+    "price": 5,
     "merchant": "Synka"
   },
   {
@@ -44006,7 +44006,7 @@
   },
   {
     "name": "SEPTONA ΩΤ/ΣΤΕΣ ΒΙΟΔ. ΣΑΚ. 24/200Τ.",
-    "price": 1.0,
+    "price": 1,
     "merchant": "efresh"
   },
   {
@@ -44326,7 +44326,7 @@
   },
   {
     "name": "SEPTONA ΜΩΡ/ΛΑ DERMA FAM. ΟΙΚ. 6/(3X100Τ)",
-    "price": 4.0,
+    "price": 4,
     "merchant": "Galaxias"
   },
   {
@@ -44381,7 +44381,7 @@
   },
   {
     "name": "SEPTONA ΣΕΡΒΊΕΤΕΣ MR. GRAND ΕΛΑΦΡΙΑΣ ΑΚΡΑΤΕΙΑΣ EXTRA 10Τ",
-    "price": 2.0,
+    "price": 2,
     "merchant": "Synka"
   },
   {
@@ -44531,7 +44531,7 @@
   },
   {
     "name": "ΗΠΕΙΡΟΣ ΦΕΤΑ ΠΟΠ ΜΕΡΙΔΕΣ ΣΕ ΑΛΜΗ 6/1KG",
-    "price": 14.0,
+    "price": 14,
     "merchant": "Synka"
   },
   {
@@ -46181,7 +46181,7 @@
   },
   {
     "name": "ΚΡΙΣ ΚΡΙΣ ΣΤΑΡΕΝΙΟ 350G",
-    "price": 1.0,
+    "price": 1,
     "merchant": "ΑΒ Βασιλόπουλος"
   },
   {
@@ -46206,12 +46206,12 @@
   },
   {
     "name": "ΚΡΙΣ ΚΡΙΣ ΣΤΑΡΕΝΙΟ 350G",
-    "price": 1.0,
+    "price": 1,
     "merchant": "My Market"
   },
   {
     "name": "ΚΡΙΣ ΚΡΙΣ ΣΤΑΡΕΝΙΟ 350G",
-    "price": 1.0,
+    "price": 1,
     "merchant": "Σκλαβενίτης"
   },
   {
@@ -46656,7 +46656,7 @@
   },
   {
     "name": "ΚΡΙΣ ΚΡΙΣ SELECTION CLASSIC TOAST 700G",
-    "price": 2.0,
+    "price": 2,
     "merchant": "Σκλαβενίτης"
   },
   {
@@ -46721,7 +46721,7 @@
   },
   {
     "name": "ΚΡΙΣ ΚΡΙΣ ΦΕΤΕΣ ΖΩΗΣ ΠΟΛΥΣΠΟΡΟ 500G",
-    "price": 2.0,
+    "price": 2,
     "merchant": "ΑΒ Βασιλόπουλος"
   },
   {
@@ -48196,7 +48196,7 @@
   },
   {
     "name": "BRAVO ΚΑΦΕΚΟΠΤΕΙΟ ΕΛ. ΚΑΦΕΣ 32/300G-0. 80.",
-    "price": 7.0,
+    "price": 7,
     "merchant": "ΑΒ Βασιλόπουλος"
   },
   {
@@ -48436,7 +48436,7 @@
   },
   {
     "name": "ZERO ΚΑΡΑΜΕΛΕΣ ΒΟΥΤΥΡΟΥ 12/32G",
-    "price": 1.0,
+    "price": 1,
     "merchant": "Galaxias"
   },
   {
@@ -50706,12 +50706,12 @@
   },
   {
     "name": "WETTEX ΣΦΟΥΓΓΑΡΑΚΙ ΚΟΥΖ. (2+2 ΔΩΡΟ)36ΤΕΜ",
-    "price": 2.0,
+    "price": 2,
     "merchant": "Μασούτης"
   },
   {
     "name": "WETTEX ΣΦΟΥΓΓΑΡΑΚΙ ΚΟΥΖ. (2+2 ΔΩΡΟ)36ΤΕΜ",
-    "price": 2.0,
+    "price": 2,
     "merchant": "Synka"
   },
   {
@@ -51506,7 +51506,7 @@
   },
   {
     "name": "ΣΥΝΕΡΓΑΣΙΑ ΧΡΥΣΗ ΚΡΗΤΗ ΘΥΜΑΡ. ΜΕΛΙ12/450G",
-    "price": 7.0,
+    "price": 7,
     "merchant": "Bazaar"
   },
   {
@@ -51586,22 +51586,22 @@
   },
   {
     "name": "NIKAS ΕΛΛ. ΚΟΥΖΙΝΑ ΣΠΑΝΑΚΟΡΥΖΟ 350GR",
-    "price": 4.0,
+    "price": 4,
     "merchant": "efresh"
   },
   {
     "name": "NIKAS ΕΛΛ. ΚΟΥΖΙΝΑ ΣΠΑΝΑΚΟΡΥΖΟ 350GR",
-    "price": 4.0,
+    "price": 4,
     "merchant": "Μασούτης"
   },
   {
     "name": "NIKAS ΕΛΛ. ΚΟΥΖΙΝΑ ΣΠΑΝΑΚΟΡΥΖΟ 350GR",
-    "price": 4.0,
+    "price": 4,
     "merchant": "Synka"
   },
   {
     "name": "NIKAS ΕΛΛ. ΚΟΥΖΙΝΑ ΦΑΣΟΛΑΚ. ΠΛΑΤΙΑ 350GR",
-    "price": 4.0,
+    "price": 4,
     "merchant": "Μασούτης"
   },
   {
@@ -51611,7 +51611,7 @@
   },
   {
     "name": "NIKAS ΕΛΛ. ΚΟΥΖΙΝΑ ΜΠΡΙΑΜ 350GR",
-    "price": 4.0,
+    "price": 4,
     "merchant": "Μασούτης"
   },
   {
@@ -51701,12 +51701,12 @@
   },
   {
     "name": "NIKAS ΕΛΛ. ΚΟΥΖΙΝΑ ΚΟΤΟΠ. ΡΥΖΙ 350GR",
-    "price": 5.0,
+    "price": 5,
     "merchant": "Μασούτης"
   },
   {
     "name": "NIKAS ΕΛΛ. ΚΟΥΖΙΝΑ ΜΟΣΧ. ΚΟΚΚ. ΑΡΑΚΑ 350GR",
-    "price": 6.0,
+    "price": 6,
     "merchant": "Μασούτης"
   },
   {
@@ -51766,7 +51766,7 @@
   },
   {
     "name": "NIKAS ΕΛΛ. ΚΟΥΖΙΝΑ ΚΟΛΟΚΥΘ. ΓΕΜΙΣΤA 400GR",
-    "price": 5.0,
+    "price": 5,
     "merchant": "Synka"
   },
   {
@@ -52901,7 +52901,7 @@
   },
   {
     "name": "ΟΛΥΜΠΟΣ ΓΙΑΟΥΡ. ΣΤΡ. 2%ΛΙΠ. 6/1KG(-0. 50)",
-    "price": 3.0,
+    "price": 3,
     "merchant": "Xalkiadakis"
   },
   {
@@ -53881,7 +53881,7 @@
   },
   {
     "name": "ΟΛΥΜΠΟΣ ΚΑΡΠΟΣ ΡΟΦΗΜΑ ΑΜΥΓΔΑΛΟΥ 12/1L",
-    "price": 3.0,
+    "price": 3,
     "merchant": "Μασούτης"
   },
   {
@@ -53891,12 +53891,12 @@
   },
   {
     "name": "ΟΛΥΜΠΟΣ ΚΑΡΠΟΣ ΡΟΦΗΜΑ ΑΜΥΓΔΑΛΟΥ 12/1L",
-    "price": 3.0,
+    "price": 3,
     "merchant": "Σκλαβενίτης"
   },
   {
     "name": "ΟΛΥΜΠΟΣ ΚΑΡΠΟΣ ΡΟΦΗΜΑ ΑΜΥΓΔΑΛΟΥ 12/1L",
-    "price": 3.0,
+    "price": 3,
     "merchant": "Synka"
   },
   {
@@ -53936,7 +53936,7 @@
   },
   {
     "name": "ΟΛΥΜΠΟΣ ΡΟΦΗΜΑ ΑΜΥΓΔΑΛΟΥ Χ. ΖΑΧ. 12/1L.",
-    "price": 3.0,
+    "price": 3,
     "merchant": "Μασούτης"
   },
   {
@@ -53946,12 +53946,12 @@
   },
   {
     "name": "ΟΛΥΜΠΟΣ ΡΟΦΗΜΑ ΑΜΥΓΔΑΛΟΥ Χ. ΖΑΧ. 12/1L.",
-    "price": 3.0,
+    "price": 3,
     "merchant": "Σκλαβενίτης"
   },
   {
     "name": "ΟΛΥΜΠΟΣ ΡΟΦΗΜΑ ΑΜΥΓΔΑΛΟΥ Χ. ΖΑΧ. 12/1L.",
-    "price": 3.0,
+    "price": 3,
     "merchant": "Synka"
   },
   {
@@ -54071,7 +54071,7 @@
   },
   {
     "name": "ΟΛΥΜΠΟΣ ΜΕΓΑΛΩΝΩ ΓΑΛΑ ΚΑΤΣΙΚΙΣΙΟ 12/1L",
-    "price": 3.0,
+    "price": 3,
     "merchant": "Galaxias"
   },
   {
@@ -54091,7 +54091,7 @@
   },
   {
     "name": "ΟΛΥΜΠΟΣ ΜΕΓΑΛΩΝΩ ΓΑΛΑ ΚΑΤΣΙΚΙΣΙΟ 12/1L",
-    "price": 3.0,
+    "price": 3,
     "merchant": "Synka"
   },
   {
@@ -55146,7 +55146,7 @@
   },
   {
     "name": "SEPTONA ΑΠΟΤΡΙΧΩΤΙΚΕΣ ΤΑΙΝΙΕΣ ΠΡΟΣΩΠΟΥ 20TEM ΓΑΛΑΞΙΑΣ SENSITIVE",
-    "price": 2.0,
+    "price": 2,
     "merchant": "Galaxias"
   },
   {
@@ -55166,7 +55166,7 @@
   },
   {
     "name": "SEPTONA 20 ΑΠΟΤΡ. ΤΑΙΝ. ΠΡΟΣ. ARGAN OIL ΓΑΛΑΞΙΑΣ+4MANT. ALOE",
-    "price": 2.0,
+    "price": 2,
     "merchant": "Galaxias"
   },
   {
@@ -55186,7 +55186,7 @@
   },
   {
     "name": "SEPTONA ΒΑΜΒΑΚΙ 100ΓΡ ΓΑΛΑΞΙΑΣ ΖΙΚ ΖΑΚ (*120)",
-    "price": 1.0,
+    "price": 1,
     "merchant": "Galaxias"
   },
   {
@@ -56456,7 +56456,7 @@
   },
   {
     "name": "ALFA ΦΥΛΛΟ ΣΦΟΛΙΑΤΑΣ ΤΟΥ ΧΕΡΙΟΥ 12/800G",
-    "price": 3.0,
+    "price": 3,
     "merchant": "Xalkiadakis"
   },
   {
@@ -56781,12 +56781,12 @@
   },
   {
     "name": "ALFA ΧΩΡΙΑΤΙΚΗ ΚΟΤΟΠΙΤΑ ΚΤΨ 6/900G",
-    "price": 9.0,
+    "price": 9,
     "merchant": "Bazaar"
   },
   {
     "name": "ALFA ΧΩΡΙΑΤΙΚΗ ΚΟΤΟΠΙΤΑ ΚΤΨ 6/900G",
-    "price": 9.0,
+    "price": 9,
     "merchant": "efresh"
   },
   {
@@ -57881,7 +57881,7 @@
   },
   {
     "name": "ΑΓΡΟΚΗΠΟΣ ΚΟΛΟΚΥΘΑ ΣΤΟΝ ΑΤΜΟ 400G.",
-    "price": 3.0,
+    "price": 3,
     "merchant": "Σκλαβενίτης"
   },
   {
@@ -58971,7 +58971,7 @@
   },
   {
     "name": "ΑΛΛΑΤΙΝΗ GOODY ΜΠΙΣΚ. ΒΟΥΤΥΡΟΥ 12/175 G",
-    "price": 2.0,
+    "price": 2,
     "merchant": "Galaxias"
   },
   {
@@ -58991,7 +58991,7 @@
   },
   {
     "name": "ΑΛΛΑΤΙΝΗ GOODY ΜΠΙΣΚ. ΒΟΥΤΥΡΟΥ 12/175 G",
-    "price": 2.0,
+    "price": 2,
     "merchant": "Σκλαβενίτης"
   },
   {
@@ -59331,7 +59331,7 @@
   },
   {
     "name": "ΑΛΛΑΤΙΝΗ SUP. COOK. ΒΡΩΜ ΣΟΚ. ΑΜΥΓΔ. 12/180G",
-    "price": 2.0,
+    "price": 2,
     "merchant": "Μασούτης"
   },
   {
@@ -59346,7 +59346,7 @@
   },
   {
     "name": "ΑΛΛΑΤΙΝΗ SUP. COOKIE ΒΡΩΜΗ ΚΡΑΝΜΠ. 12/180G",
-    "price": 2.0,
+    "price": 2,
     "merchant": "Μασούτης"
   },
   {
@@ -60236,12 +60236,12 @@
   },
   {
     "name": "PRACTIC ΓΑΝΤΙΑ LATEX LARGE 10/100ΤΕΜ",
-    "price": 4.0,
+    "price": 4,
     "merchant": "Galaxias"
   },
   {
     "name": "PRACTIC ΓΑΝΤΙΑ LATEX LARGE 10/100ΤΕΜ",
-    "price": 4.0,
+    "price": 4,
     "merchant": "Σκλαβενίτης"
   },
   {
@@ -60251,7 +60251,7 @@
   },
   {
     "name": "PRACTIC ΓΑΝΤΙΑ ΝΙΤΡΙΛ. ΜΑΥΡΑ MED. 12/50T.",
-    "price": 2.0,
+    "price": 2,
     "merchant": "Σκλαβενίτης"
   },
   {
@@ -60661,7 +60661,7 @@
   },
   {
     "name": "JUMBO ΓΑΡΙΔΑΡΕΣ ΧΩΡΙΣ ΓΛΟΥΤΕΝΗ 24/85",
-    "price": 1.0,
+    "price": 1,
     "merchant": "Market In"
   },
   {
@@ -60681,7 +60681,7 @@
   },
   {
     "name": "JUMBO ΓΑΡΙΔΑΡΕΣ ΧΩΡΙΣ ΓΛΟΥΤΕΝΗ 24/85",
-    "price": 1.0,
+    "price": 1,
     "merchant": "Synka"
   },
   {
@@ -60741,7 +60741,7 @@
   },
   {
     "name": "POP-O-TOP'S CLASSIC ΧΩΡ. ΓΛΟΤ. 85G",
-    "price": 1.0,
+    "price": 1,
     "merchant": "Market In"
   },
   {
@@ -61091,7 +61091,7 @@
   },
   {
     "name": "ΟΙΚ. ΣΤΕΡΓΙΟΥ ΤΣΟΥΡΕΚΑΚΙ ΠΡΑΛΙΝΑ 360G",
-    "price": 3.0,
+    "price": 3,
     "merchant": "Bazaar"
   },
   {
@@ -62766,7 +62766,7 @@
   },
   {
     "name": "GREEN COLA 6/1. 5L",
-    "price": 1.0,
+    "price": 1,
     "merchant": "Σκλαβενίτης"
   },
   {
@@ -62906,7 +62906,7 @@
   },
   {
     "name": "ROYAL ΓΑΛΑ ΖΑΧ. ΚΑΡΑΜΕΛΩΜΕΝΟ 12/395G",
-    "price": 2.0,
+    "price": 2,
     "merchant": "Xalkiadakis"
   },
   {
@@ -64576,7 +64576,7 @@
   },
   {
     "name": "ΒΙΤΑΜ SOFT 12/400G",
-    "price": 3.0,
+    "price": 3,
     "merchant": "Galaxias"
   },
   {
@@ -64591,7 +64591,7 @@
   },
   {
     "name": "ΒΙΤΑΜ SOFT 12/400G",
-    "price": 3.0,
+    "price": 3,
     "merchant": "Σκλαβενίτης"
   },
   {
@@ -65251,7 +65251,7 @@
   },
   {
     "name": "BEN'S ORIGINAL BASMATI 10' 12/500G",
-    "price": 4.0,
+    "price": 4,
     "merchant": "Galaxias"
   },
   {
@@ -65601,7 +65601,7 @@
   },
   {
     "name": "ALPRO ΡΟΦΗΜΑ ΣΟΓΙΑΣ PROFESSIONAL 12/1L",
-    "price": 3.0,
+    "price": 3,
     "merchant": "ΑΒ Βασιλόπουλος"
   },
   {
@@ -66151,7 +66151,7 @@
   },
   {
     "name": "COCA COLA ZERO 1L 3/(2TEM)",
-    "price": 3.0,
+    "price": 3,
     "merchant": "Xalkiadakis"
   },
   {
@@ -66466,7 +66466,7 @@
   },
   {
     "name": "COCA COLA LIGHT 1L 3/(2TEM)",
-    "price": 3.0,
+    "price": 3,
     "merchant": "My Market"
   },
   {
@@ -66976,7 +66976,7 @@
   },
   {
     "name": "COCA COLA LIGHT 2X1LT",
-    "price": 3.0,
+    "price": 3,
     "merchant": "My Market"
   },
   {
@@ -68776,7 +68776,7 @@
   },
   {
     "name": "ΜΠΛΕ ΤΥΡΙ ST. CLEMENS ΜΕΡΙΔΕΣ 100G",
-    "price": 2.0,
+    "price": 2,
     "merchant": "Σκλαβενίτης"
   },
   {
@@ -69491,7 +69491,7 @@
   },
   {
     "name": "LURPAK SOFT ΜΕ ΜΕΙΩΜ. ΛΙΠ. ΑΝΑΛ. 12/400G",
-    "price": 4.0,
+    "price": 4,
     "merchant": "Μασούτης"
   },
   {
@@ -71111,7 +71111,7 @@
   },
   {
     "name": "COLGATE BAKING SODA ΟΔΟΝΤΟΚΡΕΜΑ 12/75ML.",
-    "price": 2.0,
+    "price": 2,
     "merchant": "Μασούτης"
   },
   {
@@ -71121,7 +71121,7 @@
   },
   {
     "name": "COLGATE BAKING SODA ΟΔΟΝΤΟΚΡΕΜΑ 12/75ML.",
-    "price": 1.0,
+    "price": 1,
     "merchant": "Σκλαβενίτης"
   },
   {
@@ -72176,7 +72176,7 @@
   },
   {
     "name": "NESTLE FITNESS ΔΗΜΗΤ. DARK CHOC. 12/540G",
-    "price": 7.0,
+    "price": 7,
     "merchant": "efresh"
   },
   {
@@ -74061,7 +74061,7 @@
   },
   {
     "name": "CHIPITA CHIPS ΡΙΓΑΝΗ 12/80G ΠΤ 1. 00",
-    "price": 1.0,
+    "price": 1,
     "merchant": "ΑΒ Βασιλόπουλος"
   },
   {
@@ -74096,7 +74096,7 @@
   },
   {
     "name": "EXTRA ΤΥΡΟΓΑΡΙΔΑΚΙΑ ΤΥΡΙ 20/85G ΠΤ 1. 00",
-    "price": 1.0,
+    "price": 1,
     "merchant": "ΑΒ Βασιλόπουλος"
   },
   {
@@ -74521,7 +74521,7 @@
   },
   {
     "name": "HALLS CHERRY ΚΑΡ ΧΩΡΙΣ ΖΑΧΑΡΗ. 28G",
-    "price": 1.0,
+    "price": 1,
     "merchant": "Bazaar"
   },
   {
@@ -76151,7 +76151,7 @@
   },
   {
     "name": "PANTENE ΑΝΑΔΟΜΗΣΗ ΜΑΣΚΑ ΜΑΛΛΙΩΝ 6/300ML.",
-    "price": 6.0,
+    "price": 6,
     "merchant": "Xalkiadakis"
   },
   {
@@ -76791,7 +76791,7 @@
   },
   {
     "name": "ALWAYS MAXI NIGHT 10/9ΤΕΜ",
-    "price": 3.0,
+    "price": 3,
     "merchant": "ΑΒ Βασιλόπουλος"
   },
   {
@@ -77311,7 +77311,7 @@
   },
   {
     "name": "APEROL SPRITZ 8/200ML (3ΤΕΜ. )",
-    "price": 10.0,
+    "price": 10,
     "merchant": "Galaxias"
   },
   {
@@ -77321,7 +77321,7 @@
   },
   {
     "name": "APEROL SPRITZ 8/200ML (3ΤΕΜ. )",
-    "price": 10.0,
+    "price": 10,
     "merchant": "Μασούτης"
   },
   {
@@ -77561,7 +77561,7 @@
   },
   {
     "name": "FINISH MULTIB. GEL ΠΛ. ΠΙΑΤ. LEMON 5/940ML",
-    "price": 15.0,
+    "price": 15,
     "merchant": "efresh"
   },
   {
@@ -77946,12 +77946,12 @@
   },
   {
     "name": "RIO MARE ΤΟΝΟΣ ΕΛΑΙΟΥ ΣΕ ΦΑΚΕΛΟ 48/80G",
-    "price": 2.0,
+    "price": 2,
     "merchant": "Bazaar"
   },
   {
     "name": "RIO MARE ΤΟΝΟΣ ΕΛΑΙΟΥ ΣΕ ΦΑΚΕΛΟ 48/80G",
-    "price": 2.0,
+    "price": 2,
     "merchant": "efresh"
   },
   {
@@ -77991,7 +77991,7 @@
   },
   {
     "name": "RIO MARE ΤΟΝΟΣ AL NATURALE ΦΑΚ 48/80G",
-    "price": 2.0,
+    "price": 2,
     "merchant": "Bazaar"
   },
   {
@@ -78091,7 +78091,7 @@
   },
   {
     "name": "RIO MARE ΤΟΝΟΣ ΠΙΚΑΝΤΙΚΟΣ 130G 24/(2TEM)",
-    "price": 6.0,
+    "price": 6,
     "merchant": "Synka"
   },
   {
@@ -83081,7 +83081,7 @@
   },
   {
     "name": "ALWAYS ULTRA DAY&NIGHT GIGA PACK 6/32ΤΕΜ",
-    "price": 4.0,
+    "price": 4,
     "merchant": "Synka"
   },
   {
@@ -83241,7 +83241,7 @@
   },
   {
     "name": "MCCAIN ΠΑΤΑΤΕΣ TRADITION ΚΤΨ 12/1KG",
-    "price": 3.0,
+    "price": 3,
     "merchant": "Galaxias"
   },
   {
@@ -83726,7 +83726,7 @@
   },
   {
     "name": "KNORR ΣΠΙΤΙΚΟΣ ΖΩΜΟΣ ΒΟΔΙΝΟ 224ΓΡ",
-    "price": 3.0,
+    "price": 3,
     "merchant": "ΑΒ Βασιλόπουλος"
   },
   {
@@ -84651,7 +84651,7 @@
   },
   {
     "name": "DOUWE EGBERTS ESPRESSO ΣΤΙΓ. 6/185G",
-    "price": 10.0,
+    "price": 10,
     "merchant": "Μασούτης"
   },
   {
@@ -84681,7 +84681,7 @@
   },
   {
     "name": "DOUWE EGBERTS ΣΤ. ΚΑΦΕΣ ΦΟΥΝΤΟΥΚΙ 12/100G",
-    "price": 7.0,
+    "price": 7,
     "merchant": "Galaxias"
   },
   {
@@ -84721,7 +84721,7 @@
   },
   {
     "name": "DOUWE EGBERTS ΣΤ. ΚΑΦΕΣ ΚΑΡΑΜΕΛΑ 12/100G",
-    "price": 7.0,
+    "price": 7,
     "merchant": "Galaxias"
   },
   {
@@ -85766,7 +85766,7 @@
   },
   {
     "name": "MAILLE DIJON ΜΟΥΣΤΑΡΔΑ 6/215G",
-    "price": 3.0,
+    "price": 3,
     "merchant": "Xalkiadakis"
   },
   {
@@ -86101,7 +86101,7 @@
   },
   {
     "name": "KRAFT ΜΑΓΙΟΝΕΖΑ 15/185ML",
-    "price": 2.0,
+    "price": 2,
     "merchant": "Μασούτης"
   },
   {
@@ -86336,7 +86336,7 @@
   },
   {
     "name": "HEINZ ΚΕΤΣΑΠ ΠΛΑΣΤΙΚΗ ΦΙΑΛΗ TD 10/700G",
-    "price": 4.0,
+    "price": 4,
     "merchant": "efresh"
   },
   {
@@ -86611,7 +86611,7 @@
   },
   {
     "name": "ΝΟΥΝΟΥ ΣΥΜΠΥΚΝΩΜΕΝΟ ΓΑΛΑ 48/400G",
-    "price": 1.0,
+    "price": 1,
     "merchant": "Lidl"
   },
   {
@@ -86636,7 +86636,7 @@
   },
   {
     "name": "ΝΟΥΝΟΥ ΣΥΜΠΥΚΝΩΜΕΝΟ ΓΑΛΑ 48/400G",
-    "price": 1.0,
+    "price": 1,
     "merchant": "Xalkiadakis"
   },
   {
@@ -86686,7 +86686,7 @@
   },
   {
     "name": "ΝΟΥΝΟΥ ΣΥΜΠΥΚΝΩΜΕΝΟ ΓΑΛΑ LIGHT 48/400G.",
-    "price": 1.0,
+    "price": 1,
     "merchant": "Xalkiadakis"
   },
   {
@@ -86881,7 +86881,7 @@
   },
   {
     "name": "ΝΟΥΝΟΥ KID ΣΥΜΠ. ΡΟΦ. ΓΑΛΑΚΤΟΣ 400G 8/(6T)",
-    "price": 7.0,
+    "price": 7,
     "merchant": "Σκλαβενίτης"
   },
   {
@@ -86931,7 +86931,7 @@
   },
   {
     "name": "NOULAC ΣΥΜΠ. ΡΟΦΗΜΑ ΓΑΛΑΚΤ. 400G 8/(6ΤΕΜ)",
-    "price": 7.0,
+    "price": 7,
     "merchant": "Σκλαβενίτης"
   },
   {
@@ -88111,7 +88111,7 @@
   },
   {
     "name": "KNORR ΣΠΙΤΙΚΟΣ ΖΩΜΟΣ ΛΑΧΑΝΙΚΩΝ 8/8X28G",
-    "price": 3.0,
+    "price": 3,
     "merchant": "ΑΒ Βασιλόπουλος"
   },
   {
@@ -88151,7 +88151,7 @@
   },
   {
     "name": "KNORR ΣΠΙΤΙΚΟΣ ΖΩΜΟΣ ΚΟΤΑΣ 8/8X28G.",
-    "price": 3.0,
+    "price": 3,
     "merchant": "ΑΒ Βασιλόπουλος"
   },
   {
@@ -88291,7 +88291,7 @@
   },
   {
     "name": "ALMIRON EAZYPACK NΟ2 ΓΑΛΑ ΠΑΙΔΙΚΟ 6/800G",
-    "price": 20.0,
+    "price": 20,
     "merchant": "efresh"
   },
   {
@@ -88496,7 +88496,7 @@
   },
   {
     "name": "COLGATE ΟΔ/ΤΣΑ ΠΑΙΔ. 2-6 ΔΙΠΛ. ΣΥΣ. 12/27G",
-    "price": 3.0,
+    "price": 3,
     "merchant": "Μασούτης"
   },
   {
@@ -88511,7 +88511,7 @@
   },
   {
     "name": "COLGATE ΟΔ/ΤΣΑ ΠΑΙΔ. 2-6 ΔΙΠΛ. ΣΥΣ. 12/27G",
-    "price": 3.0,
+    "price": 3,
     "merchant": "Synka"
   },
   {
@@ -88696,7 +88696,7 @@
   },
   {
     "name": "COLGATE MAX WHITE CHARCOAL ΟΔ/ΜΑ12/75ML.",
-    "price": 2.0,
+    "price": 2,
     "merchant": "Xalkiadakis"
   },
   {
@@ -89856,7 +89856,7 @@
   },
   {
     "name": "SOUPLINE ΜΑΛ. ΣΥΜΠ. ΑΥΡ. ΔΡΟΣ. 56Μ12/1. 25L",
-    "price": 3.0,
+    "price": 3,
     "merchant": "Synka"
   },
   {
@@ -89991,7 +89991,7 @@
   },
   {
     "name": "SOUPLINE ΜΑΛ. ΣΥΜΠ. ΒΑΝ. ΜΑΝΤ. 56Μ12/1. 25ML",
-    "price": 3.0,
+    "price": 3,
     "merchant": "Synka"
   },
   {
@@ -90011,7 +90011,7 @@
   },
   {
     "name": "SOUPLINE ΜΑΛ. ΣΥΜΠ. ΜΑΝ. ΛΕΒ. 56Μ12/1. 25L",
-    "price": 3.0,
+    "price": 3,
     "merchant": "Synka"
   },
   {
@@ -91651,7 +91651,7 @@
   },
   {
     "name": "HELLMANNΆS REAL ΜΑΓΙΟΝΕΖΑ T. D. 6/750ML",
-    "price": 4.0,
+    "price": 4,
     "merchant": "Xalkiadakis"
   },
   {
@@ -91711,7 +91711,7 @@
   },
   {
     "name": "LIPTON ΤΣΑΙ ΚΙΤΡΙΝΟ 12/(20ΦΑΚ. Χ1. 5G)",
-    "price": 2.0,
+    "price": 2,
     "merchant": "Xalkiadakis"
   },
   {
@@ -92316,7 +92316,7 @@
   },
   {
     "name": "CAPTAIN IGLO ΦΙΛΕΤΟ ΜΠΑΚΑΛΙΑΡ. ΚΤΨ 8/240G",
-    "price": 3.0,
+    "price": 3,
     "merchant": "My Market"
   },
   {
@@ -92371,7 +92371,7 @@
   },
   {
     "name": "IGLO FISH STICKS ΚΤΨ 12/420G.",
-    "price": 5.0,
+    "price": 5,
     "merchant": "My Market"
   },
   {
@@ -92456,7 +92456,7 @@
   },
   {
     "name": "RED BULL ENERGY DRINK 24/250 ML",
-    "price": 1.0,
+    "price": 1,
     "merchant": "Synka"
   },
   {
@@ -92506,7 +92506,7 @@
   },
   {
     "name": "RED BULL SUGARFREE 24/250ML",
-    "price": 1.0,
+    "price": 1,
     "merchant": "Synka"
   },
   {
@@ -92540,4 +92540,58 @@
     "merchant": "Σκλαβενίτης"
   },
   {
-    "name": "ΣΟΛΟΜΟΣ SALMO SALAR Φ
+    "name": "ΣΟΛΟΜΟΣ SALMO SALAR ΦΙΛΕΤΑΡΙΣΜΕΝΟΣ ΥΔ ΕΙ",
+    "price": 19.9,
+    "merchant": "Xalkiadakis"
+  },
+  {
+    "name": "COCA COLA ZERO 24/150ML",
+    "price": 0.8,
+    "merchant": "ΑΒ Βασιλόπουλος"
+  },
+  {
+    "name": "COCA COLA ZERO 24/150ML",
+    "price": 1.24,
+    "merchant": "Galaxias"
+  },
+  {
+    "name": "COCA COLA ZERO 24/150ML",
+    "price": 0.8,
+    "merchant": "Μασούτης"
+  },
+  {
+    "name": "COCA COLA ZERO 24/150ML",
+    "price": 0.8,
+    "merchant": "Σκλαβενίτης"
+  },
+  {
+    "name": "COCA COLA ZERO 24/150ML",
+    "price": 0.83,
+    "merchant": "Synka"
+  },
+  {
+    "name": "COCA COLA ZERO 24/150ML",
+    "price": 0.78,
+    "merchant": "Xalkiadakis"
+  },
+  {
+    "name": "ΣΟΛΟΜΟΣ ΦΙΛΕΤΟ Μ/Δ ΝΩΠΟ 4/250G",
+    "price": 24.8,
+    "merchant": "Σκλαβενίτης"
+  },
+  {
+    "name": "ΣΟΛΟΜΟΣ ΦΙΛΕΤΟ Μ/Δ ΝΩΠΟ 4/250G",
+    "price": 24.9,
+    "merchant": "Xalkiadakis"
+  },
+  {
+    "name": "ALPILAND ESPRESSO 250ML",
+    "price": 1.25,
+    "merchant": "ΑΒ Βασιλόπουλος"
+  },
+  {
+    "name": "ALPILAND CAPPUCCINO 250ML",
+    "price": 1.25,
+    "merchant": "ΑΒ Βασιλόπουλος"
+  }
+]
