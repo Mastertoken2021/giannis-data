@@ -436,7 +436,7 @@
   },
   {
     "name": "ΣΠΑΛΑ ΒΟΕΙΟΥ ΓΕΡΜΑΝ. ΝΩΠΗ Α/Ο (ΤΙΜ. ΚΙΛ).",
-    "price": 16.4,
+    "price": 14.27,
     "merchant": "Μασούτης"
   },
   {
@@ -451,7 +451,7 @@
   },
   {
     "name": "ΒΟΕΙΟΝ ΣΠΑΛΑ ΕΛΛΗΝΙΚΟ Α/Ο(ΚΙΛΟ)ΝΩΠΟ",
-    "price": 16.4,
+    "price": 14.27,
     "merchant": "Μασούτης"
   },
   {
@@ -481,12 +481,12 @@
   },
   {
     "name": "ΚΙΛΟΤΟ ΒΟΕΙΟΥ ΓΕΡΜΑΝΙΑΣ ΝΩΠΟ Α/Ο(Τ. ΚΙΛ)",
-    "price": 17.4,
+    "price": 15.14,
     "merchant": "Μασούτης"
   },
   {
     "name": "ΒΟΕΙΟΝ ΚΙΛΟΤΟ ΕΛΛΗΝΙΚΟ ΝΩΠΟ",
-    "price": 17.4,
+    "price": 15.14,
     "merchant": "Μασούτης"
   },
   {
@@ -541,7 +541,7 @@
   },
   {
     "name": "ΕΛΙΑ ΒΟΕΙΟΥ ΓΕΡΜΑΝΙΑΣ ΝΩΠΗ Α/Ο(ΤΙΜ. ΚΙΛ. )",
-    "price": 16.4,
+    "price": 14.27,
     "merchant": "Μασούτης"
   },
   {
@@ -556,7 +556,7 @@
   },
   {
     "name": "ΒΟΕΙΟΝ ΕΛΙΑ ΕΛΛΗΝΙΚΟ Α/Ο (ΚΙΛΟ)ΝΩΠΟ",
-    "price": 16.4,
+    "price": 14.27,
     "merchant": "Μασούτης"
   },
   {
@@ -601,7 +601,7 @@
   },
   {
     "name": "ΜΕΛΙΤΖΑΝΑ ΦΛΑΣΚΑ ΕΓΧΩΡΙΑ (ΤΙΜΗ ΚΙΛΟΥ)",
-    "price": 3.63,
+    "price": 3.6,
     "merchant": "Σκλαβενίτης"
   },
   {
@@ -676,7 +676,7 @@
   },
   {
     "name": "ΠΑΤΑΤΕΣ ΚΡΗΤΗΣ ΔΙΧΤΥ(ΚΙΛΟ)",
-    "price": 0.74,
+    "price": 0.76,
     "merchant": "Σκλαβενίτης"
   },
   {
@@ -716,7 +716,7 @@
   },
   {
     "name": "ΠΑΤΑΤΕΣ ΚΥΠΡΟΥ ΣΥΣ/ΝΕΣ ΠΟΙΟΤ Α(ΤΙΜΗ ΚΙΛ)",
-    "price": 1.53,
+    "price": 1.55,
     "merchant": "Market In"
   },
   {
@@ -756,7 +756,7 @@
   },
   {
     "name": "ΠΑΤΑΤΕΣ ΧΥΜΑ ΕΙΣ. ΠΟΙΟΤΗΤΑ Α' (ΤΙΜΗ ΚΙΛ. )",
-    "price": 0.74,
+    "price": 0.76,
     "merchant": "Σκλαβενίτης"
   },
   {
@@ -1036,12 +1036,12 @@
   },
   {
     "name": "ΤΟΜΑΤΕΣ ΕΓΧΩΡΙΕΣ ΥΔΡΟΠΟΝΙΑΣ (ΤΙΜΗ ΚΙΛΟΥ)",
-    "price": 2.02,
+    "price": 1.94,
     "merchant": "My Market"
   },
   {
     "name": "ΤΟΜΑΤΕΣ ΕΓΧΩΡΙΕΣ ΥΔΡΟΠΟΝΙΑΣ (ΤΙΜΗ ΚΙΛΟΥ)",
-    "price": 1.94,
+    "price": 1.9,
     "merchant": "Σκλαβενίτης"
   },
   {
@@ -1091,22 +1091,22 @@
   },
   {
     "name": "ΝΤΟΜΑΤΕΣ A ΕΛΛΗΝΙΚΕΣ (ΚΙΛΟ)",
-    "price": 1.8,
+    "price": 1.94,
     "merchant": "Market In"
   },
   {
     "name": "ΝΤΟΜΑΤΕΣ A ΕΛΛΗΝΙΚΕΣ (ΚΙΛΟ)",
-    "price": 2.26,
+    "price": 1.94,
     "merchant": "Μασούτης"
   },
   {
     "name": "ΝΤΟΜΑΤΕΣ A ΕΛΛΗΝΙΚΕΣ (ΚΙΛΟ)",
-    "price": 2.02,
+    "price": 1.94,
     "merchant": "My Market"
   },
   {
     "name": "ΝΤΟΜΑΤΕΣ A ΕΛΛΗΝΙΚΕΣ (ΚΙΛΟ)",
-    "price": 1.94,
+    "price": 1.9,
     "merchant": "Σκλαβενίτης"
   },
   {
@@ -1141,7 +1141,7 @@
   },
   {
     "name": "ΤΟΜΑΤΙΝΙΑ ΒΕΛΑΝΙΔ. ΕΓΧ. ΠΟΙΟΤ. Α'(ΤΙΜ. ΚΙΛ)",
-    "price": 5.32,
+    "price": 5.4,
     "merchant": "Μασούτης"
   },
   {
@@ -1166,7 +1166,7 @@
   },
   {
     "name": "ΝΤΟΜΑΤΕΣ ΕΙΣΑΓΩΓΗΣ (ΚΙΛΟ)",
-    "price": 1.94,
+    "price": 1.9,
     "merchant": "Σκλαβενίτης"
   },
   {
@@ -1181,7 +1181,7 @@
   },
   {
     "name": "ΑΓΓΟΥΡΙΑ ΕΓΧΩΡΙΑ (TIMH ΤΕM)",
-    "price": 1.1,
+    "price": 1.12,
     "merchant": "Market In"
   },
   {
@@ -1196,17 +1196,17 @@
   },
   {
     "name": "ΑΓΓΟΥΡΙΑ ΕΓΧΩΡΙΑ (TIMH ΤΕM)",
-    "price": 1.12,
+    "price": 1,
     "merchant": "Σκλαβενίτης"
   },
   {
     "name": "ΑΓΓΟΥΡΙΑ ΕΓΧΩΡΙΑ (TIMH ΤΕM)",
-    "price": 3.18,
+    "price": 2.98,
     "merchant": "Synka"
   },
   {
     "name": "ΑΓΓΟΥΡΙΑ ΕΓΧΩΡΙΑ (TIMH ΤΕM)",
-    "price": 3.18,
+    "price": 2.98,
     "merchant": "Xalkiadakis"
   },
   {
@@ -1216,7 +1216,7 @@
   },
   {
     "name": "ΑΓΓΟΥΡΑΚΙΑ ΤΟΥ ΚΙΛΟΥ ΕΓΧΩΡΙΑ (ΤΙΜΗ ΚΙΛ)",
-    "price": 3.39,
+    "price": 2.88,
     "merchant": "My Market"
   },
   {
@@ -1331,7 +1331,7 @@
   },
   {
     "name": "ΚΑΡΟΤΑ ΕΓΧ (ΤΙΜΗ ΚΙΛ)",
-    "price": 0.73,
+    "price": 0.65,
     "merchant": "Σκλαβενίτης"
   },
   {
@@ -1356,7 +1356,7 @@
   },
   {
     "name": "FRISKIES ΞΗΡ. ΤΡ. ΓΑΤ. ΚΟΤ. -ΓΑΛ. -ΕΛ. 6/2KG",
-    "price": 7.84,
+    "price": 9.8,
     "merchant": "Galaxias"
   },
   {
@@ -1416,7 +1416,7 @@
   },
   {
     "name": "FRISKIES ΞΗΡ. Τ. ΓΑΤΑΣ ΒΟΔ. -ΚΟΤ. -ΛΑΧ. 6/2KG",
-    "price": 7.84,
+    "price": 9.8,
     "merchant": "Galaxias"
   },
   {
@@ -1501,7 +1501,7 @@
   },
   {
     "name": "NESCAFE CAPPUCCINO GOLD 6/10ΦΑΚ. (14G)",
-    "price": 3.38,
+    "price": 2.03,
     "merchant": "Μασούτης"
   },
   {
@@ -1551,7 +1551,7 @@
   },
   {
     "name": "NESCAFE CAPPUCCINO DECAF 6/10ΦΑΚ. (12. 5G)",
-    "price": 3.38,
+    "price": 2.03,
     "merchant": "Μασούτης"
   },
   {
@@ -1756,7 +1756,7 @@
   },
   {
     "name": "LAVACHE QR. ΦΕΤΕΣ CHEDDAR/BURGER 36/200G",
-    "price": 2.45,
+    "price": 2.72,
     "merchant": "Galaxias"
   },
   {
@@ -2101,7 +2101,7 @@
   },
   {
     "name": "LAVACHE QUI RIT ΤΥΡΟΒΟΥΤΙΕΣ. 4B 12/140G.",
-    "price": 2.56,
+    "price": 2.85,
     "merchant": "Galaxias"
   },
   {
@@ -2256,18 +2256,13 @@
   },
   {
     "name": "ΚΟΛΟΚΥΘΙΑ ΕΓΧΩΡΙΑ (TIMH ΚΙΛΟΥ).",
-    "price": 3.25,
+    "price": 2.98,
     "merchant": "Synka"
   },
   {
     "name": "ΚΟΛΟΚΥΘΙΑ ΕΓΧΩΡΙΑ (TIMH ΚΙΛΟΥ).",
     "price": 3.25,
     "merchant": "Xalkiadakis"
-  },
-  {
-    "name": "ΚΟΛΟΚΥΘΙΑ ΜΕ ΑΝΘΟ ΕΓΧΩΡΙΑ (ΤΙΜΗ ΚΙΛΟΥ)",
-    "price": 2.97,
-    "merchant": "Σκλαβενίτης"
   },
   {
     "name": "CAMPINGAZ ΦΙΑΛΙΔΙΟ ΥΓΡ. C206 GLS 36/190G",
@@ -2646,7 +2641,7 @@
   },
   {
     "name": "ΜΠΡΟΚΟΛΟ ΕΓΧΩΡΙΟ (ΤΙΜΗ ΚΙΛ. )",
-    "price": 3.09,
+    "price": 2.98,
     "merchant": "Synka"
   },
   {
@@ -2766,7 +2761,7 @@
   },
   {
     "name": "ΦΡΑΟΥΛΕΣ ΕΓΧ. ΠΟΙΟΤΗΤΑ Α' (ΤΙΜΗ ΚΙΛ. )",
-    "price": 7.89,
+    "price": 7.45,
     "merchant": "My Market"
   },
   {
@@ -2776,7 +2771,7 @@
   },
   {
     "name": "ΦΡΑΟΥΛΕΣ ΕΓΧ. ΠΟΙΟΤΗΤΑ Α' (ΤΙΜΗ ΚΙΛ. )",
-    "price": 6.49,
+    "price": 5.49,
     "merchant": "Synka"
   },
   {
@@ -2796,7 +2791,7 @@
   },
   {
     "name": "NESTLE FITNESS BARS ΣΟΚΟΛΑΤΑ 16/6ΤΕΜ.",
-    "price": 3.8,
+    "price": 2.85,
     "merchant": "Galaxias"
   },
   {
@@ -2941,7 +2936,7 @@
   },
   {
     "name": "NESTLE NESQUIK EXT. CHOC. WAV. ΔΗΜ. 22/375G",
-    "price": 3.21,
+    "price": 4.28,
     "merchant": "Galaxias"
   },
   {
@@ -2991,7 +2986,7 @@
   },
   {
     "name": "NESTLE COOKIE CRISP ΔΗΜΗΤΡΙΑΚΑ 18/375G",
-    "price": 3.24,
+    "price": 4.32,
     "merchant": "Galaxias"
   },
   {
@@ -3031,7 +3026,7 @@
   },
   {
     "name": "POP BAKERY ΑΦΡΑΤΗ ΖΥΜΗ ΓΙΑ ΠΙΤΣΑ 6/400G",
-    "price": 2.92,
+    "price": 3.65,
     "merchant": "Galaxias"
   },
   {
@@ -3421,18 +3416,13 @@
   },
   {
     "name": "ELVIVE COLOR VIVE ΣΑΜΠΟΥΑΝ 6/400ML",
-    "price": 5.42,
+    "price": 5.68,
     "merchant": "efresh"
   },
   {
     "name": "ELVIVE COLOR VIVE ΣΑΜΠΟΥΑΝ 6/400ML",
     "price": 5.43,
     "merchant": "Galaxias"
-  },
-  {
-    "name": "ELVIVE COLOR VIVE ΣΑΜΠΟΥΑΝ 6/400ML",
-    "price": 4.69,
-    "merchant": "Market In"
   },
   {
     "name": "ELVIVE COLOR VIVE ΣΑΜΠΟΥΑΝ 6/400ML",
@@ -3471,7 +3461,7 @@
   },
   {
     "name": "L'OREAL REVITALIFT LASER ΚΡ. ΗΜΕΡ. 6/50ML",
-    "price": 16.59,
+    "price": 17.42,
     "merchant": "Galaxias"
   },
   {
@@ -3506,7 +3496,7 @@
   },
   {
     "name": "ELVIVE EXTRA ORDINARY OIL UNIVER. 6/100ML",
-    "price": 10.24,
+    "price": 10.34,
     "merchant": "efresh"
   },
   {
@@ -3551,7 +3541,7 @@
   },
   {
     "name": "L'OREAL WRINKLE EXPERT 65+ ΚΡ. ΗΜ. 6/50ML",
-    "price": 6.99,
+    "price": 7.36,
     "merchant": "Galaxias"
   },
   {
@@ -3636,7 +3626,7 @@
   },
   {
     "name": "ELVIVE DREAM LONG ΣΑΜΠΟΥΑΝ 6/400ML",
-    "price": 5.42,
+    "price": 5.68,
     "merchant": "efresh"
   },
   {
@@ -3876,7 +3866,7 @@
   },
   {
     "name": "ELVIVE HYDRA ΣΑΜΠΟΥΑΝ HYALUR. 6/400ML",
-    "price": 5.42,
+    "price": 5.68,
     "merchant": "efresh"
   },
   {
@@ -3966,7 +3956,7 @@
   },
   {
     "name": "GARNIER MICELLAIRE ΝΕΡΟ ΝΤΕΜΑΚ. 6/400ML",
-    "price": 5.02,
+    "price": 7.73,
     "merchant": "Galaxias"
   },
   {
@@ -4046,7 +4036,7 @@
   },
   {
     "name": "FRUCTIS ΔΥΝΑΜΗ & ΛΑΜΨΗ ΣΑΜΠΟΥΑΝ 12/400ML",
-    "price": 3.78,
+    "price": 4.73,
     "merchant": "Galaxias"
   },
   {
@@ -4281,7 +4271,7 @@
   },
   {
     "name": "ΜΗΛΑ FUJI ΕΓΧ. ΠΟΙΟΤΗΤΑ Α'. (ΤΙΜΗ ΚΙΛ. )",
-    "price": 2.18,
+    "price": 1.74,
     "merchant": "Μασούτης"
   },
   {
@@ -4296,7 +4286,7 @@
   },
   {
     "name": "ΜΗΛΑ FUJI ΕΓΧ. ΠΟΙΟΤΗΤΑ Α'. (ΤΙΜΗ ΚΙΛ. )",
-    "price": 2.38,
+    "price": 2.48,
     "merchant": "Synka"
   },
   {
@@ -4381,7 +4371,7 @@
   },
   {
     "name": "PHILADELPHIA COTTAGE CHEESE 12/200G",
-    "price": 2.32,
+    "price": 2.9,
     "merchant": "Galaxias"
   },
   {
@@ -4426,7 +4416,7 @@
   },
   {
     "name": "PHILADELPHIA ΤΥΡΙ ΚΡΕΜΑ 20/200G",
-    "price": 2.34,
+    "price": 2.92,
     "merchant": "Galaxias"
   },
   {
@@ -4641,7 +4631,7 @@
   },
   {
     "name": "BEN'S ORIGINAL ΣΑΛΤΣΑ ΓΛΥΚΟΞ. 6/450G",
-    "price": 2.62,
+    "price": 3.27,
     "merchant": "Galaxias"
   },
   {
@@ -4726,7 +4716,7 @@
   },
   {
     "name": "KIT KAT ΓΚΟΦΡΕΤΑ ΜΕ ΣΟΚ ΓΑΛ 24/41. 5G.",
-    "price": 0.63,
+    "price": 0.79,
     "merchant": "Σκλαβενίτης"
   },
   {
@@ -4756,7 +4746,7 @@
   },
   {
     "name": "CRUNCH ΣΟΚΟΛΑΤΑ ΛΕΥΚΗ ΧΩΡ. ΓΛΟΥΤ. 100G",
-    "price": 1.89,
+    "price": 2.36,
     "merchant": "Galaxias"
   },
   {
@@ -4816,7 +4806,7 @@
   },
   {
     "name": "SMARTIES ΚΑΡΑΜΕΛΕΣ 24/38 G",
-    "price": 0.78,
+    "price": 0.98,
     "merchant": "Σκλαβενίτης"
   },
   {
@@ -4846,7 +4836,7 @@
   },
   {
     "name": "DUO NATURAL ΠΡΟΦΥΛΑΚΤΙΚΑ 6/12ΤΕΜ.",
-    "price": 8.08,
+    "price": 10.1,
     "merchant": "Galaxias"
   },
   {
@@ -4896,7 +4886,7 @@
   },
   {
     "name": "DUO EXTRA THIN ΠΡΟΦΥΛΑΚΤΙΚΑ 6/12ΤΕΜ.",
-    "price": 9.46,
+    "price": 11.83,
     "merchant": "Galaxias"
   },
   {
@@ -5216,7 +5206,7 @@
   },
   {
     "name": "NIVEA SENSITIVE AFTER SHAVE B. 6/100ML",
-    "price": 6.01,
+    "price": 5.55,
     "merchant": "Galaxias"
   },
   {
@@ -5421,7 +5411,7 @@
   },
   {
     "name": "KINDER PINGUI ΑΦΡΑΤΟ ΚΕΙΚ T4 120G",
-    "price": 2.43,
+    "price": 3.04,
     "merchant": "Galaxias"
   },
   {
@@ -5736,6 +5726,11 @@
   },
   {
     "name": "PAMPERS PREMIUM CARE N. 5 11-16KG 2/44T.",
+    "price": 13.99,
+    "merchant": "Market In"
+  },
+  {
+    "name": "PAMPERS PREMIUM CARE N. 5 11-16KG 2/44T.",
     "price": 13.48,
     "merchant": "Μασούτης"
   },
@@ -5781,6 +5776,11 @@
   },
   {
     "name": "ALWAYS ULTR SECUR NIGHT ΟΙΚ. ΣΥΣ. 12/12ΤΕΜ",
+    "price": 2.49,
+    "merchant": "Market In"
+  },
+  {
+    "name": "ALWAYS ULTR SECUR NIGHT ΟΙΚ. ΣΥΣ. 12/12ΤΕΜ",
     "price": 2.36,
     "merchant": "Μασούτης"
   },
@@ -5796,7 +5796,7 @@
   },
   {
     "name": "ALWAYS ULTR SECUR NIGHT ΟΙΚ. ΣΥΣ. 12/12ΤΕΜ",
-    "price": 2.99,
+    "price": 2.36,
     "merchant": "Synka"
   },
   {
@@ -5823,6 +5823,11 @@
     "name": "ALWAYS FRESH NORMAL ΣΕΡΒ/ΚΙΑ 6/20ΤΕΜ",
     "price": 1.48,
     "merchant": "Galaxias"
+  },
+  {
+    "name": "ALWAYS FRESH NORMAL ΣΕΡΒ/ΚΙΑ 6/20ΤΕΜ",
+    "price": 1.39,
+    "merchant": "Market In"
   },
   {
     "name": "ALWAYS FRESH NORMAL ΣΕΡΒ/ΚΙΑ 6/20ΤΕΜ",
@@ -5961,7 +5966,7 @@
   },
   {
     "name": "VILEDA ΠΕΤΣΕΤΑ ΜΙΚΡΟΪΝΩΝ COLORS 10/4ΤΕΜ.",
-    "price": 3.83,
+    "price": 2.3,
     "merchant": "Galaxias"
   },
   {
@@ -6001,7 +6006,7 @@
   },
   {
     "name": "VILEDA ΣΥΣΤΗΜΑ ΚΑΘΑΡ TURBO SMART SPIN.",
-    "price": 31.8,
+    "price": 53,
     "merchant": "Galaxias"
   },
   {
@@ -6046,7 +6051,7 @@
   },
   {
     "name": "LILA PAUSE MILKA ΣΟΚΟΛΑΤΑ ΦΡΑΟΥΛΑ 25/34G",
-    "price": 1.08,
+    "price": 0.92,
     "merchant": "Galaxias"
   },
   {
@@ -6171,7 +6176,7 @@
   },
   {
     "name": "FAIRY LEMON ΥΓΡΟ ΠΙΑΤΩΝ 8/900ML",
-    "price": 3.29,
+    "price": 2.89,
     "merchant": "Market In"
   },
   {
@@ -6401,7 +6406,7 @@
   },
   {
     "name": "ARLA PROTEIN ΠΟΥΤΙΓΚΑ ΑΛ. ΚΑΡΑΜΕΛΑ 6/200G",
-    "price": 1.98,
+    "price": 1.58,
     "merchant": "Galaxias"
   },
   {
@@ -6431,7 +6436,7 @@
   },
   {
     "name": "ARLA PROTEIN ΠΟΥΤΙΓΚΑ ΣΟΚ. Χ. Λ. 6/200G",
-    "price": 1.98,
+    "price": 1.58,
     "merchant": "Galaxias"
   },
   {
@@ -6476,7 +6481,7 @@
   },
   {
     "name": "ORAL-B ΑΝΤΑΛΛΑΚΤΙΚΑ CROSS ACTION 12/2T",
-    "price": 9.99,
+    "price": 11.24,
     "merchant": "Galaxias"
   },
   {
@@ -6506,7 +6511,7 @@
   },
   {
     "name": "MAGGI NOODLES ΓΕΥΣΗ ΚΟΤΟΠΟΥΛΟ 24/59. 2G.",
-    "price": 0.58,
+    "price": 0.77,
     "merchant": "Galaxias"
   },
   {
@@ -6591,7 +6596,7 @@
   },
   {
     "name": "QUAKER ΝΙΦΑΔΕΣ ΒΡΩΜΗΣ ΣΕ ΣΑΚΟΥΛΑ 16/500G",
-    "price": 2.27,
+    "price": 2.84,
     "merchant": "Galaxias"
   },
   {
@@ -6753,11 +6758,6 @@
     "name": "DETTOL SURF. CLEANS. ΑΝΤ/ΚΟ ΑΝΤΛΙΑ 6/500ML",
     "price": 2.13,
     "merchant": "Lidl"
-  },
-  {
-    "name": "DETTOL SURF. CLEANS. ΑΝΤ/ΚΟ ΑΝΤΛΙΑ 6/500ML",
-    "price": 2.99,
-    "merchant": "Market In"
   },
   {
     "name": "DETTOL SURF. CLEANS. ΑΝΤ/ΚΟ ΑΝΤΛΙΑ 6/500ML",
@@ -7201,7 +7201,7 @@
   },
   {
     "name": "KIT KAT ΜΙΝΙ ΣΟΚΟΛΑΤΑ 24/200G",
-    "price": 2.63,
+    "price": 3.14,
     "merchant": "Σκλαβενίτης"
   },
   {
@@ -7426,6 +7426,11 @@
   },
   {
     "name": "MCVITIE'S ΜΠΙΣΚΟΤΑ DIGESTIVE 24/250G",
+    "price": 1.92,
+    "merchant": "My Market"
+  },
+  {
+    "name": "MCVITIE'S ΜΠΙΣΚΟΤΑ DIGESTIVE 24/250G",
     "price": 1.4,
     "merchant": "Σκλαβενίτης"
   },
@@ -7556,7 +7561,7 @@
   },
   {
     "name": "BEN'S ORIGINAL ΡΥΖΙ ΜΕ ΛΑΧΑΝ. 2' 6/220G",
-    "price": 1.68,
+    "price": 2.1,
     "merchant": "Galaxias"
   },
   {
@@ -7586,7 +7591,7 @@
   },
   {
     "name": "BEN'S ORIGINAL ΡΥΖΙ BASMATI 2' 6/220G",
-    "price": 1.81,
+    "price": 2.26,
     "merchant": "Galaxias"
   },
   {
@@ -7721,13 +7726,8 @@
   },
   {
     "name": "DUREX CLASSIC ΠΡΟΦΥΛΑΚΤΙΚΑ 12/12ΤΕΜ",
-    "price": 9.68,
+    "price": 10.76,
     "merchant": "Galaxias"
-  },
-  {
-    "name": "DUREX CLASSIC ΠΡΟΦΥΛΑΚΤΙΚΑ 12/12ΤΕΜ",
-    "price": 8.99,
-    "merchant": "Market In"
   },
   {
     "name": "DUREX CLASSIC ΠΡΟΦΥΛΑΚΤΙΚΑ 12/12ΤΕΜ",
@@ -7996,7 +7996,7 @@
   },
   {
     "name": "NESCAFE LATTE CARAMEL 6/8ΦΑΚ. (17G)",
-    "price": 3.25,
+    "price": 1.95,
     "merchant": "Μασούτης"
   },
   {
@@ -8056,7 +8056,7 @@
   },
   {
     "name": "ΙΟΝ ΣΟΚΟΛΑΤΑ ΓΑΛΑΚΤΟΣ N. 1009 10/100G",
-    "price": 1.98,
+    "price": 2.48,
     "merchant": "Galaxias"
   },
   {
@@ -8106,7 +8106,7 @@
   },
   {
     "name": "ΙΟΝ ΣΟΚΟΛΑΤΑ ΓΑΛΑΚΤΟΣ N. 1014 10/70G.",
-    "price": 1.55,
+    "price": 1.94,
     "merchant": "Galaxias"
   },
   {
@@ -8201,7 +8201,7 @@
   },
   {
     "name": "ΙΟΝ ΣΟΚΟΛΑΤΑ ΦΟΥΝΤΟΥΚΙ 10/200G",
-    "price": 3.68,
+    "price": 4.6,
     "merchant": "Galaxias"
   },
   {
@@ -8246,7 +8246,7 @@
   },
   {
     "name": "ΙΟΝ ΣΟΚΟΛΑΤΑ Γ. ΑΜΥΓΔΑΛΟΥ N. 2209 10/100G",
-    "price": 2.48,
+    "price": 1.98,
     "merchant": "Galaxias"
   },
   {
@@ -8346,7 +8346,7 @@
   },
   {
     "name": "ΙΟΝ ΣΟΚΟΛΑΤΑ ΥΓΕΙΑΣ ΑΜ. 72%ΚΑΚΑΟ 10/100G",
-    "price": 2.48,
+    "price": 1.98,
     "merchant": "Galaxias"
   },
   {
@@ -8391,7 +8391,7 @@
   },
   {
     "name": "ΙΟΝ SERANO ΣΟΚΟΛΑΤΑ Ν. 4500 10/65 G",
-    "price": 1.44,
+    "price": 1.8,
     "merchant": "Galaxias"
   },
   {
@@ -8471,7 +8471,7 @@
   },
   {
     "name": "ΙΟΝ ΣΟΚΟΦΡΕΤΑ Ν. 8104 20/38G",
-    "price": 0.51,
+    "price": 0.64,
     "merchant": "Galaxias"
   },
   {
@@ -8521,7 +8521,7 @@
   },
   {
     "name": "ΙΟΝ ΣΟΚΟΦΡΕΤΑ ΦΟΥΝΤΟΥΚΙ N. 8110 20Τ/38G",
-    "price": 0.51,
+    "price": 0.64,
     "merchant": "Galaxias"
   },
   {
@@ -8611,7 +8611,7 @@
   },
   {
     "name": "ΙΟΝ ΣΟΚΟΦΡΕΤΑ ΥΓΕΙΑΣ Ν. 8114 20ΤΕΜ/38G",
-    "price": 0.51,
+    "price": 0.64,
     "merchant": "Galaxias"
   },
   {
@@ -8791,7 +8791,7 @@
   },
   {
     "name": "ΙΟΝ DERBY ΣΟΚΟΛΑΤΑ Ν. 9000 20 ΤΕM",
-    "price": 0.73,
+    "price": 0.58,
     "merchant": "Galaxias"
   },
   {
@@ -8846,7 +8846,7 @@
   },
   {
     "name": "ΓΑΡΙΔΕΣ ΑΠΟΦΛ. ΠΡΟΒΡ. (30-50)ΚΤΨ 24/500G",
-    "price": 7.64,
+    "price": 9.55,
     "merchant": "Galaxias"
   },
   {
@@ -8866,7 +8866,7 @@
   },
   {
     "name": "KLEENEX ΧΑΡ/ΛΑ 3Φ ΚΥΒ. COLLECT. 12/0. 080KG",
-    "price": 3.35,
+    "price": 2.68,
     "merchant": "Galaxias"
   },
   {
@@ -8901,7 +8901,7 @@
   },
   {
     "name": "DUREX PLEASUREMAX ΠΡΟΦΥΛΑΚΤΙΚΑ 12/12ΤEM",
-    "price": 11.68,
+    "price": 12.98,
     "merchant": "Galaxias"
   },
   {
@@ -8956,7 +8956,7 @@
   },
   {
     "name": "HEINZ ΚΕΤΣΑΠ ΛΙΓ. ΖΑΧΑΡ&ΑΛΑΤΙ TD 10/435G",
-    "price": 3.07,
+    "price": 3.28,
     "merchant": "Synka"
   },
   {
@@ -8976,7 +8976,7 @@
   },
   {
     "name": "DUREX CLASSIC ΠΡΟΦΥΛΑΚΤΙΚΑ 8/18Τ",
-    "price": 12.55,
+    "price": 13.94,
     "merchant": "Galaxias"
   },
   {
@@ -9066,7 +9066,7 @@
   },
   {
     "name": "PRINGLES ORIGINAL 19/165G",
-    "price": 3.38,
+    "price": 2.7,
     "merchant": "Galaxias"
   },
   {
@@ -9116,7 +9116,7 @@
   },
   {
     "name": "PRINGLES SOUR CREAM&ONION 19/165G.",
-    "price": 3.38,
+    "price": 2.7,
     "merchant": "Galaxias"
   },
   {
@@ -9166,7 +9166,7 @@
   },
   {
     "name": "PRINGLES ΠΑΠΡΙΚΑ 19/165G.",
-    "price": 3.38,
+    "price": 2.7,
     "merchant": "Galaxias"
   },
   {
@@ -9251,7 +9251,7 @@
   },
   {
     "name": "PARODONTAX COMP. PROT. E. F. ΟΔΟΝ/ΜΑ 12/75ML",
-    "price": 4.51,
+    "price": 3.61,
     "merchant": "Synka"
   },
   {
@@ -9271,7 +9271,7 @@
   },
   {
     "name": "SENSODYNE REPAIR&PROT. EXT. FR. ΟΔ. 12/75ML",
-    "price": 4.63,
+    "price": 3.7,
     "merchant": "Galaxias"
   },
   {
@@ -9346,7 +9346,7 @@
   },
   {
     "name": "SENSODYNE REPAIR & PROTECT ΟΔ/ΜΑ 12/75ML",
-    "price": 4.63,
+    "price": 3.7,
     "merchant": "Galaxias"
   },
   {
@@ -9386,7 +9386,7 @@
   },
   {
     "name": "SENSODYNE REPAIR & PROT. WHIT. 12/75ML",
-    "price": 4.84,
+    "price": 3.87,
     "merchant": "Galaxias"
   },
   {
@@ -9436,7 +9436,7 @@
   },
   {
     "name": "KELLOGGS KRAVE CHOCO NUT 10/410G",
-    "price": 3.54,
+    "price": 5.45,
     "merchant": "Galaxias"
   },
   {
@@ -9721,7 +9721,7 @@
   },
   {
     "name": "MONSTER ENERGY 24/500ML",
-    "price": 1.14,
+    "price": 1.52,
     "merchant": "Galaxias"
   },
   {
@@ -9766,7 +9766,7 @@
   },
   {
     "name": "MONSTER ABSOLUTELY ZERO 24/500ML",
-    "price": 1.14,
+    "price": 1.52,
     "merchant": "Galaxias"
   },
   {
@@ -9811,7 +9811,7 @@
   },
   {
     "name": "MONSTER ENERGY ZERO ULTRA 24/500ML",
-    "price": 1.14,
+    "price": 1.52,
     "merchant": "Galaxias"
   },
   {
@@ -9861,7 +9861,7 @@
   },
   {
     "name": "MONSTER JUICED MANGO LOCO 24/500ML",
-    "price": 1.14,
+    "price": 1.52,
     "merchant": "Galaxias"
   },
   {
@@ -9911,7 +9911,7 @@
   },
   {
     "name": "MONSTER HAMILTON ZERO SUGAR 24/500ML",
-    "price": 1.14,
+    "price": 1.52,
     "merchant": "Galaxias"
   },
   {
@@ -10026,7 +10026,7 @@
   },
   {
     "name": "ΒΙΟΛΑΝΤΑ ΜΠΙΣΚΟΤΑ ΒΡΩΜΗΣ ΜΕ ΜΕΛΙ. 12/200G",
-    "price": 1.94,
+    "price": 1.95,
     "merchant": "Lidl"
   },
   {
@@ -10076,7 +10076,7 @@
   },
   {
     "name": "ΒΙΟΛΑΝΤΑ ΜΠΙΣΚΟΤΑ ΒΡΩΜΗΣ CRANBER 12/200G",
-    "price": 1.94,
+    "price": 1.95,
     "merchant": "Lidl"
   },
   {
@@ -10126,7 +10126,7 @@
   },
   {
     "name": "ΒΙΟΛΑΝΤΑ ΜΠΙΣΚΟΤΑ ΒΡΩΜΗΣ ΣΟΚΟΛΑΤΑ12/200G",
-    "price": 1.94,
+    "price": 1.95,
     "merchant": "Lidl"
   },
   {
@@ -10746,7 +10746,7 @@
   },
   {
     "name": "ΚΟΥΚΑΚΗ ΚΕΦΙΡ 20/330ML",
-    "price": 1.2,
+    "price": 1.3,
     "merchant": "Lidl"
   },
   {
@@ -11276,7 +11276,7 @@
   },
   {
     "name": "SOFTEX SILK Χ/Υ 3Φ 8ΑΡΙ 8/0. 760KG",
-    "price": 3.49,
+    "price": 3.8,
     "merchant": "Galaxias"
   },
   {
@@ -11796,7 +11796,7 @@
   },
   {
     "name": "ΜΑΝΙΤΑΡΙΑ ΦΡΕΣΚ ΓΙΓΑΣ 500G ΕΙΣ. (Τ. ΤΕΜ)",
-    "price": 2.38,
+    "price": 2.4,
     "merchant": "Σκλαβενίτης"
   },
   {
@@ -12161,11 +12161,6 @@
   },
   {
     "name": "ΓΙΩΤΗΣ ΦΑΡΙΝΑ ΚΟΚΚΙΝΗ 12/500G",
-    "price": 1.19,
-    "merchant": "Market In"
-  },
-  {
-    "name": "ΓΙΩΤΗΣ ΦΑΡΙΝΑ ΚΟΚΚΙΝΗ 12/500G",
     "price": 1.25,
     "merchant": "Μασούτης"
   },
@@ -12486,7 +12481,7 @@
   },
   {
     "name": "ΓΙΩΤΗΣ S&B ΓΛΥΚ. ΜΕ STEVIA 12/40 (80G)",
-    "price": 3.64,
+    "price": 2.73,
     "merchant": "Galaxias"
   },
   {
@@ -12511,7 +12506,7 @@
   },
   {
     "name": "ΓΙΩΤΗΣ SWEET & BALANCE ΓΛΥΚ. ΚΡ. Μ. 12/500G",
-    "price": 7.28,
+    "price": 5.46,
     "merchant": "Galaxias"
   },
   {
@@ -12761,7 +12756,7 @@
   },
   {
     "name": "CAOTONIC ΡΟΦΗΜΑ ΣΑΚΟΥΛΑ 12/400G",
-    "price": 2.27,
+    "price": 3.24,
     "merchant": "Galaxias"
   },
   {
@@ -13011,11 +13006,6 @@
   },
   {
     "name": "SANILAC 1 ΓΑΛΑ ΓΙΑ ΒΡΕΦΗ 12/400G",
-    "price": 12.79,
-    "merchant": "Market In"
-  },
-  {
-    "name": "SANILAC 1 ΓΑΛΑ ΓΙΑ ΒΡΕΦΗ 12/400G",
     "price": 12.6,
     "merchant": "Μασούτης"
   },
@@ -13166,7 +13156,7 @@
   },
   {
     "name": "ΓΙΩΤΗΣ SW. &BAL. ΓΛΥΚΑΝΤ. STEVIA 12/100ΔΙΣΚ",
-    "price": 3.39,
+    "price": 2.54,
     "merchant": "Galaxias"
   },
   {
@@ -13226,7 +13216,7 @@
   },
   {
     "name": "ΓΙΩΤΗΣ ΚΡΕΜΑ ΚΑΡΑΜΕΛΕ ΕΠΙΔ. 4X100G",
-    "price": 2.86,
+    "price": 2.29,
     "merchant": "Galaxias"
   },
   {
@@ -13271,7 +13261,7 @@
   },
   {
     "name": "ΠΑΠΑΔΟΠΟΥΛΟΥ CHOCO ORANGE ΜΠΙΣΚ. 12/150G",
-    "price": 2.2,
+    "price": 1.87,
     "merchant": "Galaxias"
   },
   {
@@ -13316,7 +13306,7 @@
   },
   {
     "name": "CAPRICE CLASSIC 6/400G",
-    "price": 3.98,
+    "price": 3.78,
     "merchant": "Galaxias"
   },
   {
@@ -13366,7 +13356,7 @@
   },
   {
     "name": "ΠΑΠΑΔΟΠΟΥΛΟΥ DIGESTIVE ΣΟΚ. ΓΑΛ. 12/200G",
-    "price": 1.64,
+    "price": 2.05,
     "merchant": "Galaxias"
   },
   {
@@ -13411,7 +13401,7 @@
   },
   {
     "name": "ΠΑΠΑΔΟΠΟΥΛΟY ΜΠΙΣΚΟΤΑ DIGESTIVE 12/250G",
-    "price": 1.42,
+    "price": 1.78,
     "merchant": "Galaxias"
   },
   {
@@ -13461,7 +13451,7 @@
   },
   {
     "name": "ΠΑΠΑΔΟΠΟΥΛΟΥ DIGESTIVE ΧΩΡΙΣ ΖΑΧΑΡΗ 250G",
-    "price": 1.71,
+    "price": 2.14,
     "merchant": "Galaxias"
   },
   {
@@ -13511,7 +13501,7 @@
   },
   {
     "name": "ΠΑΠΑΔΟΠΟΥΛΟΥ ΜΠ. DIGESTIVE Μ. ΣΟΚ. 12/200G",
-    "price": 1.64,
+    "price": 2.05,
     "merchant": "Galaxias"
   },
   {
@@ -13561,7 +13551,7 @@
   },
   {
     "name": "ΠΑΠΑΔΟΠΟΥΛΟΥ DIG. ΕΠ. ΣΟΚ. 30% Λ. Ζ. 12/200G",
-    "price": 1.84,
+    "price": 2.3,
     "merchant": "Galaxias"
   },
   {
@@ -14021,7 +14011,7 @@
   },
   {
     "name": "ΠΑΠΑΔΟΠΟΥΛΟΥ ΠΤΙ ΜΠΕΡ ΜΠΙΣΚ. Χ. Ζ 20/225G",
-    "price": 1.45,
+    "price": 1.23,
     "merchant": "Galaxias"
   },
   {
@@ -14066,7 +14056,7 @@
   },
   {
     "name": "ΠΑΠΑΔΟΠΟΥΛΟΥ ΠΤΙ ΜΠΕΡ ΟΛ. ΑΛΕΣΗΣ 20/225G.",
-    "price": 1.3,
+    "price": 1.1,
     "merchant": "Galaxias"
   },
   {
@@ -14211,7 +14201,7 @@
   },
   {
     "name": "ΠΑΠΑΔΟΠΟΥΛΟΥ ΠΤΙ ΜΠΕΡ ΜΠΙΣΚΟΤΑ 20/225G",
-    "price": 1.1,
+    "price": 0.93,
     "merchant": "Galaxias"
   },
   {
@@ -14336,7 +14326,7 @@
   },
   {
     "name": "ΠΑΠΑΔΟΠΟΥΛΟΥ ΓΕΜΙΣΤΑ ΜΕ ΣΟΚΟΛΑΤ. 12/200G",
-    "price": 1.13,
+    "price": 1,
     "merchant": "Σκλαβενίτης"
   },
   {
@@ -14366,7 +14356,7 @@
   },
   {
     "name": "ΠΑΠΑΔΟΠΟΥΛΟΥ ΜΠ. ΓΕΜΙΣΤΑ ΛΕΜΟΝΙ 12/200G",
-    "price": 1.32,
+    "price": 1.47,
     "merchant": "Galaxias"
   },
   {
@@ -14386,7 +14376,7 @@
   },
   {
     "name": "ΠΑΠΑΔΟΠΟΥΛΟΥ ΜΠ. ΓΕΜΙΣΤΑ ΛΕΜΟΝΙ 12/200G",
-    "price": 1.17,
+    "price": 1.04,
     "merchant": "Σκλαβενίτης"
   },
   {
@@ -14416,7 +14406,7 @@
   },
   {
     "name": "ΠΑΠΑΔΟΠΟΥΛΟΥ ΓΕΜΙΣΤΑ ΦΡΑΟΥΛΑ 12/200G",
-    "price": 1.32,
+    "price": 1.47,
     "merchant": "Galaxias"
   },
   {
@@ -14606,7 +14596,7 @@
   },
   {
     "name": "ΠΑΠΑΔΟΠΟΥΛΟΥ ΜΠΙΣΚ. 2ΠΛΟ ΓΕΜ. ΣΟΚ. 12/230G",
-    "price": 1.65,
+    "price": 1.32,
     "merchant": "Galaxias"
   },
   {
@@ -14626,7 +14616,7 @@
   },
   {
     "name": "ΠΑΠΑΔΟΠΟΥΛΟΥ ΜΠΙΣΚ. 2ΠΛΟ ΓΕΜ. ΣΟΚ. 12/230G",
-    "price": 1.32,
+    "price": 1.16,
     "merchant": "Σκλαβενίτης"
   },
   {
@@ -15156,7 +15146,7 @@
   },
   {
     "name": "ΠΑΠΑΔΟΠΟΥΛΟΥ ΦΡΥΓΑΝΙΕΣ ΧΩΡ. ΟΛ. ΑΛΕΣ. 240G",
-    "price": 1.6,
+    "price": 1.84,
     "merchant": "My Market"
   },
   {
@@ -15196,7 +15186,7 @@
   },
   {
     "name": "ΠΑΠΑΔΟΠΟΥΛΟΥ ΦΡΥΓ. ΧΩΡΙΑΤΙΚ. ΣΟΥΣΑΜΙ 240G",
-    "price": 1.6,
+    "price": 1.84,
     "merchant": "My Market"
   },
   {
@@ -15696,7 +15686,7 @@
   },
   {
     "name": "ΠΑΠΑΔΟΠΟΥΛΟΥ ΧΩΡΙΑΝΟ ΟΛ. ΑΛ. ΜΕ DIN. 5/700G",
-    "price": 2,
+    "price": 1.78,
     "merchant": "Galaxias"
   },
   {
@@ -15871,7 +15861,7 @@
   },
   {
     "name": "ΠΑΠΑΔΟΠΟΥΛΟΥ ΦΡΥΓΑΝΙΕΣ ΧΩΡ. ΜΕ ΔΗΜ. 240G",
-    "price": 1.6,
+    "price": 1.84,
     "merchant": "My Market"
   },
   {
@@ -15951,7 +15941,7 @@
   },
   {
     "name": "ΠΑΠΑΔΟΠΟΥΛΟΥ GRAN. BARS Σ. Χ. Ζ. 8/(5Τ)210G",
-    "price": 3.35,
+    "price": 2.68,
     "merchant": "Galaxias"
   },
   {
@@ -16111,7 +16101,7 @@
   },
   {
     "name": "ΑΜΙΤΑ ΦΡΟΥΤΟΠΟΤΟ ΒΥΣΣΙΝΟ 12/1L",
-    "price": 1.58,
+    "price": 1.98,
     "merchant": "Galaxias"
   },
   {
@@ -16166,12 +16156,12 @@
   },
   {
     "name": "ΑΜΙΤΑ ΦΡΟΥΤΟΠΟΤΟ ΡΟΔΑΚΙΝΟ 12/1L",
-    "price": 1.58,
+    "price": 1.98,
     "merchant": "Galaxias"
   },
   {
     "name": "ΑΜΙΤΑ ΦΡΟΥΤΟΠΟΤΟ ΡΟΔΑΚΙΝΟ 12/1L",
-    "price": 1.59,
+    "price": 1.58,
     "merchant": "Lidl"
   },
   {
@@ -16851,7 +16841,7 @@
   },
   {
     "name": "AMARETTI ΓΚΟΦΡΕΤΑ 12/68G.",
-    "price": 0.49,
+    "price": 0.65,
     "merchant": "Galaxias"
   },
   {
@@ -16901,7 +16891,7 @@
   },
   {
     "name": "SERENATA MINI΄S ΓΚΟΦΡΕΤΙΝΙΑ ΣΑΚ. 16/180G",
-    "price": 2.27,
+    "price": 3.03,
     "merchant": "Galaxias"
   },
   {
@@ -17946,7 +17936,7 @@
   },
   {
     "name": "ΒΟΣΙΝΑΚΗ ΧΩΡΙΑΤΙΚΕΣ ΟΛΙΚΗΣ ΑΛΕΣ. 12/240G",
-    "price": 1.74,
+    "price": 2.18,
     "merchant": "Galaxias"
   },
   {
@@ -17981,7 +17971,7 @@
   },
   {
     "name": "ΒΟΣΙΝΑΚΗ ΧΩΡΙΑΤΙΚΕΣ ΣΤΑΡΕΝΙΕΣ 12/240G",
-    "price": 1.74,
+    "price": 2.18,
     "merchant": "Galaxias"
   },
   {
@@ -18036,7 +18026,7 @@
   },
   {
     "name": "CHEETOS DRACOULINIA 17/100G",
-    "price": 1.18,
+    "price": 1.48,
     "merchant": "Galaxias"
   },
   {
@@ -18086,7 +18076,7 @@
   },
   {
     "name": "CHEETOS PACOTINIA 19/125G",
-    "price": 1.18,
+    "price": 1.48,
     "merchant": "Galaxias"
   },
   {
@@ -18131,7 +18121,7 @@
   },
   {
     "name": "CHEETOS PIZZA 17/110G",
-    "price": 1.18,
+    "price": 1.48,
     "merchant": "Galaxias"
   },
   {
@@ -18176,7 +18166,7 @@
   },
   {
     "name": "CHEETOS LOTTO 17/90G",
-    "price": 1.18,
+    "price": 1.48,
     "merchant": "Galaxias"
   },
   {
@@ -18491,7 +18481,7 @@
   },
   {
     "name": "LAY'S ΣΤΟ ΦΟΥΡΝΟ ΝΤΟΜΑΤΑ&ΒΑΣΙΛ. 24/105G",
-    "price": 1.46,
+    "price": 1.82,
     "merchant": "Galaxias"
   },
   {
@@ -18651,7 +18641,7 @@
   },
   {
     "name": "LAY'S ΣΤΟ ΦΟΥΡΝΟ ΘΑΛΑΣΣΙΝΟ ΑΛΑΤΙ 24/105G",
-    "price": 1.46,
+    "price": 1.82,
     "merchant": "Galaxias"
   },
   {
@@ -18696,7 +18686,7 @@
   },
   {
     "name": "LAY'S ΣΤΟ ΦΟΥΡΝΟ ΠΑΠΡΙΚΑ 24/105G",
-    "price": 1.46,
+    "price": 1.82,
     "merchant": "Galaxias"
   },
   {
@@ -18741,7 +18731,7 @@
   },
   {
     "name": "LAY'S ΦΟΥΡΝΟΥ ΓΙΑΟΥΡΤΙ ΜΥΡ. 24/105G",
-    "price": 1.46,
+    "price": 1.82,
     "merchant": "Galaxias"
   },
   {
@@ -18831,7 +18821,7 @@
   },
   {
     "name": "QUAKER ΤΡΑΓ. ΜΠΟΥΚΙΕΣ ΣΟΚΟΛ. 12/450G",
-    "price": 5.46,
+    "price": 4.37,
     "merchant": "Galaxias"
   },
   {
@@ -18876,12 +18866,12 @@
   },
   {
     "name": "QUAKER ΤΡΑΓ. ΜΠΟΥΚΙΕΣ ΞΗΡ. ΚΑΡΠΟΙ 12/450G.",
-    "price": 5.46,
+    "price": 4.37,
     "merchant": "Galaxias"
   },
   {
     "name": "QUAKER ΤΡΑΓ. ΜΠΟΥΚΙΕΣ ΞΗΡ. ΚΑΡΠΟΙ 12/450G.",
-    "price": 5.32,
+    "price": 3.97,
     "merchant": "Lidl"
   },
   {
@@ -18926,12 +18916,12 @@
   },
   {
     "name": "QUAKER ΤΡΑΓ. ΜΠΟΥΚΙΕΣ ΣΟΚ. ΓΑΛΑΚ. 12/450G",
-    "price": 5.46,
+    "price": 4.37,
     "merchant": "Galaxias"
   },
   {
     "name": "QUAKER ΤΡΑΓ. ΜΠΟΥΚΙΕΣ ΣΟΚ. ΓΑΛΑΚ. 12/450G",
-    "price": 5.32,
+    "price": 3.97,
     "merchant": "Lidl"
   },
   {
@@ -18971,7 +18961,7 @@
   },
   {
     "name": "QUAKER ΤΡΑΓΑΝΕΣ ΜΠΟΥΚΙΕΣ 6/450G",
-    "price": 4.34,
+    "price": 3.47,
     "merchant": "Galaxias"
   },
   {
@@ -19841,7 +19831,7 @@
   },
   {
     "name": "KALAMATA ΜΟΥΣ/ΔΑ ΑΠΑΛΗ SQUEEZE. 12/300G",
-    "price": 2.06,
+    "price": 2.42,
     "merchant": "Galaxias"
   },
   {
@@ -19911,7 +19901,7 @@
   },
   {
     "name": "PUMMARO ΧΥΜΟΣ ΤΟΜΑΤΑΣ 250G 16/(3ΤΕΜ)",
-    "price": 1.58,
+    "price": 1.37,
     "merchant": "Μασούτης"
   },
   {
@@ -20041,12 +20031,12 @@
   },
   {
     "name": "LIFE ΧΥΜΟΣ ΜΗΛΟ-ΠΟΡΤ. -ΚΑΡΟΤΟ ΜΠΟΥΚ. 12/1L",
-    "price": 2.51,
+    "price": 3.14,
     "merchant": "Galaxias"
   },
   {
     "name": "LIFE ΧΥΜΟΣ ΜΗΛΟ-ΠΟΡΤ. -ΚΑΡΟΤΟ ΜΠΟΥΚ. 12/1L",
-    "price": 3.14,
+    "price": 2.51,
     "merchant": "Lidl"
   },
   {
@@ -20096,7 +20086,7 @@
   },
   {
     "name": "LIFE ΚΡΑΝΜΠ. -ΡΑΣΜΠ. -ΜΠΛΟΥΜΠ. ΜΠ. 12/1L",
-    "price": 3.14,
+    "price": 2.51,
     "merchant": "Lidl"
   },
   {
@@ -20146,7 +20136,7 @@
   },
   {
     "name": "LIFE ΧΥΜΟΣ ΚΑΛΗΜΕΡΑ ΠΟΡΤΟΚΑΛΙ ΜΠ. 12/1L",
-    "price": 3.14,
+    "price": 2.51,
     "merchant": "Lidl"
   },
   {
@@ -20321,12 +20311,12 @@
   },
   {
     "name": "LIFE ΧΥΜΟΣ ΜΗΛΟ-ΠΟΡΤ. -ΚΑΡΟΤΟ 6/1. 5L",
-    "price": 3.04,
+    "price": 3.8,
     "merchant": "Galaxias"
   },
   {
     "name": "LIFE ΧΥΜΟΣ ΜΗΛΟ-ΠΟΡΤ. -ΚΑΡΟΤΟ 6/1. 5L",
-    "price": 4,
+    "price": 3.2,
     "merchant": "Lidl"
   },
   {
@@ -20686,7 +20676,7 @@
   },
   {
     "name": "ΔΕΛΤΑ ΡΟΦΗΜΑ ΑΜΥΓΔΑΛΟ 1L",
-    "price": 2.07,
+    "price": 2.95,
     "merchant": "Σκλαβενίτης"
   },
   {
@@ -21651,7 +21641,7 @@
   },
   {
     "name": "VITALINE GO PROTEIN KAKAO-ΒΑΝ. 8/2Χ170G",
-    "price": 2.18,
+    "price": 2.73,
     "merchant": "Galaxias"
   },
   {
@@ -22011,7 +22001,7 @@
   },
   {
     "name": "ΜΑΚΕΔΟΝΙΚΟ ΤΑΧΙΝΙ ΜΕΛΙ 15/350G",
-    "price": 4.28,
+    "price": 6.12,
     "merchant": "Galaxias"
   },
   {
@@ -22051,7 +22041,7 @@
   },
   {
     "name": "ΜΑΚΕΔΟΝΙΚΟ ΤΑΧΙΝΙ ΠΟΡ. ΧΩΡ. ΓΛΟΥΤ. 15/350G",
-    "price": 3.63,
+    "price": 5.18,
     "merchant": "Galaxias"
   },
   {
@@ -22091,7 +22081,7 @@
   },
   {
     "name": "ΜΑΚΕΔΟΝΙΚΟ ΤΑΧΙΝΙ ΚΑΚΑΟ ΧΩΡ. ΓΛΟΥ 15/350G",
-    "price": 3.6,
+    "price": 5.14,
     "merchant": "Galaxias"
   },
   {
@@ -22131,7 +22121,7 @@
   },
   {
     "name": "ΜΑΚΕΔΟΝΙΚΟ ΤΑΧΙΝΙ ΓΥΑΛΙΝΟ ΒΑΖΟ 15/300G",
-    "price": 3.42,
+    "price": 4.89,
     "merchant": "Galaxias"
   },
   {
@@ -22286,7 +22276,7 @@
   },
   {
     "name": "ΠΙΠΕΡΙΕΣ ΚΟΚ ΖΑΝΑΕ ΣΤΡ350ΓΡ",
-    "price": 2.6,
+    "price": 3.72,
     "merchant": "Synka"
   },
   {
@@ -22311,7 +22301,7 @@
   },
   {
     "name": "ΖΑΝΑΕ ΝΤΟΛΜΑΔΑΚΙΑ ΓΙΑΛΑΝΤΖΙ 12/280G.",
-    "price": 2.24,
+    "price": 3.2,
     "merchant": "My Market"
   },
   {
@@ -22346,7 +22336,7 @@
   },
   {
     "name": "ΖΑΝΑΕ ΓΙΓΑΝΤΕΣ ΓΙΑΧΝΙ 12/280G",
-    "price": 1.81,
+    "price": 2.58,
     "merchant": "My Market"
   },
   {
@@ -22821,7 +22811,7 @@
   },
   {
     "name": "ΑΓΕΛΑΔΙΤΣΑ ΓΙΑΟΥΡΤΙ 4% ΛΙΠ. 4/200G(3ΤΕΜ)",
-    "price": 2.65,
+    "price": 2.15,
     "merchant": "Galaxias"
   },
   {
@@ -22871,7 +22861,7 @@
   },
   {
     "name": "TOTAL ΓΙΑΟΥΡΤΙ ΣΤΡΑΓΓ. 2% 4/200G(3 TEM)",
-    "price": 3.18,
+    "price": 3.88,
     "merchant": "Galaxias"
   },
   {
@@ -22921,7 +22911,7 @@
   },
   {
     "name": "TOTAL ΓΙΑΟΥΡΤΙ ΣΤΡΑΓΓΙΣΤΟ 5% 4/200G(3ΤΕΜ",
-    "price": 3.18,
+    "price": 3.88,
     "merchant": "Galaxias"
   },
   {
@@ -22971,7 +22961,7 @@
   },
   {
     "name": "ΑΓΕΛΑΔΙΤΣΑ ΓΙΑΟΥΡΤΙ 0%ΛΙΠ. 4/200G(3ΤΕΜ)",
-    "price": 2.65,
+    "price": 2.15,
     "merchant": "Galaxias"
   },
   {
@@ -23006,7 +22996,7 @@
   },
   {
     "name": "ΑΓΕΛΑΔΙΤΣΑ ΓΙΑΟΥΡΤΙ 2%ΛΙΠ. 4/200G(3ΤΕΜ)",
-    "price": 2.65,
+    "price": 2.15,
     "merchant": "Galaxias"
   },
   {
@@ -23176,7 +23166,7 @@
   },
   {
     "name": "3BIT ΜΠΑΡΑ ΣΟΚΟΛΑΤΑΣ ΓΕΜΙΣΤΗ 20/65G",
-    "price": 1.12,
+    "price": 0.95,
     "merchant": "Galaxias"
   },
   {
@@ -23226,7 +23216,7 @@
   },
   {
     "name": "ΠΑΥΛΙΔΗΣ ΣΟΚΟΛΑΤΑ ΥΓΕΙΑΣ ΑΜΥΓΔ. 14/100G",
-    "price": 2.56,
+    "price": 1.92,
     "merchant": "Galaxias"
   },
   {
@@ -23281,7 +23271,7 @@
   },
   {
     "name": "LACTA ΣΟΚΟΛΑΤΑ ΓΑΛΑΚΤΟΣ 1166 14/85G",
-    "price": 2.48,
+    "price": 1.86,
     "merchant": "Galaxias"
   },
   {
@@ -23376,7 +23366,7 @@
   },
   {
     "name": "ΠΑΥΛΙΔΗΣ ΣΟΚΟΛΑΤΑ ΥΓΕΙΑΣ 14/100G",
-    "price": 2.87,
+    "price": 2.15,
     "merchant": "Galaxias"
   },
   {
@@ -23421,7 +23411,7 @@
   },
   {
     "name": "ΠΑΥΛΙΔΗΣ ΣΟΚΟΛΑΤΑ ΦΡΑΟΥΛΑ 12/100G",
-    "price": 2.56,
+    "price": 2.05,
     "merchant": "Galaxias"
   },
   {
@@ -23666,7 +23656,7 @@
   },
   {
     "name": "KYKNOS ΤΟΜΑΤΕΣ ΤΡΙΜΜΕΝΕΣ 24/500G",
-    "price": 0.98,
+    "price": 1.22,
     "merchant": "Galaxias"
   },
   {
@@ -23716,7 +23706,7 @@
   },
   {
     "name": "KYKNOS ΧΥΜΟΣ ΤΟΜΑΤΑΣ 250G 8/(3ΤΕΜ)",
-    "price": 1.72,
+    "price": 1.38,
     "merchant": "Galaxias"
   },
   {
@@ -23761,7 +23751,7 @@
   },
   {
     "name": "KYKNOS ΚΕΤΣΑΠ ΠΛ. ΦΙΑΛΗ T. D. Χ. ΓΛΟΥΤ 560G",
-    "price": 2.76,
+    "price": 3.68,
     "merchant": "Galaxias"
   },
   {
@@ -23826,7 +23816,7 @@
   },
   {
     "name": "KYKNOS ΚΕΤΣΑΠ ΠΛ. ΦΙΑΛ. Χ. ΖΑΧ&ΓΛΟΥΤ 360G",
-    "price": 2.31,
+    "price": 3.08,
     "merchant": "Galaxias"
   },
   {
@@ -23881,7 +23871,7 @@
   },
   {
     "name": "KYKNOS ΜΑΓΙΟΝΕΖΑ PREM. ΧΩΡ. ΓΛΟΥΤ 6/420ML",
-    "price": 2.55,
+    "price": 3.4,
     "merchant": "Galaxias"
   },
   {
@@ -23941,7 +23931,7 @@
   },
   {
     "name": "KYKNOS ΜΑΓΙΟΝΕΖΑ VEGAN ΧΩΡ. ΓΛΟΥΤ 6/250ML",
-    "price": 2.37,
+    "price": 2.55,
     "merchant": "My Market"
   },
   {
@@ -23961,7 +23951,7 @@
   },
   {
     "name": "KYKNOS ΜΟΥΣΤΑΡΔΑ ΑΠΑΛΗ ΧΩΡ. ΓΛΟΥΤ 12/500G",
-    "price": 2.83,
+    "price": 3.78,
     "merchant": "Galaxias"
   },
   {
@@ -23991,7 +23981,7 @@
   },
   {
     "name": "KYKNOS ΜΟΥΣΤΑΡΔΑ HOT ΧΩΡ. ΓΛΟΥΤ. 12/500G",
-    "price": 2.83,
+    "price": 3.78,
     "merchant": "Galaxias"
   },
   {
@@ -24046,7 +24036,7 @@
   },
   {
     "name": "KYKNOS ΤΟΜΑΤΑ ΤΡΙΜΜΕΝΗ 12/680G",
-    "price": 1.73,
+    "price": 1.38,
     "merchant": "Galaxias"
   },
   {
@@ -24091,7 +24081,7 @@
   },
   {
     "name": "KYKNOS ΤΟΜΑΤΟΠΟΛΤΟΣ 28%-30% 12/860G",
-    "price": 4.23,
+    "price": 3.6,
     "merchant": "Galaxias"
   },
   {
@@ -24141,7 +24131,7 @@
   },
   {
     "name": "KYKNOS ΤΟΜ/ΠΟΛΤΟΣ 28%-30% 24/410G",
-    "price": 2.21,
+    "price": 2.6,
     "merchant": "Galaxias"
   },
   {
@@ -24191,7 +24181,7 @@
   },
   {
     "name": "KYKNOS ΤΟΜΑΤΟΠΟΛΤΟΣ 28%-30% 24/200 G",
-    "price": 1.54,
+    "price": 1.31,
     "merchant": "Galaxias"
   },
   {
@@ -24206,7 +24196,7 @@
   },
   {
     "name": "KYKNOS ΤΟΜΑΤΟΠΟΛΤΟΣ 28%-30% 24/200 G",
-    "price": 1.11,
+    "price": 1.26,
     "merchant": "My Market"
   },
   {
@@ -24311,7 +24301,7 @@
   },
   {
     "name": "KYKNOS ΤΟΜΑΤΕΣ ΑΠΟΦΛΟΙΩΜΕΝΕΣ 24/400G",
-    "price": 0.99,
+    "price": 1.24,
     "merchant": "Galaxias"
   },
   {
@@ -24361,7 +24351,7 @@
   },
   {
     "name": "KYKNOS ΣΥΜΠ. ΧΥΜΟΣ ΤΟΜΑΤΑΣ 12/500G",
-    "price": 0.67,
+    "price": 0.84,
     "merchant": "Galaxias"
   },
   {
@@ -24471,7 +24461,7 @@
   },
   {
     "name": "KYKNOS ΤΟΜΑΤΑ ΠΕΡΑΣΤΗ ΣΤΟ ΜΥΛΟ 12/500G",
-    "price": 0.9,
+    "price": 1.12,
     "merchant": "Galaxias"
   },
   {
@@ -24586,7 +24576,7 @@
   },
   {
     "name": "KNORR ΖΩΜΟΣ ΛΑΧΑΝΙΚΩΝ (12ΤΕΜ. ) 6L",
-    "price": 2.69,
+    "price": 2.21,
     "merchant": "Synka"
   },
   {
@@ -24601,7 +24591,7 @@
   },
   {
     "name": "KNORR ΖΩΜΟΣ ΛΑΧΑΝΙΚΩΝ (24ΤΕΜ. ) 12L",
-    "price": 4.95,
+    "price": 4.06,
     "merchant": "Galaxias"
   },
   {
@@ -25066,7 +25056,7 @@
   },
   {
     "name": "ΜΕΒΓΑΛ ΓΙΑΟΥΡΤΙ ΑΙΓ/ΒΕΙΟ ΕΛΑΦΡΥ 220G",
-    "price": 1.56,
+    "price": 1.62,
     "merchant": "Lidl"
   },
   {
@@ -25501,7 +25491,7 @@
   },
   {
     "name": "L'OREAL REVITALIFT ΚΡΕΜΑ ΗΜΕΡΑΣ 6/50ML",
-    "price": 11.48,
+    "price": 12.05,
     "merchant": "Galaxias"
   },
   {
@@ -25976,7 +25966,7 @@
   },
   {
     "name": "ΧΩΡΙΟ ΣΥΜΠ. ΧΥΜΟΣ ΤΟΜΑΤΑΣ 250G 16/(3ΤΕΜ)",
-    "price": 1.61,
+    "price": 2.15,
     "merchant": "Galaxias"
   },
   {
@@ -26066,12 +26056,12 @@
   },
   {
     "name": "PUMMARO ΣΠΙΤΙΚΗ ΤΟΜΑΤΑ 12/680G",
-    "price": 1.78,
+    "price": 2.09,
     "merchant": "Galaxias"
   },
   {
     "name": "PUMMARO ΣΠΙΤΙΚΗ ΤΟΜΑΤΑ 12/680G",
-    "price": 2,
+    "price": 1.53,
     "merchant": "Μασούτης"
   },
   {
@@ -26111,7 +26101,7 @@
   },
   {
     "name": "PUMMARO ΧΥΜΟΣ ΤΟΜΑΤΑΣ ΚΛΑΣΙΚΟ 24/500G",
-    "price": 0.81,
+    "price": 1.08,
     "merchant": "Galaxias"
   },
   {
@@ -26121,7 +26111,7 @@
   },
   {
     "name": "PUMMARO ΧΥΜΟΣ ΤΟΜΑΤΑΣ ΚΛΑΣΙΚΟ 24/500G",
-    "price": 0.81,
+    "price": 0.7,
     "merchant": "Μασούτης"
   },
   {
@@ -26166,7 +26156,7 @@
   },
   {
     "name": "PUMMARO ΤΟΜΑΤΕΣ ΨΙΛΟΚΟΜΜΕΝΕΣ 24/400G",
-    "price": 0.98,
+    "price": 0.85,
     "merchant": "Μασούτης"
   },
   {
@@ -26356,7 +26346,7 @@
   },
   {
     "name": "ΦΑΣΤ CLASSIC 12/225G",
-    "price": 1.1,
+    "price": 1.03,
     "merchant": "Galaxias"
   },
   {
@@ -26456,7 +26446,7 @@
   },
   {
     "name": "ΣΑΒΟΪ ΒΟΥΤΥΡΟ ΤΥΠΟΥ ΚΕΡΚΥΡΑΣ 9/225G",
-    "price": 4.4,
+    "price": 3.75,
     "merchant": "Galaxias"
   },
   {
@@ -26761,7 +26751,7 @@
   },
   {
     "name": "KARAVAKI ΑΦΡΟΛΟΥΤΡΟ ΓΑΛΑ ΑΜ. &ΗΛ. 12/750ML",
-    "price": 4.33,
+    "price": 2.81,
     "merchant": "Galaxias"
   },
   {
@@ -26806,7 +26796,7 @@
   },
   {
     "name": "KARAVAKI ΑΦΡΟΛΟΥΤΡΟ ΔΡ. ΑΙΓΑΙΟΥ 12/750ML",
-    "price": 4.33,
+    "price": 2.81,
     "merchant": "Galaxias"
   },
   {
@@ -26856,7 +26846,7 @@
   },
   {
     "name": "KARAVAKI ΑΦΡΟΛΟΥΤΡΟ ΓΛ. ΜΑΝΤ. &ΚΑΛ12/750ML",
-    "price": 4.33,
+    "price": 2.81,
     "merchant": "Galaxias"
   },
   {
@@ -26931,7 +26921,7 @@
   },
   {
     "name": "KARAVAKI ΚΡΕΜΟΣ. REFILL CLASSIC 12/900ML",
-    "price": 2.45,
+    "price": 1.96,
     "merchant": "Galaxias"
   },
   {
@@ -26971,7 +26961,7 @@
   },
   {
     "name": "KARAVAKI ΚΡΕΜΟΣ. REFILL CHAM. 12/900ML",
-    "price": 2.45,
+    "price": 1.96,
     "merchant": "Galaxias"
   },
   {
@@ -27041,7 +27031,7 @@
   },
   {
     "name": "KARAVAKI ΑΦΡΟΛ. ΑΝ. ΓΙΑΣ. ΠΕΡΓΑΜ. 12/750ML",
-    "price": 4.33,
+    "price": 2.81,
     "merchant": "Galaxias"
   },
   {
@@ -27146,7 +27136,7 @@
   },
   {
     "name": "ΑΡΚΑΔΙ BABY ΥΓ. ΠΛ. ΡΟΥΧ. ΠΡ. ΣΑΠ. 26Μ",
-    "price": 8.98,
+    "price": 6.73,
     "merchant": "Galaxias"
   },
   {
@@ -27181,7 +27171,7 @@
   },
   {
     "name": "ΑΡΚΑΔΙ BABY ΑΠΟΡΡ. ΡΟΥΧΩΝ ΥΓ. 8/26M",
-    "price": 8.98,
+    "price": 6.73,
     "merchant": "Galaxias"
   },
   {
@@ -27296,7 +27286,7 @@
   },
   {
     "name": "PALIRIA ΝΤΟΛΜΑΔΑΚΙΑ ΓΙΑΛΑΝΤΖΙ 24/280G",
-    "price": 2.51,
+    "price": 3.14,
     "merchant": "Galaxias"
   },
   {
@@ -27351,7 +27341,7 @@
   },
   {
     "name": "SCOTCH BRITE ΣΦΟΥΓΓΑΡΙΣΤΡΑ. ΜΙΚΡΟΪΝΩΝ 20Τ",
-    "price": 5.01,
+    "price": 7.16,
     "merchant": "Galaxias"
   },
   {
@@ -27386,7 +27376,7 @@
   },
   {
     "name": "SCOTCH BRITE ΣΦΟΥΓΓΑΡΑΚΙ ΠΡΑΣΙΝΟ 48TEM",
-    "price": 0.76,
+    "price": 1.28,
     "merchant": "Bazaar"
   },
   {
@@ -27396,7 +27386,7 @@
   },
   {
     "name": "SCOTCH BRITE ΣΦΟΥΓΓΑΡΑΚΙ ΠΡΑΣΙΝΟ 48TEM",
-    "price": 0.9,
+    "price": 1.29,
     "merchant": "Galaxias"
   },
   {
@@ -27446,7 +27436,7 @@
   },
   {
     "name": "PHILADELPHIA ΤΥΡΙ ΚΡΕΜΑ 8/300G",
-    "price": 2.98,
+    "price": 3.98,
     "merchant": "Galaxias"
   },
   {
@@ -27536,6 +27526,11 @@
   },
   {
     "name": "ΙΟΝ ΣΟΚΟΛΑΤΑ ΑΜΥΓΔΑΛΟΥ 5/270G",
+    "price": 4.68,
+    "merchant": "efresh"
+  },
+  {
+    "name": "ΙΟΝ ΣΟΚΟΛΑΤΑ ΑΜΥΓΔΑΛΟΥ 5/270G",
     "price": 4.38,
     "merchant": "Galaxias"
   },
@@ -27621,7 +27616,7 @@
   },
   {
     "name": "ΙΟΝ BREAK ΣΟΚΟΛ. ΦΟΥΝΤΟΥΚΙ Ν. 1341 12/85G",
-    "price": 1.98,
+    "price": 2.48,
     "merchant": "Galaxias"
   },
   {
@@ -27766,7 +27761,7 @@
   },
   {
     "name": "ΙΟΝ BREAK ΣΟΚΟΛΑΤΑ ΛΕΥΚΗ Ν. 4941 12/85G",
-    "price": 1.98,
+    "price": 2.48,
     "merchant": "Galaxias"
   },
   {
@@ -27807,6 +27802,11 @@
   {
     "name": "ΙΟΝ ΣΟΚΟΦΡΕΤΑ ΓΑΛΑΚΤΟΣ ΜΕ ΣΤΕΒΙΑ 20/30G",
     "price": 0.64,
+    "merchant": "efresh"
+  },
+  {
+    "name": "ΙΟΝ ΣΟΚΟΦΡΕΤΑ ΓΑΛΑΚΤΟΣ ΜΕ ΣΤΕΒΙΑ 20/30G",
+    "price": 0.64,
     "merchant": "Galaxias"
   },
   {
@@ -27828,6 +27828,11 @@
     "name": "ΙΟΝ ΣΟΚΟΦΡΕΤΑ ΥΓΕΙΑΣ ΜΕ ΣΤΕΒΙΑ 20/30G",
     "price": 0.52,
     "merchant": "ΑΒ Βασιλόπουλος"
+  },
+  {
+    "name": "ΙΟΝ ΣΟΚΟΦΡΕΤΑ ΥΓΕΙΑΣ ΜΕ ΣΤΕΒΙΑ 20/30G",
+    "price": 0.64,
+    "merchant": "efresh"
   },
   {
     "name": "ΙΟΝ ΣΟΚΟΦΡΕΤΑ ΥΓΕΙΑΣ ΜΕ ΣΤΕΒΙΑ 20/30G",
@@ -28351,7 +28356,7 @@
   },
   {
     "name": "ELVIART ΠΙΤΑ ΓΙΑ ΣΟΥΒΛΑΚΙ (10ΤΕΜ. )700G",
-    "price": 1.84,
+    "price": 2.3,
     "merchant": "Galaxias"
   },
   {
@@ -28376,7 +28381,7 @@
   },
   {
     "name": "ELVIART ΠΙΤΑ ΓΙΑ ΣΟΥΒΛΑΚΙ (10ΤΕΜ. )700G",
-    "price": 1.73,
+    "price": 1.84,
     "merchant": "Σκλαβενίτης"
   },
   {
@@ -28406,7 +28411,7 @@
   },
   {
     "name": "ELVIART ΠΙΤΑΚΙΑ 410G (10TEM. )",
-    "price": 1.48,
+    "price": 1.85,
     "merchant": "Galaxias"
   },
   {
@@ -28441,7 +28446,7 @@
   },
   {
     "name": "ELVIART ΠΙΤΑ ΜΕ ΑΛ. ΚΑΛΑΜΠ. 680G (8 TEM.",
-    "price": 1.55,
+    "price": 1.94,
     "merchant": "Galaxias"
   },
   {
@@ -28461,7 +28466,7 @@
   },
   {
     "name": "ELVIART ΠΙΤΑ ΜΕ ΑΛ. ΚΑΛΑΜΠ. 680G (8 TEM.",
-    "price": 1.46,
+    "price": 1.55,
     "merchant": "Σκλαβενίτης"
   },
   {
@@ -28626,7 +28631,7 @@
   },
   {
     "name": "PEPSI ZERO 6/1. 5L",
-    "price": 1.56,
+    "price": 1.66,
     "merchant": "Galaxias"
   },
   {
@@ -28661,7 +28666,7 @@
   },
   {
     "name": "PEPSI TWIST 6/1. 5L",
-    "price": 1.48,
+    "price": 1.58,
     "merchant": "Galaxias"
   },
   {
@@ -28821,7 +28826,7 @@
   },
   {
     "name": "ΗΒΗ GO RED 250ML 6ΤΕΜ",
-    "price": 3.96,
+    "price": 3.17,
     "merchant": "Lidl"
   },
   {
@@ -29071,7 +29076,7 @@
   },
   {
     "name": "PEPSI COLA 6/1. 5 L.",
-    "price": 1.48,
+    "price": 1.58,
     "merchant": "Galaxias"
   },
   {
@@ -29526,7 +29531,7 @@
   },
   {
     "name": "ΔΩΔΩΝΗ ΓΙΑΟΥΡΤΙ ΚΛΑΣΙΚ 8%Λ. ΠΛ ΔΟΧ 6/1KG",
-    "price": 3.94,
+    "price": 4.64,
     "merchant": "Galaxias"
   },
   {
@@ -29556,7 +29561,7 @@
   },
   {
     "name": "ΔΩΔΩΝΗ ΓΙΑΟΥΡΤΙ ΚΛΑΣΙΚ 8%Λ. ΠΛ ΔΟΧ 6/1KG",
-    "price": 2.78,
+    "price": 4.64,
     "merchant": "Synka"
   },
   {
@@ -29651,7 +29656,7 @@
   },
   {
     "name": "ΔΩΔΩΝΗ ΓΙΑΟΥΡΤΙ ΚΛΑΣΙΚ 2%Λ. ΠΛ. ΔΟΧ 6/1KG",
-    "price": 3.94,
+    "price": 4.64,
     "merchant": "Galaxias"
   },
   {
@@ -29681,7 +29686,7 @@
   },
   {
     "name": "ΔΩΔΩΝΗ ΓΙΑΟΥΡΤΙ ΚΛΑΣΙΚ 2%Λ. ΠΛ. ΔΟΧ 6/1KG",
-    "price": 2.78,
+    "price": 4.64,
     "merchant": "Synka"
   },
   {
@@ -29851,7 +29856,7 @@
   },
   {
     "name": "NIVEA BODY NOURISHING MILK ΑΝΤΛ. 6/400ML",
-    "price": 6.1,
+    "price": 5.63,
     "merchant": "Galaxias"
   },
   {
@@ -29896,7 +29901,7 @@
   },
   {
     "name": "NIVEA CARE NOURISHING ΚΡΕΜΑ ΣΩΜ 3/400ML",
-    "price": 6.1,
+    "price": 5.63,
     "merchant": "Galaxias"
   },
   {
@@ -30041,7 +30046,7 @@
   },
   {
     "name": "ΟΛΥΜΠΟΣ ΤΑΧΙΝΙ ΜΕ ΚΑΚΑΟ Χ/ΓΛ 300GR BAZO",
-    "price": 3.26,
+    "price": 4.86,
     "merchant": "Galaxias"
   },
   {
@@ -30056,7 +30061,7 @@
   },
   {
     "name": "ΟΛΥΜΠΟΣ ΤΑΧΙΝΙ ΜΕ ΚΑΚΑΟ Χ/ΓΛ 300GR BAZO",
-    "price": 2.92,
+    "price": 3.26,
     "merchant": "Synka"
   },
   {
@@ -30081,7 +30086,7 @@
   },
   {
     "name": "ΟΛΥΜΠΟΣ ΤΑΧΙΝΙ ΟΛΙΚ. ΑΛΕΣΗΣ Χ/ΓΛ 300G",
-    "price": 3.14,
+    "price": 4.65,
     "merchant": "Galaxias"
   },
   {
@@ -30121,7 +30126,7 @@
   },
   {
     "name": "ΤΑΧΙΝΙ ΟΛΥΜΠΟΣ ΜΕ ΜΕΛΙ 300ΓΡ",
-    "price": 3.86,
+    "price": 5.52,
     "merchant": "Galaxias"
   },
   {
@@ -30176,7 +30181,7 @@
   },
   {
     "name": "ΟΛΥΜΠΟΣ ΤΑΧΙΝΙ ΜΕ ΣΤΕΒΙΑ Χ/ΓΛ 280ΓΡ",
-    "price": 3.54,
+    "price": 4.86,
     "merchant": "Galaxias"
   },
   {
@@ -30216,7 +30221,7 @@
   },
   {
     "name": "ΟΛΥΜΠΟΣ SUPERSPREAD ΦΥΣΤΙΚΟΒΟΥΤ. 12/350G",
-    "price": 2.69,
+    "price": 3.95,
     "merchant": "Galaxias"
   },
   {
@@ -30276,7 +30281,7 @@
   },
   {
     "name": "ΟΛΥΜΠΟΣ ΦΥΣΤΙ/ΡΟ ΜΑΥΡΗ ΣΟΚΟΛ 350Γ",
-    "price": 2.69,
+    "price": 3.95,
     "merchant": "Galaxias"
   },
   {
@@ -30366,7 +30371,7 @@
   },
   {
     "name": "ΜΕΛΙΣΣΑ ΣΠΑΓΓΕΤΙ ΝΟ 7 24/500 G",
-    "price": 0.92,
+    "price": 0.86,
     "merchant": "Μασούτης"
   },
   {
@@ -30416,7 +30421,7 @@
   },
   {
     "name": "ΜΕΛΙΣΣΑ ΜΑΚΑΡΟΝΙΑ ΝΟ 2 12/500 G",
-    "price": 1.2,
+    "price": 1.12,
     "merchant": "Μασούτης"
   },
   {
@@ -30516,7 +30521,7 @@
   },
   {
     "name": "ΜΕΛΙΣΣΑ ΛΑΖΑΝΑΚΙ 20/500 G",
-    "price": 1.2,
+    "price": 1.12,
     "merchant": "Μασούτης"
   },
   {
@@ -30561,7 +30566,7 @@
   },
   {
     "name": "ΜΕΛΙΣΣΑ ΚΡΙΘΑΡΑΚΙ ΧΟΝΔΡΟ 12/500 G",
-    "price": 1.02,
+    "price": 0.96,
     "merchant": "Μασούτης"
   },
   {
@@ -30611,7 +30616,7 @@
   },
   {
     "name": "ΜΕΛΙΣΣΑ ΚΡΙΘΑΡΑΚΙ ΜΕΤΡΙΟ 12/500 G",
-    "price": 1.02,
+    "price": 0.96,
     "merchant": "Μασούτης"
   },
   {
@@ -30656,7 +30661,7 @@
   },
   {
     "name": "ΜΕΛΙΣΣΑ ΚΟΦΤΟ 12/500 G",
-    "price": 1.17,
+    "price": 1.09,
     "merchant": "Μασούτης"
   },
   {
@@ -30701,7 +30706,7 @@
   },
   {
     "name": "ΜΕΛΙΣΣΑ ΣΤΡΙΦΤΟ 15/500G.",
-    "price": 1.17,
+    "price": 1.09,
     "merchant": "Μασούτης"
   },
   {
@@ -30981,7 +30986,7 @@
   },
   {
     "name": "ΜΕΛΙΣΣΑ ΠΕΝΝΕΣ ΡΙΓΕ 15/500G",
-    "price": 1.17,
+    "price": 1.09,
     "merchant": "Μασούτης"
   },
   {
@@ -31026,7 +31031,7 @@
   },
   {
     "name": "ΜΕΛΙΣΣΑ ΚΑΝΕΛΛΟΝΙΑ ΣΕ ΚΟΥΤΙ 250G",
-    "price": 1.44,
+    "price": 1.35,
     "merchant": "Μασούτης"
   },
   {
@@ -31081,7 +31086,7 @@
   },
   {
     "name": "ΜΕΛΙΣΣΑ ΣΙΜΙΓΔΑΛΙ ΨΙΛΟ 12/500G",
-    "price": 1.15,
+    "price": 0.73,
     "merchant": "Galaxias"
   },
   {
@@ -31601,12 +31606,12 @@
   },
   {
     "name": "ΜΕΛΙΣΣΑ ΧΡΥΣΗ ΕΠΙΛΟΓΗ ΣΠΑΓ. Ν. 6 20/500G",
-    "price": 1.17,
+    "price": 1.01,
     "merchant": "Galaxias"
   },
   {
     "name": "ΜΕΛΙΣΣΑ ΧΡΥΣΗ ΕΠΙΛΟΓΗ ΣΠΑΓ. Ν. 6 20/500G",
-    "price": 1.26,
+    "price": 1.19,
     "merchant": "Μασούτης"
   },
   {
@@ -31646,7 +31651,7 @@
   },
   {
     "name": "ΜΕΛΙΣΣΑ ΧΡΥΣΗ ΕΠΙΛΟΓΗ ΣΠΑΓ. Ν. 10 20/500G",
-    "price": 1.26,
+    "price": 1.19,
     "merchant": "Μασούτης"
   },
   {
@@ -31681,12 +31686,12 @@
   },
   {
     "name": "ΜΕΛΙΣΣΑ ΧΡΥΣΗ ΕΠΙΛΟΓΗ ΛΙΓΚΟΥΙΝΙ 20/500G",
-    "price": 1.17,
+    "price": 1.01,
     "merchant": "Galaxias"
   },
   {
     "name": "ΜΕΛΙΣΣΑ ΧΡΥΣΗ ΕΠΙΛΟΓΗ ΛΙΓΚΟΥΙΝΙ 20/500G",
-    "price": 1.26,
+    "price": 1.19,
     "merchant": "Μασούτης"
   },
   {
@@ -31716,12 +31721,12 @@
   },
   {
     "name": "ΜΕΛΙΣΣΑ ΧΡΥΣΗ ΕΠΙΛΟΓΗ ΚΡΙΘ. ΜΕΤΡ. 12/500G",
-    "price": 1.3,
+    "price": 1.12,
     "merchant": "Galaxias"
   },
   {
     "name": "ΜΕΛΙΣΣΑ ΧΡΥΣΗ ΕΠΙΛΟΓΗ ΚΡΙΘ. ΜΕΤΡ. 12/500G",
-    "price": 1.4,
+    "price": 1.32,
     "merchant": "Μασούτης"
   },
   {
@@ -31756,7 +31761,7 @@
   },
   {
     "name": "ΜΕΛΙΣΣΑ ΧΡΥΣΗ ΕΠΙΛΟΓΗ ΣΤΡΙΦΤΟ 12/500G",
-    "price": 1.4,
+    "price": 1.32,
     "merchant": "Μασούτης"
   },
   {
@@ -31781,12 +31786,12 @@
   },
   {
     "name": "ΜΕΛΙΣΣΑ ΧΡΥΣΗ ΕΠΙΛΟΓΗ ΠΕΝ. ΡΙΓΕ 12/500G",
-    "price": 1.3,
+    "price": 1.12,
     "merchant": "Galaxias"
   },
   {
     "name": "ΜΕΛΙΣΣΑ ΧΡΥΣΗ ΕΠΙΛΟΓΗ ΠΕΝ. ΡΙΓΕ 12/500G",
-    "price": 1.4,
+    "price": 1.32,
     "merchant": "Μασούτης"
   },
   {
@@ -31821,7 +31826,7 @@
   },
   {
     "name": "ΜΕΛΙΣΣΑ ΧΡΥΣΗ ΕΠΙΛΟΓΗ ΡΙΓΚΑΤΟΝΙ 12/500G",
-    "price": 1.4,
+    "price": 1.32,
     "merchant": "Μασούτης"
   },
   {
@@ -31851,12 +31856,12 @@
   },
   {
     "name": "ΜΕΛΙΣΣΑ ΧΡΥΣΗ ΕΠΙΛΟΓΗ ΠΛΕΞΟΥΔΕΣ 12/500G",
-    "price": 1.3,
+    "price": 1.12,
     "merchant": "Galaxias"
   },
   {
     "name": "ΜΕΛΙΣΣΑ ΧΡΥΣΗ ΕΠΙΛΟΓΗ ΠΛΕΞΟΥΔΕΣ 12/500G",
-    "price": 1.4,
+    "price": 1.32,
     "merchant": "Μασούτης"
   },
   {
@@ -31896,7 +31901,7 @@
   },
   {
     "name": "XENIA ΕΞΑΙΡΕΤΙΚΟ ΠΑΡΘΕΝΟ ΕΛΑΙΟΛΑΔΟ 12/1L",
-    "price": 7.31,
+    "price": 7.95,
     "merchant": "Galaxias"
   },
   {
@@ -31921,7 +31926,7 @@
   },
   {
     "name": "XENIA ΕΞΑΙΡΕΤΙΚΟ ΠΑΡΘΕΝΟ ΕΛΑΙΟΛΑΔΟ 8/2L",
-    "price": 14.63,
+    "price": 15.9,
     "merchant": "Galaxias"
   },
   {
@@ -32311,7 +32316,7 @@
   },
   {
     "name": "NESCAFE ΣΤΙΓΜΙΑΙΟΣ ΚΑΦΕΣ 12/200G",
-    "price": 6.45,
+    "price": 9.22,
     "merchant": "Galaxias"
   },
   {
@@ -32336,7 +32341,7 @@
   },
   {
     "name": "NESCAFE ΣΤΙΓΜΙΑΙΟΣ ΚΑΦΕΣ 12/200G",
-    "price": 9.22,
+    "price": 6.55,
     "merchant": "Σκλαβενίτης"
   },
   {
@@ -32496,7 +32501,7 @@
   },
   {
     "name": "ΛΟΥΜΙΔΗΣ ΕΛΛΗΝΙΚΟΣ ΚΑΦΕΣ 36/340G",
-    "price": 6.76,
+    "price": 8.45,
     "merchant": "Galaxias"
   },
   {
@@ -32536,7 +32541,7 @@
   },
   {
     "name": "ΛΟΥΜΙΔΗΣ ΕΛΛΗΝΙΚΟΣ ΚΑΦΕΣ 36/340G",
-    "price": 6.76,
+    "price": 8.45,
     "merchant": "Galaxias"
   },
   {
@@ -32643,11 +32648,6 @@
     "name": "ΛΟΥΜΙΔΗΣ ΕΛΛΗΝΙΚΟΣ ΚΑΦΕΣ ΚΟΥΠ. 15/143G",
     "price": 3.72,
     "merchant": "Lidl"
-  },
-  {
-    "name": "ΛΟΥΜΙΔΗΣ ΕΛΛΗΝΙΚΟΣ ΚΑΦΕΣ ΚΟΥΠ. 15/143G",
-    "price": 3.79,
-    "merchant": "Market In"
   },
   {
     "name": "ΛΟΥΜΙΔΗΣ ΕΛΛΗΝΙΚΟΣ ΚΑΦΕΣ ΚΟΥΠ. 15/143G",
@@ -32911,7 +32911,7 @@
   },
   {
     "name": "NESCAFE ΣΤΙΓΜΙΑΙΟΣ ΚΑΦΕΣ 12/140G",
-    "price": 7.72,
+    "price": 6.22,
     "merchant": "Σκλαβενίτης"
   },
   {
@@ -32941,7 +32941,7 @@
   },
   {
     "name": "NESCAFE ΚΑΦΕΣ ESPR. AZ. ST. 80/(12Τ)3. 5G",
-    "price": 3.8,
+    "price": 2.28,
     "merchant": "Μασούτης"
   },
   {
@@ -33016,7 +33016,7 @@
   },
   {
     "name": "ΧΡΥΣΗ ΖΥΜΗ ΖΥΜΗ ΚΟΥΡΟΥ 650G",
-    "price": 4.13,
+    "price": 2.68,
     "merchant": "Μασούτης"
   },
   {
@@ -33031,7 +33031,7 @@
   },
   {
     "name": "ΧΡΥΣΗ ΖΥΜΗ ΦΥΛΛΟ ΚΑΤΑΙΦΙ 500ΓΡ",
-    "price": 4.12,
+    "price": 2.68,
     "merchant": "Μασούτης"
   },
   {
@@ -33046,12 +33046,12 @@
   },
   {
     "name": "ΧΡΥΣΗ ΖΥΜΗ ΣΠΙΤΙΚΗ ΤΥΡΟΠΙΤΑ ΚΤΨ 6/850G",
-    "price": 5.61,
+    "price": 7.48,
     "merchant": "Galaxias"
   },
   {
     "name": "ΧΡΥΣΗ ΖΥΜΗ ΣΠΙΤΙΚΗ ΤΥΡΟΠΙΤΑ ΚΤΨ 6/850G",
-    "price": 7.48,
+    "price": 4.86,
     "merchant": "Μασούτης"
   },
   {
@@ -33086,7 +33086,7 @@
   },
   {
     "name": "ΧΡΥΣΗ ΖΥΜΗ ΣΠΙΤΙΚΗ ΧΟΡΤΟΠΙΤΑ 6/850G",
-    "price": 7.2,
+    "price": 4.68,
     "merchant": "Μασούτης"
   },
   {
@@ -33126,12 +33126,12 @@
   },
   {
     "name": "ΧΡΥΣΗ ΖΥΜΗ ΣΠΙΤΙΚΗ ΚΑΣΕΡΟΠΙΤΑ ΚΤΨ 6/850G",
-    "price": 5.37,
+    "price": 7.16,
     "merchant": "Galaxias"
   },
   {
     "name": "ΧΡΥΣΗ ΖΥΜΗ ΣΠΙΤΙΚΗ ΚΑΣΕΡΟΠΙΤΑ ΚΤΨ 6/850G",
-    "price": 7.16,
+    "price": 4.65,
     "merchant": "Μασούτης"
   },
   {
@@ -33171,7 +33171,7 @@
   },
   {
     "name": "ΧΡΥΣΗ ΖΥΜΗ ΝΗΣΤ. ΣΠΙΤΙΚΗ ΧΟΡΤΟΠΙΤΑ 6/850G",
-    "price": 6.68,
+    "price": 4.34,
     "merchant": "Μασούτης"
   },
   {
@@ -33201,7 +33201,7 @@
   },
   {
     "name": "ΧΡΥΣΗ ΖΥΜΗ ΦΥΛΛΟ ΚΡΟΥΣΤ. ΠΙΤΑ ΚΤΨ 12/450G",
-    "price": 3.4,
+    "price": 2.21,
     "merchant": "Μασούτης"
   },
   {
@@ -33241,7 +33241,7 @@
   },
   {
     "name": "ΧΡΥΣΗ ΖΥΜΗ ΦΥΛΛΟ ΚΡΟΥΣΤ. ΓΛΥΚΑ ΚΤΨ12/450G",
-    "price": 3.4,
+    "price": 2.21,
     "merchant": "Μασούτης"
   },
   {
@@ -33271,7 +33271,7 @@
   },
   {
     "name": "ΧΡΥΣΗ ΖΥΜΗ ΜΙΝΙ ΣΤΡΙΦΤΑΡΙΑ ΤΥΡΙ 800G",
-    "price": 5.88,
+    "price": 3.82,
     "merchant": "Μασούτης"
   },
   {
@@ -33361,12 +33361,12 @@
   },
   {
     "name": "ΧΡΥΣΗ ΖΥΜΗ ΧΟΡ. ΦΕΤ-Κ. ΜΕΤ-ΓΡ. Κ ΚΤΨ 6/850G",
-    "price": 7.28,
+    "price": 5.82,
     "merchant": "Galaxias"
   },
   {
     "name": "ΧΡΥΣΗ ΖΥΜΗ ΧΟΡ. ΦΕΤ-Κ. ΜΕΤ-ΓΡ. Κ ΚΤΨ 6/850G",
-    "price": 7.28,
+    "price": 4.73,
     "merchant": "Μασούτης"
   },
   {
@@ -33406,12 +33406,12 @@
   },
   {
     "name": "ΧΡΥΣΗ ΖΥΜΗ ΧΟΡ. ΣΠ-ΜΥΖ-ΠΡ-ΦΕΤ. ΚΤΨ 6/850G",
-    "price": 7.66,
+    "price": 6.13,
     "merchant": "Galaxias"
   },
   {
     "name": "ΧΡΥΣΗ ΖΥΜΗ ΧΟΡ. ΣΠ-ΜΥΖ-ΠΡ-ΦΕΤ. ΚΤΨ 6/850G",
-    "price": 7.66,
+    "price": 4.98,
     "merchant": "Μασούτης"
   },
   {
@@ -33446,12 +33446,12 @@
   },
   {
     "name": "ΧΡΥΣΗ ΖΥΜΗ ΧΟΡ. ΚΟΤ-ΓΡΑΒ-ΠΙΠΕΡΙΕΣ 6/850G",
-    "price": 8.68,
+    "price": 6.94,
     "merchant": "Galaxias"
   },
   {
     "name": "ΧΡΥΣΗ ΖΥΜΗ ΧΟΡ. ΚΟΤ-ΓΡΑΒ-ΠΙΠΕΡΙΕΣ 6/850G",
-    "price": 8.68,
+    "price": 5.64,
     "merchant": "Μασούτης"
   },
   {
@@ -33496,7 +33496,7 @@
   },
   {
     "name": "ΧΡΥΣΗ ΖΥΜΗ ΚΟΥΡΟΥ ΤΥΡΟΠΙΤΑΚΙΑ ΚΤΨ10/800G",
-    "price": 5,
+    "price": 3.25,
     "merchant": "Μασούτης"
   },
   {
@@ -33536,7 +33536,7 @@
   },
   {
     "name": "ΧΡΥΣΗ ΖΥΜΗ ΣΠΙΤΙΚΑ ΤΡΙΓ. TΥΡΙ ΚΤΨ 10/700G",
-    "price": 6.06,
+    "price": 3.94,
     "merchant": "Μασούτης"
   },
   {
@@ -33581,7 +33581,7 @@
   },
   {
     "name": "ΧΡΥΣΗ ΖΥΜΗ ΣΠΙΤ. ΤΡΙΓ. ΣΠΑΝ. ΚΤΨ 10/700G",
-    "price": 5.98,
+    "price": 3.89,
     "merchant": "Μασούτης"
   },
   {
@@ -33616,7 +33616,7 @@
   },
   {
     "name": "ΧΡΥΣΗ ΖΥΜΗ ΜΠΟΥΓ/ΚΙΑ ΚΡΕΜΑ ΚΤΨ 10/700G",
-    "price": 5.63,
+    "price": 3.66,
     "merchant": "Μασούτης"
   },
   {
@@ -33651,7 +33651,7 @@
   },
   {
     "name": "ΧΡΥΣΗ ΖΥΜΗ ΜΑΚ. ΣΤΡΙ. ΤΥΡΙ ΜΥΖ. ΦΕΤ 8/800G",
-    "price": 6.35,
+    "price": 4.13,
     "merchant": "Μασούτης"
   },
   {
@@ -33766,7 +33766,7 @@
   },
   {
     "name": "ΧΡΥΣΗ ΖΥΜΗ ΚΟΥΡ. ΟΛΙΚ. ΓΑΛ&ΤΥΡ. ΦΙ. 12/650G",
-    "price": 6.55,
+    "price": 4.26,
     "merchant": "Μασούτης"
   },
   {
@@ -33791,7 +33791,7 @@
   },
   {
     "name": "ΧΡΥΣΗ ΖΥΜΗ ΣΟΥΣΑΜ. ΛΟΥΚ. ΚΕΤΣ. ΜΟΥΣ. 10/700G",
-    "price": 5.36,
+    "price": 3.48,
     "merchant": "Μασούτης"
   },
   {
@@ -33831,7 +33831,7 @@
   },
   {
     "name": "ΧΡΥΣΗ ΖΥΜΗ ΣΟΥΣ. ΚΑΣΕΡ. ΠΟΠ ΓΡ. ΚΤΨ 10/700G",
-    "price": 5.12,
+    "price": 3.33,
     "merchant": "Μασούτης"
   },
   {
@@ -33996,7 +33996,7 @@
   },
   {
     "name": "ΧΡΥΣΗ ΖΥΜΗ ΣΦΟΛΙΑΤ. ΠΙΤΕΣ&ΓΛΥΚ. ΚΤΨ12/850G",
-    "price": 4.5,
+    "price": 2.93,
     "merchant": "Μασούτης"
   },
   {
@@ -34031,7 +34031,7 @@
   },
   {
     "name": "ΧΡΥΣΗ ΖΥΜΗ ΚΡΟΥΑΣΑΝ ΒΟΥΤΥΡΟΥ ΚΤΨ 12/300G",
-    "price": 2.82,
+    "price": 2.11,
     "merchant": "Galaxias"
   },
   {
@@ -34076,7 +34076,7 @@
   },
   {
     "name": "ΧΡΥΣΗ ΖΥΜΗ ΚΡΟΥΑΣΑΝ ΒΟΥΤ. ΠΡΑΛ. ΚΤΨ10/480G",
-    "price": 4.25,
+    "price": 3.19,
     "merchant": "Galaxias"
   },
   {
@@ -34301,7 +34301,7 @@
   },
   {
     "name": "ΜΠΑΡΜΠΑ ΣΤΑΘΗΣ ΣΠΑΝΑΚΙ ΦΥΛΛΑ ΚΤΨ 10/1KG",
-    "price": 4.2,
+    "price": 3.44,
     "merchant": "ΑΒ Βασιλόπουλος"
   },
   {
@@ -34586,7 +34586,7 @@
   },
   {
     "name": "ΑΣ ΜΑΓΕΙΡΕΨΟΥΜΕ ΑΓΚΙΝ. ΑΛΑ ΠΟΛΙΤΑ 10/1KG",
-    "price": 5.73,
+    "price": 7.64,
     "merchant": "Galaxias"
   },
   {
@@ -34626,7 +34626,7 @@
   },
   {
     "name": "ΑΣ ΜΑΓΕΙΡΕΨΟΥΜΕ ΜΠΡΙΑΜ ΚΤΨ 10/1KG",
-    "price": 5.47,
+    "price": 7.3,
     "merchant": "Galaxias"
   },
   {
@@ -34671,7 +34671,7 @@
   },
   {
     "name": "ΜΠΑΡΜΠΑ ΣΤΑΘΗΣ ΣΑΛΑΤΑ ΚΑΛΑΜΠΟΚIΟΥ16/450G",
-    "price": 3.8,
+    "price": 2.66,
     "merchant": "Galaxias"
   },
   {
@@ -34716,7 +34716,7 @@
   },
   {
     "name": "ΜΠΑΡΜΠΑ ΣΤΑΘΗΣ ΣΑΛΑΤΑ ΕΠΟΧΗΣ ΚΤΨ 10/750G",
-    "price": 4.05,
+    "price": 2.83,
     "merchant": "Galaxias"
   },
   {
@@ -34846,7 +34846,7 @@
   },
   {
     "name": "ΑΣ ΜΑΓΕΙΡΕΨΟΥΜΕ ΑΡΑΚΑΣ ΛΑΔΕΡΟΣ 10/1KG",
-    "price": 4.35,
+    "price": 5.8,
     "merchant": "Galaxias"
   },
   {
@@ -34901,7 +34901,7 @@
   },
   {
     "name": "ΑΣ ΜΑΓΕΙΡΕΨΟΥΜΕ ΦΑΣΟΛ. ΣΤΡΟΓ. ΛΑΔ. 10/1KG",
-    "price": 4.18,
+    "price": 5.58,
     "merchant": "Galaxias"
   },
   {
@@ -34951,7 +34951,7 @@
   },
   {
     "name": "ΜΠΑΡΜΠΑ ΣΤΑΘΗΣ ΡΥΖΙ ΜΕ ΚΑΛΑΜΠΟΚΙ 15/600G",
-    "price": 2.88,
+    "price": 3.84,
     "merchant": "Galaxias"
   },
   {
@@ -35956,7 +35956,7 @@
   },
   {
     "name": "EVERYDAY HYPERDRY UL. PL. NORM ECON 24/18",
-    "price": 2.34,
+    "price": 2.44,
     "merchant": "Galaxias"
   },
   {
@@ -36011,18 +36011,13 @@
   },
   {
     "name": "EVERYDAY HYPERDRY UL. PL SUP ECO. 24/18TEM",
-    "price": 2.34,
+    "price": 2.44,
     "merchant": "Galaxias"
   },
   {
     "name": "EVERYDAY HYPERDRY UL. PL SUP ECO. 24/18TEM",
     "price": 2.29,
     "merchant": "Lidl"
-  },
-  {
-    "name": "EVERYDAY HYPERDRY UL. PL SUP ECO. 24/18TEM",
-    "price": 2.45,
-    "merchant": "Market In"
   },
   {
     "name": "EVERYDAY HYPERDRY UL. PL SUP ECO. 24/18TEM",
@@ -36066,7 +36061,7 @@
   },
   {
     "name": "EVERYDAY HPERDR UL. PL. MAX NIG. ECO 24/18T",
-    "price": 2.34,
+    "price": 2.44,
     "merchant": "Galaxias"
   },
   {
@@ -36281,7 +36276,7 @@
   },
   {
     "name": "WET HANKIES ΑΝΤ. ΜΑΝΤ. LEMON THICK 72ΤΕΜ.",
-    "price": 1.82,
+    "price": 2.08,
     "merchant": "Galaxias"
   },
   {
@@ -36321,7 +36316,7 @@
   },
   {
     "name": "WET HANKIES ΥΓ. ΜΑΝΤΙΛΙΑ ΑΝΤΙΒ. 16/72Τ.",
-    "price": 1.82,
+    "price": 2.08,
     "merchant": "Galaxias"
   },
   {
@@ -36361,7 +36356,7 @@
   },
   {
     "name": "WET HANKIES ΥΓ. ΜΑΝΤ. EXTRA SAFE 16/63Τ",
-    "price": 1.91,
+    "price": 2.18,
     "merchant": "Galaxias"
   },
   {
@@ -36736,7 +36731,7 @@
   },
   {
     "name": "BABYLINO SENS. Ν3 4-9KG ΟΙΚΟΝ. ΣΥΣΚ. 5/56Τ",
-    "price": 10.79,
+    "price": 10.55,
     "merchant": "Galaxias"
   },
   {
@@ -36786,7 +36781,7 @@
   },
   {
     "name": "BABYLINO SENS MAXI Ν. 4 ΟΙΚ. 8-13KG 5/50T",
-    "price": 10.79,
+    "price": 10.55,
     "merchant": "Galaxias"
   },
   {
@@ -36836,7 +36831,7 @@
   },
   {
     "name": "BABYLINO SEN. MA. PL Ν. 4+ ΟΙΚ10-15KG 5/46Τ",
-    "price": 10.79,
+    "price": 10.55,
     "merchant": "Galaxias"
   },
   {
@@ -36891,7 +36886,7 @@
   },
   {
     "name": "BABYLINO SENS JUNI N5 ΟΙΚ 11-16KG 5/44Τ",
-    "price": 10.79,
+    "price": 10.55,
     "merchant": "Galaxias"
   },
   {
@@ -36946,7 +36941,7 @@
   },
   {
     "name": "BABYLINO SENS J. PL N5+ ΟΙΚ 12-17KG 5/42T",
-    "price": 10.79,
+    "price": 10.55,
     "merchant": "Galaxias"
   },
   {
@@ -37231,7 +37226,7 @@
   },
   {
     "name": "SANI PANTS ΕΣΩΡ. ΑΚΡΑΤ. Ν. 1 SMALL 4/14TEM",
-    "price": 6.27,
+    "price": 6.9,
     "merchant": "Galaxias"
   },
   {
@@ -37276,7 +37271,7 @@
   },
   {
     "name": "SANI PANTS ΕΣΩΡ. ΑΚΡΑΤ. Ν. 2 MEDIUM 4/14TEM",
-    "price": 7.51,
+    "price": 8.26,
     "merchant": "Galaxias"
   },
   {
@@ -37331,18 +37326,13 @@
   },
   {
     "name": "SANI PANTS ΕΣΩΡ. ΑΚΡΑΤ. Ν. 3 LARGE 4/14TEM",
-    "price": 9.12,
+    "price": 10.03,
     "merchant": "Galaxias"
   },
   {
     "name": "SANI PANTS ΕΣΩΡ. ΑΚΡΑΤ. Ν. 3 LARGE 4/14TEM",
     "price": 10.05,
     "merchant": "Lidl"
-  },
-  {
-    "name": "SANI PANTS ΕΣΩΡ. ΑΚΡΑΤ. Ν. 3 LARGE 4/14TEM",
-    "price": 9.69,
-    "merchant": "Market In"
   },
   {
     "name": "SANI PANTS ΕΣΩΡ. ΑΚΡΑΤ. Ν. 3 LARGE 4/14TEM",
@@ -37551,7 +37541,7 @@
   },
   {
     "name": "SANI PANTS ΕΣΩΡ. ΑΚΡ. Ν. 4 EX. LARGE 4/14T.",
-    "price": 11.69,
+    "price": 12.86,
     "merchant": "Galaxias"
   },
   {
@@ -37591,7 +37581,7 @@
   },
   {
     "name": "SANI PANTS ΕΣΩΡ. ΑΚΡΑΤ. Ν. 2 MEDIUM 4/24T",
-    "price": 12.67,
+    "price": 13.94,
     "merchant": "Galaxias"
   },
   {
@@ -37636,7 +37626,7 @@
   },
   {
     "name": "SANI PANTS ΕΣΩΡ. ΑΚΡΑΤ. Ν. 3 LARGE 4/24T",
-    "price": 15.11,
+    "price": 16.62,
     "merchant": "Galaxias"
   },
   {
@@ -38466,7 +38456,7 @@
   },
   {
     "name": "ΥΦΑΝΤΗΣ PIZZA ROCK 'N ROLL (3T) 6/1380G",
-    "price": 7.42,
+    "price": 9.9,
     "merchant": "Galaxias"
   },
   {
@@ -38556,7 +38546,7 @@
   },
   {
     "name": "ΥΦΑΝΤΗΣ ΦΙΛ. ΓΑΛΟΠΟΥΛΑΣ ΚΑΠΝ. &GOUD. 6/280G",
-    "price": 4.97,
+    "price": 5.85,
     "merchant": "Galaxias"
   },
   {
@@ -38591,7 +38581,7 @@
   },
   {
     "name": "SANITAS ΑΝΤΙΚ. ΧΑΡΤΙ ΣΕ ΦΥΛΛΑ 24/18Φ",
-    "price": 2.18,
+    "price": 3.11,
     "merchant": "Galaxias"
   },
   {
@@ -38776,7 +38766,7 @@
   },
   {
     "name": "AVA PERLE ΧΑΜΟΜΗΛΙ ΥΓΡΟ ΠΙΑΤΩΝ 12/900ML",
-    "price": 2.17,
+    "price": 1.99,
     "merchant": "Galaxias"
   },
   {
@@ -38821,7 +38811,7 @@
   },
   {
     "name": "AVA PERLE ΧΑΜ. ΛΕΜΟΝΙ ΥΓΡ. ΠΙΑΤΩΝ 12/900ML",
-    "price": 2.17,
+    "price": 1.99,
     "merchant": "Galaxias"
   },
   {
@@ -39061,11 +39051,6 @@
   },
   {
     "name": "NOXZEMA CLASSIC ROLL-ON. 6/50ML",
-    "price": 2.99,
-    "merchant": "Market In"
-  },
-  {
-    "name": "NOXZEMA CLASSIC ROLL-ON. 6/50ML",
     "price": 2.42,
     "merchant": "Μασούτης"
   },
@@ -39111,7 +39096,7 @@
   },
   {
     "name": "NOXZEMA MEMORIES ROLL-ON 6/50ML",
-    "price": 4.84,
+    "price": 2.42,
     "merchant": "Μασούτης"
   },
   {
@@ -39353,11 +39338,6 @@
     "name": "SANITAS ΑΛΟΥΜΙΝΟΧΑΡΤΟ 25/10M (2. 9M²)",
     "price": 1.82,
     "merchant": "Galaxias"
-  },
-  {
-    "name": "SANITAS ΑΛΟΥΜΙΝΟΧΑΡΤΟ 25/10M (2. 9M²)",
-    "price": 2.09,
-    "merchant": "Market In"
   },
   {
     "name": "SANITAS ΑΛΟΥΜΙΝΟΧΑΡΤΟ 25/10M (2. 9M²)",
@@ -39746,7 +39726,7 @@
   },
   {
     "name": "ROLI ΣΚΟΝΗ ΚΑΘΑΡΙΣΜΟΥ ΠΕΥΚΟ 24/500G",
-    "price": 0.99,
+    "price": 1.08,
     "merchant": "Galaxias"
   },
   {
@@ -39786,7 +39766,7 @@
   },
   {
     "name": "ROLI ΣΚΟΝΗ ΚΑΘΑΡΙΣΜΟΥ ΛΕΜΟΝΙ 24/500G",
-    "price": 0.99,
+    "price": 1.08,
     "merchant": "Galaxias"
   },
   {
@@ -39956,7 +39936,7 @@
   },
   {
     "name": "ROL DRYWASH ΣΠΡΕΥ ΦΡΕΣΚ. &ΞΕΤΣΑΛ. 9/325ML",
-    "price": 5.27,
+    "price": 3.43,
     "merchant": "Galaxias"
   },
   {
@@ -40141,7 +40121,7 @@
   },
   {
     "name": "PLANET BABY ΑΠΟΡ. ΠΛΥΝΤ. ΥΓΡΟ 38Μ 4/2. 204L",
-    "price": 9.94,
+    "price": 7.95,
     "merchant": "Synka"
   },
   {
@@ -40161,7 +40141,7 @@
   },
   {
     "name": "ESSEX ΑΠΟΡ/ΚΟ ΠΛ. ΡΟΥΧ. MULTI ΣΚ. 50Μ. 2. 4KG",
-    "price": 5.94,
+    "price": 5.87,
     "merchant": "Galaxias"
   },
   {
@@ -40351,7 +40331,7 @@
   },
   {
     "name": "ΧΡΥΣΕΛΙΑ ΚΛΑΣΙΚΟ ΕΛΑΙΟΛΑΔΟ 6/2L.",
-    "price": 12.64,
+    "price": 14.5,
     "merchant": "ΑΒ Βασιλόπουλος"
   },
   {
@@ -40381,7 +40361,7 @@
   },
   {
     "name": "ΧΡΥΣΕΛΙΑ ΚΛΑΣΙΚΟ ΕΛΑΙΟΛΑΔΟ 12/1L",
-    "price": 6.34,
+    "price": 7.32,
     "merchant": "ΑΒ Βασιλόπουλος"
   },
   {
@@ -40456,7 +40436,7 @@
   },
   {
     "name": "ΧΡΥΣΕΛΙΑ ΕΛΑΙΟΛΑΔΟ ΚΛΑΣΙΚΟ 4/4L",
-    "price": 23.75,
+    "price": 27.46,
     "merchant": "ΑΒ Βασιλόπουλος"
   },
   {
@@ -40491,7 +40471,7 @@
   },
   {
     "name": "ΚΟΡΗ ΠΥΡΗΝΕΛΑΙΟ 12/1L",
-    "price": 4.92,
+    "price": 4.13,
     "merchant": "Galaxias"
   },
   {
@@ -40616,7 +40596,7 @@
   },
   {
     "name": "FLOKOS ΚΑΛΑΜΑΡΙ ΣΕ ΑΛΜΗ 48/370G",
-    "price": 4.97,
+    "price": 4.67,
     "merchant": "ΑΒ Βασιλόπουλος"
   },
   {
@@ -40646,7 +40626,7 @@
   },
   {
     "name": "FLOKOS ΚΑΛΑΜΑΡΙ ΣΕ ΑΛΜΗ 48/370G",
-    "price": 4.75,
+    "price": 4.85,
     "merchant": "Synka"
   },
   {
@@ -40936,7 +40916,7 @@
   },
   {
     "name": "DETTOL SENSITIVE ΑΝΤ/ΚΟ ΚΡΕΜ. 12/750ML",
-    "price": 4.51,
+    "price": 2.48,
     "merchant": "Galaxias"
   },
   {
@@ -40971,7 +40951,7 @@
   },
   {
     "name": "DETTOL ΑΝΤ/ΚΟ ΚΡΕΜ. ΛΕΒΑΝΤΑ 12/750ML",
-    "price": 4.51,
+    "price": 2.48,
     "merchant": "Galaxias"
   },
   {
@@ -41366,7 +41346,7 @@
   },
   {
     "name": "7DAYS ΚΡΟΥΑΣΑΝ ΚΑΚΑΟ 10/5X37G(OIK. ΣΥ",
-    "price": 1.67,
+    "price": 1.97,
     "merchant": "Galaxias"
   },
   {
@@ -41441,7 +41421,7 @@
   },
   {
     "name": "7DAYS MINI ΚΡΟΥΑΣΑΝ ΚΑΚΑΟ 12/103G",
-    "price": 1.18,
+    "price": 1.48,
     "merchant": "Galaxias"
   },
   {
@@ -41491,7 +41471,7 @@
   },
   {
     "name": "7DAYS MINI ΚΡΟΥΑΣΑΝ ΜΙΛΦΕΙΓ 12/103G",
-    "price": 1.26,
+    "price": 1.58,
     "merchant": "Galaxias"
   },
   {
@@ -42111,7 +42091,7 @@
   },
   {
     "name": "BREF WC BLOCK PA OCEAN DUOS 10/2X50G",
-    "price": 2.67,
+    "price": 2.47,
     "merchant": "Galaxias"
   },
   {
@@ -42161,7 +42141,7 @@
   },
   {
     "name": "BREF WC BLOCK PA PINE DUOS 10/2X50G",
-    "price": 2.67,
+    "price": 2.47,
     "merchant": "Galaxias"
   },
   {
@@ -42211,7 +42191,7 @@
   },
   {
     "name": "BREF WC BLOCK BLUE ACT. FLOR. DUO 10/2X50G",
-    "price": 2.93,
+    "price": 2.71,
     "merchant": "Galaxias"
   },
   {
@@ -43021,7 +43001,7 @@
   },
   {
     "name": "3ΑΛΦΑ ΦΑΚΕΣ ΨΙΛΕΣ 20/500G",
-    "price": 2.41,
+    "price": 2.24,
     "merchant": "Market In"
   },
   {
@@ -43111,7 +43091,7 @@
   },
   {
     "name": "3ΑΛΦΑ ΦΑΚΕΣ ΧΟΝΔΡΕΣ 20/ 500G",
-    "price": 2.49,
+    "price": 2.29,
     "merchant": "Market In"
   },
   {
@@ -43836,7 +43816,7 @@
   },
   {
     "name": "SEPTONA ΥΑΛΟΥΡ. ΟΞΥ ΜΑΝΤ. ΝΤΕΜ. 15/20Τ(1+1",
-    "price": 2.31,
+    "price": 2.47,
     "merchant": "Galaxias"
   },
   {
@@ -43898,6 +43878,11 @@
     "name": "SEPTONA ΥΓΡΑ ΑΝΤΙΒ. ΜΑΝΤ. 75%ETH. 16/60ΤΕΜ.",
     "price": 1.84,
     "merchant": "Galaxias"
+  },
+  {
+    "name": "SEPTONA ΥΓΡΑ ΑΝΤΙΒ. ΜΑΝΤ. 75%ETH. 16/60ΤΕΜ.",
+    "price": 1.98,
+    "merchant": "Market In"
   },
   {
     "name": "SEPTONA ΥΓΡΑ ΑΝΤΙΒ. ΜΑΝΤ. 75%ETH. 16/60ΤΕΜ.",
@@ -43976,7 +43961,7 @@
   },
   {
     "name": "SEPTONA ΩΤΟΚΑΘ/ΣΤΕΣ ΒΙΟΔΙΑΣΠ. ΣΑΚ. 24/100Τ",
-    "price": 0.88,
+    "price": 0.98,
     "merchant": "Galaxias"
   },
   {
@@ -44016,7 +44001,7 @@
   },
   {
     "name": "SEPTONA ΩΤ/ΣΤΕΣ ΒΙΟΔ. ΣΑΚ. 24/200Τ.",
-    "price": 1.15,
+    "price": 1.28,
     "merchant": "Galaxias"
   },
   {
@@ -44076,7 +44061,7 @@
   },
   {
     "name": "SEPTONA ΑΝΤΙΣ. ΛΟΣ. ΧΕΡ. MILD 70% 12/200ML",
-    "price": 2.14,
+    "price": 2.29,
     "merchant": "Galaxias"
   },
   {
@@ -44326,7 +44311,7 @@
   },
   {
     "name": "SEPTONA ΜΩΡ/ΛΑ DERMA FAM. ΟΙΚ. 6/(3X100Τ)",
-    "price": 4,
+    "price": 3.74,
     "merchant": "Galaxias"
   },
   {
@@ -44441,7 +44426,7 @@
   },
   {
     "name": "DIROLLO COTTAGE 12/225G",
-    "price": 2.98,
+    "price": 2.47,
     "merchant": "Lidl"
   },
   {
@@ -44841,7 +44826,7 @@
   },
   {
     "name": "KERRYGOLD TIROTRELLA 12/80G",
-    "price": 2.96,
+    "price": 2.98,
     "merchant": "Lidl"
   },
   {
@@ -46546,7 +46531,7 @@
   },
   {
     "name": "ΚΡΙΣ ΚΡΙΣ ΠΙΤΑ PREMIUM (8ΤΕΜ. )670G",
-    "price": 1.69,
+    "price": 2.26,
     "merchant": "Galaxias"
   },
   {
@@ -46911,7 +46896,7 @@
   },
   {
     "name": "TSAKIRIS CHIPS ΜΕ ΑΛΑΤΙ 16/90G",
-    "price": 0.96,
+    "price": 1.2,
     "merchant": "My Market"
   },
   {
@@ -46946,7 +46931,7 @@
   },
   {
     "name": "TSAKIRIS CHIPS ΜΕ ΡΙΓΑΝΗ 16/90G",
-    "price": 0.96,
+    "price": 1.2,
     "merchant": "My Market"
   },
   {
@@ -46986,7 +46971,7 @@
   },
   {
     "name": "TSAKIRIS CHIPS ΜΕ ΑΛΑΤΙ 18/140G",
-    "price": 1.76,
+    "price": 1.41,
     "merchant": "Μασούτης"
   },
   {
@@ -47031,7 +47016,7 @@
   },
   {
     "name": "TSAKIRIS CHIPS ΜΕ ΡΙΓΑΝΗ 18/140G",
-    "price": 1.76,
+    "price": 1.41,
     "merchant": "Μασούτης"
   },
   {
@@ -47071,7 +47056,7 @@
   },
   {
     "name": "TSAKIRIS STICKS ΑΛΑΤΙ 16/130G",
-    "price": 1.98,
+    "price": 1.58,
     "merchant": "Galaxias"
   },
   {
@@ -47546,7 +47531,7 @@
   },
   {
     "name": "AGRINO ΦΑΚΕΣ ΨΙΛΕΣ ΕΛΛΗΝΙΚΕΣ 500 G",
-    "price": 2.42,
+    "price": 2.06,
     "merchant": "Μασούτης"
   },
   {
@@ -47631,7 +47616,7 @@
   },
   {
     "name": "AGRINO ΓΙΓΑΝΤΕΣ ΚΑΣΤΟΡΙΑΣ 500 G",
-    "price": 6.1,
+    "price": 5.4,
     "merchant": "Μασούτης"
   },
   {
@@ -47866,7 +47851,7 @@
   },
   {
     "name": "AGRINO ΡΥΖΟΓΚΟΦΡΕΤΕΣ ΜΕ ΣΟΚ. ΓΑΛ. 12/60G",
-    "price": 1.76,
+    "price": 2.07,
     "merchant": "Galaxias"
   },
   {
@@ -47916,7 +47901,7 @@
   },
   {
     "name": "AGRINO ΡΥΖΟΓΚΟΦΡΕΤΕΣ ΜΕ ΜΑΥΡΗ ΣΟΚ. 12/60G",
-    "price": 1.76,
+    "price": 2.07,
     "merchant": "Galaxias"
   },
   {
@@ -47971,7 +47956,7 @@
   },
   {
     "name": "AGRINO ΡΥΖΟΓΚΟΦΡΕΤΕΣ ΚΑΡΑΜΕΛΑ 10/70G.",
-    "price": 2.02,
+    "price": 2.38,
     "merchant": "Galaxias"
   },
   {
@@ -48066,7 +48051,7 @@
   },
   {
     "name": "BRAVO ΕΛΛΗΝΙΚΟΣ ΚΑΦΕΣ 12Χ10/95G.",
-    "price": 2.55,
+    "price": 2.04,
     "merchant": "Galaxias"
   },
   {
@@ -48111,7 +48096,7 @@
   },
   {
     "name": "BRAVO ΕΛΛΗΝΙΚΟΣ ΚΑΦΕΣ 12Χ5/193G.",
-    "price": 4.73,
+    "price": 3.78,
     "merchant": "Galaxias"
   },
   {
@@ -48161,7 +48146,7 @@
   },
   {
     "name": "BRAVO ΚΑΦΕΚΟΠΤΕΙΟ ΕΛΛΗΝ. ΚΑΦΕΣ 30/157G",
-    "price": 3.9,
+    "price": 3.12,
     "merchant": "Galaxias"
   },
   {
@@ -48236,7 +48221,7 @@
   },
   {
     "name": "JACOBS ΚΑΦΕΣ ΦΙΛΤΡΟΥ ΒΑΝΙΛΙΑ 12/250G",
-    "price": 6.92,
+    "price": 8.65,
     "merchant": "Galaxias"
   },
   {
@@ -48286,7 +48271,7 @@
   },
   {
     "name": "JACOBS ΚΑΦΕΣ ΦΙΛΤΡΟΥ ΚΑΡΑΜΕΛΑ 12/250G",
-    "price": 6.92,
+    "price": 8.65,
     "merchant": "Galaxias"
   },
   {
@@ -48331,7 +48316,7 @@
   },
   {
     "name": "JACOBS ΚΑΦΕΣ ΦΙΛΤΡΟΥ ΦΟΥΝΤΟΥΚΙ 12/250G",
-    "price": 6.92,
+    "price": 8.65,
     "merchant": "Galaxias"
   },
   {
@@ -49566,7 +49551,7 @@
   },
   {
     "name": "ΑΞΙΑΓΑΠΙΤΕΣ ΑΡΑΒΙΚΕΣ ΜΕΓΑΛΕΣ (6T) 500G",
-    "price": 1.25,
+    "price": 1.78,
     "merchant": "Xalkiadakis"
   },
   {
@@ -49611,7 +49596,7 @@
   },
   {
     "name": "ΑΞΙΑΓΑΠΙΤΕΣ ΤΟΡΤΙΓΙΕΣ ΜΕΓΑΛΕΣ 14/6Τ. 375G",
-    "price": 1.78,
+    "price": 2.54,
     "merchant": "Xalkiadakis"
   },
   {
@@ -49646,7 +49631,7 @@
   },
   {
     "name": "ΠΑΞΑΜΑΣ ΛΑΔΙΟΥ 12/500G",
-    "price": 2.6,
+    "price": 2.81,
     "merchant": "My Market"
   },
   {
@@ -50366,7 +50351,7 @@
   },
   {
     "name": "ΚΑΡΑΜΟΛΕΓΚΟΣ ΨΩΜΑΚΙΑ BURGERS 6/480G(6TEM",
-    "price": 1.75,
+    "price": 2.33,
     "merchant": "Galaxias"
   },
   {
@@ -50416,7 +50401,7 @@
   },
   {
     "name": "ΚΑΡΑΜΟΛΕΓΚΟΣ ΨΩΜΑΚΙΑ ΣΑΝΤΟΥΙΤΣ 5/480G(6T",
-    "price": 1.75,
+    "price": 2.33,
     "merchant": "Galaxias"
   },
   {
@@ -50466,7 +50451,7 @@
   },
   {
     "name": "KOLIOS ΠΑΡΑΔΟΣΙΑΚΟ ΤΥΡΙ ΗΜΙΣΚΛ. 12/370G",
-    "price": 5.95,
+    "price": 5.97,
     "merchant": "Lidl"
   },
   {
@@ -50491,7 +50476,7 @@
   },
   {
     "name": "ΚΟΛΙΟΣ SPAGETO CLUB ΤΥΡΙ ΤΡΙΜ/ΝΟ 12/200G",
-    "price": 2.99,
+    "price": 2.49,
     "merchant": "Galaxias"
   },
   {
@@ -50606,7 +50591,7 @@
   },
   {
     "name": "WETTEX ΑΠΟΡΡΟΦΗΤΙΚΟ ΠΕΤΣΕΤΑΚΙ ΝΟ2",
-    "price": 2.23,
+    "price": 1.67,
     "merchant": "Galaxias"
   },
   {
@@ -50646,7 +50631,7 @@
   },
   {
     "name": "WETTEX ΜΑΓΙΚΟ ΡΟΛΟ 1. 5M 25ΤΕΜ",
-    "price": 5.35,
+    "price": 4.01,
     "merchant": "Galaxias"
   },
   {
@@ -50751,7 +50736,7 @@
   },
   {
     "name": "VILEDA SUPER ΚΟΝΤΑΡΙ ΣΦΟΥΓΓΑΡΙΣΤΡΑΣ 20Τ.",
-    "price": 3.8,
+    "price": 2.66,
     "merchant": "Galaxias"
   },
   {
@@ -50891,7 +50876,7 @@
   },
   {
     "name": "ΜΑΝΝΑ ΠΑΞΙΜΑΔΙ ΛΑΔ. MIN. Τ. ΚΥΘ. 400G",
-    "price": 3.72,
+    "price": 3.16,
     "merchant": "Galaxias"
   },
   {
@@ -51961,7 +51946,7 @@
   },
   {
     "name": "EL SABOR ΤΟΡΤΙΓΙΑ ΟΛ. ΑΛ. 20CM (8ΤΕΜ) 320G",
-    "price": 1.91,
+    "price": 2.25,
     "merchant": "Galaxias"
   },
   {
@@ -52186,7 +52171,7 @@
   },
   {
     "name": "ΟΛΥΜΠΟΣ ΒΟΥΤΥΡΟ ΑΓΕΛΑΔΟΣ 12/250G",
-    "price": 3.6,
+    "price": 4.5,
     "merchant": "Bazaar"
   },
   {
@@ -52211,7 +52196,7 @@
   },
   {
     "name": "ΟΛΥΜΠΟΣ ΒΟΥΤΥΡΟ ΑΓΕΛΑΔΟΣ 12/250G",
-    "price": 3.38,
+    "price": 4.5,
     "merchant": "My Market"
   },
   {
@@ -52226,7 +52211,7 @@
   },
   {
     "name": "ΟΛΥΜΠΟΣ ΒΟΥΤΥΡΟ ΑΓΕΛΑΔΟΣ 12/250G",
-    "price": 3.15,
+    "price": 4.5,
     "merchant": "Xalkiadakis"
   },
   {
@@ -52541,7 +52526,7 @@
   },
   {
     "name": "ΟΛΥΜΠΟΣ ΦΥΣ. ΧΥΜΟΣ ΡΟΔΙ-ΜΗΛΟ-ΣΤΑΦ. 12/1L",
-    "price": 2.8,
+    "price": 3.5,
     "merchant": "Galaxias"
   },
   {
@@ -52551,7 +52536,7 @@
   },
   {
     "name": "ΟΛΥΜΠΟΣ ΦΥΣ. ΧΥΜΟΣ ΡΟΔΙ-ΜΗΛΟ-ΣΤΑΦ. 12/1L",
-    "price": 3.5,
+    "price": 2.63,
     "merchant": "Μασούτης"
   },
   {
@@ -52856,7 +52841,7 @@
   },
   {
     "name": "ΟΛΥΜΠΟΣ ΡΟΦ. ΑΜΥΓΔΑΛΟΥ ΜΕ ΚΑΚΑΟ 12/500ΜL",
-    "price": 1.58,
+    "price": 1.98,
     "merchant": "Galaxias"
   },
   {
@@ -52871,7 +52856,7 @@
   },
   {
     "name": "ΟΛΥΜΠΟΣ ΡΟΦ. ΑΜΥΓΔΑΛΟΥ ΜΕ ΚΑΚΑΟ 12/500ΜL",
-    "price": 1.39,
+    "price": 1.98,
     "merchant": "My Market"
   },
   {
@@ -52931,7 +52916,7 @@
   },
   {
     "name": "ΟΛΥΜΠΟΣ ΡΟΦΗΜΑ ΑΜΥΓΔΑΛΟΥ ΠΡΩΤΕΙΝΗ 12/1L.",
-    "price": 2.64,
+    "price": 3.3,
     "merchant": "Galaxias"
   },
   {
@@ -52946,7 +52931,7 @@
   },
   {
     "name": "ΟΛΥΜΠΟΣ ΡΟΦΗΜΑ ΑΜΥΓΔΑΛΟΥ ΠΡΩΤΕΙΝΗ 12/1L.",
-    "price": 2.31,
+    "price": 3.3,
     "merchant": "My Market"
   },
   {
@@ -53016,7 +53001,7 @@
   },
   {
     "name": "ΟΛΥΜΠΟΣ ΚΑΡΠΟΣ ΡΟΦΗΜΑ ΒΡΩΜΗ-ΦΟΥΝΤ. 12/1L",
-    "price": 2.48,
+    "price": 3.1,
     "merchant": "Galaxias"
   },
   {
@@ -53026,7 +53011,7 @@
   },
   {
     "name": "ΟΛΥΜΠΟΣ ΚΑΡΠΟΣ ΡΟΦΗΜΑ ΒΡΩΜΗ-ΦΟΥΝΤ. 12/1L",
-    "price": 2.17,
+    "price": 3.1,
     "merchant": "My Market"
   },
   {
@@ -53076,7 +53061,7 @@
   },
   {
     "name": "ΟΛΥΜΠΟΣ ΦΥΣΙΚΟΣ ΧΥΜΟΣ 9 ΦΡΟΥΤΑ 6/1. 5L",
-    "price": 4.27,
+    "price": 3.2,
     "merchant": "Μασούτης"
   },
   {
@@ -53106,7 +53091,7 @@
   },
   {
     "name": "ΟΛΥΜΠΟΣ ΚΕΦΙΡ 12/500ML",
-    "price": 1.25,
+    "price": 1.56,
     "merchant": "Galaxias"
   },
   {
@@ -53206,7 +53191,7 @@
   },
   {
     "name": "ΟΛΥΜΠΟΣ ΦΥΣΙΚΟΣ ΧΥΜΟΣ ΠΟΡΤΟΚΑΛΙ 6/1. 5L",
-    "price": 4.5,
+    "price": 3.38,
     "merchant": "Μασούτης"
   },
   {
@@ -53496,7 +53481,7 @@
   },
   {
     "name": "ΟΛΥΜΠΟΣ ΦΥΣΙΚΟΣ ΧΥΜ. ΠΟΡΤΟΚΑΛΙ NFC 12/1L",
-    "price": 3.04,
+    "price": 3.8,
     "merchant": "Galaxias"
   },
   {
@@ -53506,7 +53491,7 @@
   },
   {
     "name": "ΟΛΥΜΠΟΣ ΦΥΣΙΚΟΣ ΧΥΜ. ΠΟΡΤΟΚΑΛΙ NFC 12/1L",
-    "price": 3.8,
+    "price": 2.85,
     "merchant": "Μασούτης"
   },
   {
@@ -53601,7 +53586,7 @@
   },
   {
     "name": "ΟΛΥΜΠΟΣ ΦΥΣ ΧΥΜ ΜΗΛ-ΡΟΔΙ-ΣΤΑΦ-ΠΟΡΤ 250ML",
-    "price": 1.24,
+    "price": 0.93,
     "merchant": "Μασούτης"
   },
   {
@@ -53641,7 +53626,7 @@
   },
   {
     "name": "ΟΛΥΜΠΟΣ ΦΥΣ. ΧΥΜΟΣ ΜΗΛΟ-ΠΟΡ-ΚΑΡ. 12/250ML",
-    "price": 1.24,
+    "price": 0.93,
     "merchant": "Μασούτης"
   },
   {
@@ -53731,7 +53716,7 @@
   },
   {
     "name": "ΟΛΥΜΠΟΣ ΦΥΣ. ΧΥΜΟΣ 9 ΦΡΟΥΤΑ 12/1L",
-    "price": 2.8,
+    "price": 3.5,
     "merchant": "Galaxias"
   },
   {
@@ -53741,7 +53726,7 @@
   },
   {
     "name": "ΟΛΥΜΠΟΣ ΦΥΣ. ΧΥΜΟΣ 9 ΦΡΟΥΤΑ 12/1L",
-    "price": 3.5,
+    "price": 2.63,
     "merchant": "Μασούτης"
   },
   {
@@ -53871,7 +53856,7 @@
   },
   {
     "name": "ΟΛΥΜΠΟΣ ΚΑΡΠΟΣ ΡΟΦΗΜΑ ΑΜΥΓΔΑΛΟΥ 12/1L",
-    "price": 2.4,
+    "price": 3,
     "merchant": "Galaxias"
   },
   {
@@ -53886,7 +53871,7 @@
   },
   {
     "name": "ΟΛΥΜΠΟΣ ΚΑΡΠΟΣ ΡΟΦΗΜΑ ΑΜΥΓΔΑΛΟΥ 12/1L",
-    "price": 2.11,
+    "price": 3.01,
     "merchant": "My Market"
   },
   {
@@ -53921,7 +53906,7 @@
   },
   {
     "name": "ΟΛΥΜΠΟΣ ΡΟΦΗΜΑ ΑΜΥΓΔΑΛΟΥ Χ. ΖΑΧ. 12/1L.",
-    "price": 2.4,
+    "price": 3,
     "merchant": "Galaxias"
   },
   {
@@ -53941,7 +53926,7 @@
   },
   {
     "name": "ΟΛΥΜΠΟΣ ΡΟΦΗΜΑ ΑΜΥΓΔΑΛΟΥ Χ. ΖΑΧ. 12/1L.",
-    "price": 2.1,
+    "price": 3,
     "merchant": "My Market"
   },
   {
@@ -53986,7 +53971,7 @@
   },
   {
     "name": "ΟΛΥΜΠΟΣ ΦΥΣ ΧΥΜΟΣ ΜΗΛΟ-ΠΟΡ-ΚΑΡ 6/1. 5L",
-    "price": 4.27,
+    "price": 3.2,
     "merchant": "Μασούτης"
   },
   {
@@ -54116,7 +54101,7 @@
   },
   {
     "name": "ΟΛΥΜΠΟΣ ΦΥΣΙΚΟΣ ΧΥΜΟΣ ΠΟΡΤΟΚΑΛΙ 12/1L",
-    "price": 2.7,
+    "price": 3.38,
     "merchant": "Galaxias"
   },
   {
@@ -54126,7 +54111,7 @@
   },
   {
     "name": "ΟΛΥΜΠΟΣ ΦΥΣΙΚΟΣ ΧΥΜΟΣ ΠΟΡΤΟΚΑΛΙ 12/1L",
-    "price": 3.38,
+    "price": 2.54,
     "merchant": "Μασούτης"
   },
   {
@@ -54166,7 +54151,7 @@
   },
   {
     "name": "ΟΛΥΜΠΟΣ ΦΥΣΙΚΟΣ ΧΥΜΟΣ ΡΟΔΑΚΙΝΟ 12/1L",
-    "price": 2.7,
+    "price": 3.38,
     "merchant": "Galaxias"
   },
   {
@@ -54216,7 +54201,7 @@
   },
   {
     "name": "ΟΛΥΜΠΟΣ ΦΥΣΙΚΟΣ ΧΥΜ. ΠΟΡΤΟΚΑΛΙ 12/500ML",
-    "price": 1.98,
+    "price": 1.49,
     "merchant": "Μασούτης"
   },
   {
@@ -54251,7 +54236,7 @@
   },
   {
     "name": "ΟΛΥΜΠΟΣ ΦΥΣ. ΧΥΜΟΣ ΜΗΛΟ-ΠΟΡΤ-ΚΑΡ 12/1L",
-    "price": 2.59,
+    "price": 3.24,
     "merchant": "Galaxias"
   },
   {
@@ -54261,7 +54246,7 @@
   },
   {
     "name": "ΟΛΥΜΠΟΣ ΦΥΣ. ΧΥΜΟΣ ΜΗΛΟ-ΠΟΡΤ-ΚΑΡ 12/1L",
-    "price": 3.23,
+    "price": 2.42,
     "merchant": "Μασούτης"
   },
   {
@@ -54886,12 +54871,12 @@
   },
   {
     "name": "PESCANOVA ΓΑΜΠΑΡΗ ΑΡΓΕΝΤ ΚΤΨ 20/400G",
-    "price": 8.91,
+    "price": 7.34,
     "merchant": "efresh"
   },
   {
     "name": "PESCANOVA ΓΑΜΠΑΡΗ ΑΡΓΕΝΤ ΚΤΨ 20/400G",
-    "price": 7.48,
+    "price": 7.98,
     "merchant": "Galaxias"
   },
   {
@@ -54916,12 +54901,12 @@
   },
   {
     "name": "PESCANOVA ΓΑΡΙΔΕΣ Α/Φ ΜΕΓΑΛΕΣ 15/350G",
-    "price": 6.78,
+    "price": 5.59,
     "merchant": "efresh"
   },
   {
     "name": "PESCANOVA ΓΑΡΙΔΕΣ Α/Φ ΜΕΓΑΛΕΣ 15/350G",
-    "price": 4.86,
+    "price": 5.18,
     "merchant": "Galaxias"
   },
   {
@@ -54951,12 +54936,12 @@
   },
   {
     "name": "PESCANOVA ΓΑΡΙΔΕΣ Α/Φ ΜΕ ΟΥΡΑ 15/350G",
-    "price": 8.48,
+    "price": 6.99,
     "merchant": "efresh"
   },
   {
     "name": "PESCANOVA ΓΑΡΙΔΕΣ Α/Φ ΜΕ ΟΥΡΑ 15/350G",
-    "price": 7.48,
+    "price": 7.98,
     "merchant": "Galaxias"
   },
   {
@@ -54976,7 +54961,7 @@
   },
   {
     "name": "PESCANOVA ΜΠΑΚΑΛΙΑΡΟΣ ΦΙΛ POL. 15/425G",
-    "price": 4.66,
+    "price": 3.84,
     "merchant": "efresh"
   },
   {
@@ -55001,12 +54986,12 @@
   },
   {
     "name": "PESCANOVA ΓΑΡΙΔΕΣ ΑΠΟΦ ΓΙΓΑΣ ΚΤΨ 15/350G",
-    "price": 7.38,
+    "price": 6.08,
     "merchant": "efresh"
   },
   {
     "name": "PESCANOVA ΓΑΡΙΔΕΣ ΑΠΟΦ ΓΙΓΑΣ ΚΤΨ 15/350G",
-    "price": 6.51,
+    "price": 6.94,
     "merchant": "Galaxias"
   },
   {
@@ -55031,7 +55016,7 @@
   },
   {
     "name": "PESCANOVA ΓΛΩΣΣΑ ΦΙΛ. ΛΙΜΑΝΤΑ ΚΤΨ 15/425G",
-    "price": 7.63,
+    "price": 6.29,
     "merchant": "efresh"
   },
   {
@@ -55626,7 +55611,7 @@
   },
   {
     "name": "ALFA ΤΡΙΓ. ΤΥΡΙ ΠΟΠ ΑΝΕΒ. &ΦΕΤ. ΠΟΠ10/700G",
-    "price": 4.48,
+    "price": 4.78,
     "merchant": "Galaxias"
   },
   {
@@ -55676,7 +55661,7 @@
   },
   {
     "name": "ALFA ΚΙΧΙ ΜΙΝΙ ΜΕ ΤΥΡΙ 10/800G",
-    "price": 4.39,
+    "price": 5.85,
     "merchant": "Galaxias"
   },
   {
@@ -55736,7 +55721,7 @@
   },
   {
     "name": "ALFA ΡΟΛΛΑ ΜΙΝΙ ΜΕ ΠΑΤΑΤΑ ΚΤΨ 10/800G",
-    "price": 4.26,
+    "price": 5.68,
     "merchant": "Galaxias"
   },
   {
@@ -55766,7 +55751,7 @@
   },
   {
     "name": "ALFA ΕΚΛΕΚ. ΡΟΛ/ ΤΥΡΙ&ΜΠ. ΜΑΓ. MINI12/450G",
-    "price": 3.48,
+    "price": 2.78,
     "merchant": "Galaxias"
   },
   {
@@ -55796,7 +55781,7 @@
   },
   {
     "name": "ALFA ΕΚΛ. ΡΟΛ/ΚΙΑ ΛΑΧ. ΤΥΡΙ V ΚΤΨ 12/450G",
-    "price": 3.48,
+    "price": 2.78,
     "merchant": "Galaxias"
   },
   {
@@ -55926,7 +55911,7 @@
   },
   {
     "name": "ALFA ΚΕΦ. ΤΥΡΟΠ. ΣΦΟΛ. ΦΕΤΑ ΠΟΠ ΚΤΨ 10/1KG",
-    "price": 4.09,
+    "price": 4.36,
     "merchant": "Galaxias"
   },
   {
@@ -55961,7 +55946,7 @@
   },
   {
     "name": "ALFA ΚΕΦ. ΛΟΥΚ/ΚΙΑ ΣΦΟΛ. ΚΤΨ 10/950G",
-    "price": 4.78,
+    "price": 5.1,
     "merchant": "Galaxias"
   },
   {
@@ -56006,7 +55991,7 @@
   },
   {
     "name": "ALFA ΕΚΛ. ΛΟΥΚ/ΚΙΑ ΚΕΤΣΑΠ ΚΤΨ 12/450G",
-    "price": 3.48,
+    "price": 2.78,
     "merchant": "Galaxias"
   },
   {
@@ -56116,7 +56101,7 @@
   },
   {
     "name": "ALFA ROLLITOS ΜΥΖ-ΦΕΤ- Π. Ο. Π ΓΡΑΒ10/750G",
-    "price": 5.48,
+    "price": 4.38,
     "merchant": "Galaxias"
   },
   {
@@ -56161,7 +56146,7 @@
   },
   {
     "name": "ALFA MINI ROLLITOS PIZZA ΚΤΨ 10/750G",
-    "price": 4.24,
+    "price": 4.52,
     "merchant": "Galaxias"
   },
   {
@@ -56221,7 +56206,7 @@
   },
   {
     "name": "ALFA MINI ROLLITOS ΤΣΕΝΤ. &ΜΠ. ΚΤΨ10/750G",
-    "price": 4.11,
+    "price": 4.38,
     "merchant": "Galaxias"
   },
   {
@@ -56346,7 +56331,7 @@
   },
   {
     "name": "ALFA ΚΙΧΙ ΧΩΡ. ΦΥΛΛΟ ΚΟΖΑΝΗΣ ΚΤΨ 18/750G",
-    "price": 2.65,
+    "price": 2.62,
     "merchant": "Galaxias"
   },
   {
@@ -56391,7 +56376,7 @@
   },
   {
     "name": "ALFA ΦΥΛΛΟ ΚΡΟΥΣΤΑΣ ΠΟΛΙΤΙΚΟ ΚΤΨ 20/450G",
-    "price": 2.46,
+    "price": 2.43,
     "merchant": "Galaxias"
   },
   {
@@ -56436,7 +56421,7 @@
   },
   {
     "name": "ALFA ΦΥΛΛΟ ΣΦΟΛΙΑΤΑΣ ΤΟΥ ΧΕΡΙΟΥ 12/800G",
-    "price": 3.21,
+    "price": 3.42,
     "merchant": "Galaxias"
   },
   {
@@ -56476,7 +56461,7 @@
   },
   {
     "name": "ALFA ΦΥΛΛΟ ΖΥΜΗΣ ΠΙΤΣΑΣ ΠΡ(2Τ)ΚΤΨ 7/600G",
-    "price": 3.12,
+    "price": 2.31,
     "merchant": "Galaxias"
   },
   {
@@ -56526,7 +56511,7 @@
   },
   {
     "name": "ALFA ΤΟΣΟ ΑΠΛΑ ΦΥΛΛΟ ΚΡΟΥΣΤΑΣ ΚΤΨ 6/600G",
-    "price": 2.79,
+    "price": 2.75,
     "merchant": "Galaxias"
   },
   {
@@ -56591,7 +56576,7 @@
   },
   {
     "name": "ALFA ΚΙΧΙ ΠΙΤΑ ΤΥΡΙ 7/800G",
-    "price": 6.44,
+    "price": 5.15,
     "merchant": "Galaxias"
   },
   {
@@ -56641,7 +56626,7 @@
   },
   {
     "name": "ALFA ΚΑΣΣΙΑΤΑ ΖΑΓ. ΦΕΤ-ΜΥΖ-ΓΡ ΚΤΨ 6/650G",
-    "price": 3.9,
+    "price": 4.16,
     "merchant": "Galaxias"
   },
   {
@@ -56676,7 +56661,7 @@
   },
   {
     "name": "ALFA ΚΑΣΣΙΑΤΑ ΖΑΓ. ΣΠ-ΤΥΡ-ΠΡ-Σ KTΨ 6/650G",
-    "price": 3.84,
+    "price": 4.1,
     "merchant": "Galaxias"
   },
   {
@@ -56716,7 +56701,7 @@
   },
   {
     "name": "ALFA ΤΣΑΛΑΚΩΤΗ ΧΟΡΤΟ/ΤΑ ΠΗΛΙΟΥ ΚΤΨ7/850G",
-    "price": 5.2,
+    "price": 5.55,
     "merchant": "Galaxias"
   },
   {
@@ -56761,7 +56746,7 @@
   },
   {
     "name": "ALFA ΤΣΑΛΑΚΩΤΗ ΚΑΣΕΡΟΠΙΤΑ ΠΗΛΙΚΤΨ 7/850G",
-    "price": 7.8,
+    "price": 6.24,
     "merchant": "Galaxias"
   },
   {
@@ -56956,7 +56941,7 @@
   },
   {
     "name": "ALFA ΜΠΟΥΓΑΤΣΑ ΘΕΣ/ΝΙΚΗΣ ΤΥΡΙ ΚΤΨ 6/450G",
-    "price": 3.12,
+    "price": 2.34,
     "merchant": "Galaxias"
   },
   {
@@ -57121,7 +57106,7 @@
   },
   {
     "name": "ΕΝ ΕΛΛΑΔΙ ΛΟΥΚΑΝΙΚΑ ΚΟΚΤΕΙΛ 14/240G",
-    "price": 2.7,
+    "price": 3.38,
     "merchant": "Galaxias"
   },
   {
@@ -57161,7 +57146,7 @@
   },
   {
     "name": "CRETA FARMS ΛΟΥΚΑΝΙΚΑ ΧΩΡΙΑΤ. ΜΥΡΩΔ. 400G",
-    "price": 4.33,
+    "price": 5.78,
     "merchant": "Galaxias"
   },
   {
@@ -57201,7 +57186,7 @@
   },
   {
     "name": "CRETA FARMS ΛΟΥΚΑΝ. ΧΩΡΙΑΤ. ΠΡΑΣΟ 400G",
-    "price": 4.18,
+    "price": 5.58,
     "merchant": "Galaxias"
   },
   {
@@ -57266,7 +57251,7 @@
   },
   {
     "name": "CRETA FARMS ΚΕΦΤΕΔΑΚΙ ΜΕ ΕΛ/ΛΑΔ KTΨ 420G",
-    "price": 3.88,
+    "price": 4.85,
     "merchant": "Galaxias"
   },
   {
@@ -57316,7 +57301,7 @@
   },
   {
     "name": "CRETA FARMS ΕΝ ΕΛ. ΝΟΣΤ. ΚΟΤ/ΚΙΕΣ 6/400G",
-    "price": 4.8,
+    "price": 6,
     "merchant": "Galaxias"
   },
   {
@@ -57371,7 +57356,7 @@
   },
   {
     "name": "CRETA FARMS ΣΟΥΤΖΟΥΚΑΚΙΑ ΚΤΨ 6/500G",
-    "price": 4.91,
+    "price": 6.14,
     "merchant": "Galaxias"
   },
   {
@@ -57426,7 +57411,7 @@
   },
   {
     "name": "TOSTAKI ΓΑΛΟΠ. ΚΑΠΝΙΣΤ. Χ. ΓΛΟΥΤ. ΦΕΤΕΣ 160G",
-    "price": 2.32,
+    "price": 2.9,
     "merchant": "Galaxias"
   },
   {
@@ -57491,7 +57476,7 @@
   },
   {
     "name": "ΕΝ ΕΛΛΑΔΙ ΓΥΡ. ΧΟΙΡ. Χ. ΓΛΟΥΤΕΝΗ ΚΤΨ 330G",
-    "price": 5.17,
+    "price": 6.9,
     "merchant": "Galaxias"
   },
   {
@@ -58091,7 +58076,7 @@
   },
   {
     "name": "ΣΤΑΜΟΥ ΡΥΖΟΓΑΛΟ ΧΩΡΙΣ ΓΛΟΥΤΕΝΗ 12/180G",
-    "price": 1.12,
+    "price": 0.87,
     "merchant": "Lidl"
   },
   {
@@ -58131,7 +58116,7 @@
   },
   {
     "name": "ΣΤΑΜΟΥ ΚΡΕΜΑ ΧΩΡΙΣ ΓΛΟΥΤΕΝΗ 180G",
-    "price": 0.86,
+    "price": 1.15,
     "merchant": "Galaxias"
   },
   {
@@ -58166,7 +58151,7 @@
   },
   {
     "name": "ΣΤΑΜΟΥ CHOCOCREAM ΧΩΡΙΣ ΓΛΟΥΤΕΝΗ 180G",
-    "price": 0.84,
+    "price": 1.2,
     "merchant": "Galaxias"
   },
   {
@@ -58896,7 +58881,7 @@
   },
   {
     "name": "ENDLESS GOODMOOD X/Υ 3Φ 8ΑΡΙ 14/0. 680KG",
-    "price": 2.89,
+    "price": 3.03,
     "merchant": "Galaxias"
   },
   {
@@ -58941,7 +58926,7 @@
   },
   {
     "name": "ENDLESS GOODMOOD Ρ/Κ 2Φ 12/0. 385KG",
-    "price": 1.82,
+    "price": 1.9,
     "merchant": "Galaxias"
   },
   {
@@ -59126,7 +59111,7 @@
   },
   {
     "name": "ELITE CRACK. ΜΕΣΟΓΕΙΑΚΑ ΝΤΟΜ. &ΒΑΣ 16/105G",
-    "price": 1.59,
+    "price": 1.11,
     "merchant": "Μασούτης"
   },
   {
@@ -59196,7 +59181,7 @@
   },
   {
     "name": "ΑΛΛΑΤΙΝΗ ΜΠΙΣΚ ΓΕΜ&ΤΡΑΓ ΦΡΑΟΥΛΑ 12/230G",
-    "price": 1.3,
+    "price": 1.62,
     "merchant": "Galaxias"
   },
   {
@@ -59271,7 +59256,7 @@
   },
   {
     "name": "ΑΛΛΑΤΙΝΗ ΜΠΙΣΚ. ΓΕΜ. &ΤΡ. ΣΟΚΟΛΑΤΑ 12/230G",
-    "price": 1.3,
+    "price": 1.62,
     "merchant": "Galaxias"
   },
   {
@@ -59306,7 +59291,7 @@
   },
   {
     "name": "ΑΛΛΑΤΙΝΗ ΜΠΙΣΚ ΓΕΜ&ΤΡΑΓ ΜΠΑΝΑΝΑ 12/230G.",
-    "price": 1.3,
+    "price": 1.62,
     "merchant": "Galaxias"
   },
   {
@@ -59946,7 +59931,7 @@
   },
   {
     "name": "ΡΟΔΟΠΗ ΚΡΕΜΑ ΒΑΝΙΛΙΑ 6/160G",
-    "price": 0.93,
+    "price": 1.1,
     "merchant": "Galaxias"
   },
   {
@@ -59991,7 +59976,7 @@
   },
   {
     "name": "ΡΟΔΟΠΗ ΡΥΖΟΓΑΛΟ 6/160G",
-    "price": 0.93,
+    "price": 1.1,
     "merchant": "Galaxias"
   },
   {
@@ -60036,7 +60021,7 @@
   },
   {
     "name": "ΡΟΔΟΠΗ ΕΠΙΔ ΓΑΛ ΑΓΕΛ. ΚΡΕΜΑ ΣΟΚΟΛΑΤΑ 160G",
-    "price": 0.93,
+    "price": 1.1,
     "merchant": "Galaxias"
   },
   {
@@ -60176,7 +60161,7 @@
   },
   {
     "name": "SEPTONA ΥΓΡΟΜΑΝΤΗΛΑ ANTIBACTERIAL GREEN APPLE MR GRAND 60T",
-    "price": 1.69,
+    "price": 1.49,
     "merchant": "Μασούτης"
   },
   {
@@ -60211,7 +60196,7 @@
   },
   {
     "name": "VIVA FRESH Φ. Χ. ΜΗΛΟ 1LT",
-    "price": 1.67,
+    "price": 1.47,
     "merchant": "Galaxias"
   },
   {
@@ -60246,7 +60231,7 @@
   },
   {
     "name": "PRACTIC ΓΑΝΤΙΑ LATEX LARGE 10/100ΤΕΜ",
-    "price": 3.77,
+    "price": 3.98,
     "merchant": "My Market"
   },
   {
@@ -60306,7 +60291,7 @@
   },
   {
     "name": "CAMPER GAZ ΦΙΑΛΙΔΙΟ ΒΑΛΒ. ΑΣΦ. 12/500G",
-    "price": 4.89,
+    "price": 5.44,
     "merchant": "Synka"
   },
   {
@@ -61626,7 +61611,7 @@
   },
   {
     "name": "COFFEEWAY Κ. ΦΙΛΤΡΟΥ VAN-HAZELNUT 12/200G",
-    "price": 5.78,
+    "price": 6.78,
     "merchant": "Σκλαβενίτης"
   },
   {
@@ -62756,12 +62741,12 @@
   },
   {
     "name": "GREEN COLA 6/1. 5L",
-    "price": 1.01,
+    "price": 1.55,
     "merchant": "Galaxias"
   },
   {
     "name": "GREEN COLA 6/1. 5L",
-    "price": 1.55,
+    "price": 1,
     "merchant": "Lidl"
   },
   {
@@ -63011,7 +62996,7 @@
   },
   {
     "name": "ORIENTAL EXPRESS NOODLES ΛΑΧΑΝΙΚΩΝ 12/87",
-    "price": 0.73,
+    "price": 0.98,
     "merchant": "Galaxias"
   },
   {
@@ -63061,7 +63046,7 @@
   },
   {
     "name": "ORIENTAL EXPRESS NOODLES ΓΑΡΙΔΕΣ 12/87G",
-    "price": 0.73,
+    "price": 0.98,
     "merchant": "Galaxias"
   },
   {
@@ -63111,7 +63096,7 @@
   },
   {
     "name": "ORIENTAL EXPRESS NOODLES 3' ΚΟΤ-ΤΣ12/87G",
-    "price": 0.73,
+    "price": 0.98,
     "merchant": "Galaxias"
   },
   {
@@ -63166,7 +63151,7 @@
   },
   {
     "name": "ORIENTAL EXPRESS NOODLES FAMILY 8/375G",
-    "price": 2.54,
+    "price": 3.18,
     "merchant": "Galaxias"
   },
   {
@@ -63886,7 +63871,7 @@
   },
   {
     "name": "ALFA ΤΟΡΤΙΓΙΑ ΚΛΑΣΙΚΗ (6 ΤΕΜ) 370G",
-    "price": 1.83,
+    "price": 2.29,
     "merchant": "Galaxias"
   },
   {
@@ -63946,7 +63931,7 @@
   },
   {
     "name": "ALFA ΤΟΡΤΙΓΙΑ GRILLED (6 ΤΕΜ) 370G",
-    "price": 1.99,
+    "price": 2.49,
     "merchant": "Galaxias"
   },
   {
@@ -64026,7 +64011,7 @@
   },
   {
     "name": "ΒΙΤΑΜ SOFT ΜΕ ΓΙΑΟΥΡΤΙ 8/225G",
-    "price": 1.31,
+    "price": 1.75,
     "merchant": "Galaxias"
   },
   {
@@ -64341,7 +64326,7 @@
   },
   {
     "name": "BECEL PROACTIV DRINK ΦΡΑΟΥΛΑ 6/75G(4ΤΕΜ)",
-    "price": 3.76,
+    "price": 3.2,
     "merchant": "Galaxias"
   },
   {
@@ -64476,7 +64461,7 @@
   },
   {
     "name": "ΒΙΤΑΜ ΠΑΚΕΤΟ ΦΥΤΙΚΟ 40/200G",
-    "price": 1.07,
+    "price": 1.43,
     "merchant": "Galaxias"
   },
   {
@@ -64526,7 +64511,7 @@
   },
   {
     "name": "ΒΙΤΑΜ SOFT LIGHT 8/225G",
-    "price": 1.3,
+    "price": 1.73,
     "merchant": "Galaxias"
   },
   {
@@ -64561,7 +64546,7 @@
   },
   {
     "name": "ΒΙΤΑΜ SOFT 8/200G",
-    "price": 1.69,
+    "price": 1.35,
     "merchant": "Galaxias"
   },
   {
@@ -64591,7 +64576,7 @@
   },
   {
     "name": "ΒΙΤΑΜ SOFT 12/400G",
-    "price": 3,
+    "price": 2.4,
     "merchant": "Galaxias"
   },
   {
@@ -64621,7 +64606,7 @@
   },
   {
     "name": "ΒΙΤΑΜ SOFT 12/800G",
-    "price": 5.46,
+    "price": 4.37,
     "merchant": "Galaxias"
   },
   {
@@ -64841,7 +64826,7 @@
   },
   {
     "name": "DUREX SENSITIVE ΠΡΟΦΥΛΑΚΤΙΚΑ 12/12ΤΕM",
-    "price": 11.68,
+    "price": 12.98,
     "merchant": "Galaxias"
   },
   {
@@ -64921,7 +64906,7 @@
   },
   {
     "name": "KALLIMANIS ΓΑΡΙΔΕΣ ΓΙΓΑΣ ΑΠΟΦ. ΚΤΨ24/350G",
-    "price": 7.93,
+    "price": 8.44,
     "merchant": "ΑΒ Βασιλόπουλος"
   },
   {
@@ -65071,7 +65056,7 @@
   },
   {
     "name": "ΜΑΝΙΤΑΡΙΑ ΦΡΕΣΚΑ ΕΙΣ. 500G (ΤΙΜΗ ΤΜΧ)",
-    "price": 2.38,
+    "price": 2.55,
     "merchant": "Synka"
   },
   {
@@ -65391,13 +65376,8 @@
   },
   {
     "name": "BEN'S ORIGINAL ΡΥΖΙ ΣΑΚ. 10'12/500G",
-    "price": 2.7,
+    "price": 3.38,
     "merchant": "Galaxias"
-  },
-  {
-    "name": "BEN'S ORIGINAL ΡΥΖΙ ΣΑΚ. 10'12/500G",
-    "price": 2.79,
-    "merchant": "Market In"
   },
   {
     "name": "BEN'S ORIGINAL ΡΥΖΙ ΣΑΚ. 10'12/500G",
@@ -65441,7 +65421,7 @@
   },
   {
     "name": "ALPRO ΡΟΦΗΜΑ ΣΟΓΙΑΣ ΒΑΝΙΛΙΑ 8/1L",
-    "price": 3.43,
+    "price": 3.18,
     "merchant": "Galaxias"
   },
   {
@@ -65536,7 +65516,7 @@
   },
   {
     "name": "ALPRO ΡΟΦΗΜΑ ΑΜΥΓΔΑΛΟΥ ΧΩΡΙΣ ΖΑΧΑΡΗ 8/1L",
-    "price": 2.63,
+    "price": 2.98,
     "merchant": "Galaxias"
   },
   {
@@ -65581,7 +65561,7 @@
   },
   {
     "name": "ALPRO ΡΟΦΗΜΑ ΑΜΥΓΔΑΛΟ-ΣΟΚΟΛ. 8/1L",
-    "price": 3.08,
+    "price": 3.43,
     "merchant": "Galaxias"
   },
   {
@@ -65736,7 +65716,7 @@
   },
   {
     "name": "ALPRO ΡΟΦΗΜΑ ΒΡΩΜΗΣ-ΑΜΥΓΔΑΛΟ 8/1L",
-    "price": 2.98,
+    "price": 2.68,
     "merchant": "Galaxias"
   },
   {
@@ -65836,7 +65816,7 @@
   },
   {
     "name": "ALPRO ΡΟΦΗΜΑ ΣΟΓΙΑΣ ΣΟΚ ΥΨΗΛ. ΠΡΩΤ. 8/1L",
-    "price": 3.13,
+    "price": 3.48,
     "merchant": "Galaxias"
   },
   {
@@ -65886,7 +65866,7 @@
   },
   {
     "name": "ALPRO ΡΟΦΗΜA ΣΟΓΙΑΣ ΣΟΚΟΛΑΤΑ 8/1L",
-    "price": 3.43,
+    "price": 3.18,
     "merchant": "Galaxias"
   },
   {
@@ -65931,7 +65911,7 @@
   },
   {
     "name": "ALPRO ΡΟΦΗΜΑ ΣΟΓΙΑΣ NATURAL 12/1L",
-    "price": 2.98,
+    "price": 2.73,
     "merchant": "Galaxias"
   },
   {
@@ -66091,12 +66071,12 @@
   },
   {
     "name": "FANTA ΠΟΡΤΟΚΑΛΑΔΑ 6/1. 5 L",
-    "price": 1.61,
+    "price": 1.9,
     "merchant": "Galaxias"
   },
   {
     "name": "FANTA ΠΟΡΤΟΚΑΛΑΔΑ 6/1. 5 L",
-    "price": 1.69,
+    "price": 1.64,
     "merchant": "Lidl"
   },
   {
@@ -66191,12 +66171,12 @@
   },
   {
     "name": "SPRITE 6/1. 5L",
-    "price": 1.67,
+    "price": 1.97,
     "merchant": "Galaxias"
   },
   {
     "name": "SPRITE 6/1. 5L",
-    "price": 1.61,
+    "price": 1.5,
     "merchant": "Lidl"
   },
   {
@@ -66401,7 +66381,7 @@
   },
   {
     "name": "SPRITE 500ML 6/(4 TEM).",
-    "price": 4.36,
+    "price": 3.49,
     "merchant": "Galaxias"
   },
   {
@@ -67721,12 +67701,12 @@
   },
   {
     "name": "COCA COLA ZERO Χ. ΚΑΦΕΪΝΗ 330ML 4/(6ΤΕΜ)",
-    "price": 5.46,
+    "price": 4.12,
     "merchant": "Lidl"
   },
   {
     "name": "COCA COLA ZERO Χ. ΚΑΦΕΪΝΗ 330ML 4/(6ΤΕΜ)",
-    "price": 5.16,
+    "price": 3.87,
     "merchant": "Μασούτης"
   },
   {
@@ -67816,7 +67796,7 @@
   },
   {
     "name": "FANTA ΠΟΡΤΟΚΑΛΑΔΑ 330ML 4/(6 TEM )",
-    "price": 3.84,
+    "price": 4.98,
     "merchant": "Lidl"
   },
   {
@@ -67906,11 +67886,6 @@
   },
   {
     "name": "SCHWEPPES PINK GRAPEFRUIT 330ML 4/(6ΤΕΜ)",
-    "price": 3.94,
-    "merchant": "Market In"
-  },
-  {
-    "name": "SCHWEPPES PINK GRAPEFRUIT 330ML 4/(6ΤΕΜ)",
     "price": 4.86,
     "merchant": "Μασούτης"
   },
@@ -67921,7 +67896,7 @@
   },
   {
     "name": "SCHWEPPES PINK GRAPEFRUIT 330ML 4/(6ΤΕΜ)",
-    "price": 4.86,
+    "price": 3.64,
     "merchant": "Σκλαβενίτης"
   },
   {
@@ -67976,7 +67951,7 @@
   },
   {
     "name": "SCHWEPPES ORANGEADE 330ML 4/(6ΤΕΜ)",
-    "price": 5.2,
+    "price": 3.64,
     "merchant": "Σκλαβενίτης"
   },
   {
@@ -68031,7 +68006,7 @@
   },
   {
     "name": "SCHWEPPES LEMONADE 330ML 4/(6ΤΕΜ)",
-    "price": 5.2,
+    "price": 3.64,
     "merchant": "Σκλαβενίτης"
   },
   {
@@ -68078,11 +68053,6 @@
     "name": "SCHWEPPES PINK GRAPEFR K/T 6X330ML",
     "price": 4.78,
     "merchant": "Galaxias"
-  },
-  {
-    "name": "SCHWEPPES PINK GRAPEFR K/T 6X330ML",
-    "price": 3.94,
-    "merchant": "Market In"
   },
   {
     "name": "SCHWEPPES PINK GRAPEFR K/T 6X330ML",
@@ -68296,7 +68266,7 @@
   },
   {
     "name": "COCA COLA ZERO LEMON 4/330ML(6ΤΕΜ. )",
-    "price": 4.22,
+    "price": 5.22,
     "merchant": "Lidl"
   },
   {
@@ -68856,7 +68826,7 @@
   },
   {
     "name": "ARLA ΜΟΤΖΑΡΕΛΛΑ ΔΑΝΙΑΣ ΤΡIM. 12/200G.",
-    "price": 2.99,
+    "price": 3.52,
     "merchant": "Galaxias"
   },
   {
@@ -68951,7 +68921,7 @@
   },
   {
     "name": "ARLA PROTEIN ΓΑΛΑ ΜΕ ΚΑΚΑΟ ΛΙΓ. Ζ 8/479ML",
-    "price": 2.65,
+    "price": 2.12,
     "merchant": "Galaxias"
   },
   {
@@ -69001,7 +68971,7 @@
   },
   {
     "name": "ARLA PROTEIN M. SHAKE CHOCO BCAA 8/250ML",
-    "price": 1.86,
+    "price": 1.49,
     "merchant": "Galaxias"
   },
   {
@@ -69151,7 +69121,7 @@
   },
   {
     "name": "ARLA ΤΥΡΙ ΚΡΕΜΑ LIGHT 10/200G",
-    "price": 2.35,
+    "price": 2,
     "merchant": "Galaxias"
   },
   {
@@ -69266,7 +69236,7 @@
   },
   {
     "name": "LURPAK SOFT ΜΕ ΜΕΙΩΜ. ΛΙΠ. ΚΑΙ ΕΛ. 12/225G",
-    "price": 3.2,
+    "price": 2.72,
     "merchant": "Galaxias"
   },
   {
@@ -69311,7 +69281,7 @@
   },
   {
     "name": "LURPAK SOFT ΑΝΑΛ. ΜΕ ΜΕΙΩΜΕΝΑ ΛΙΠ. 12/225G",
-    "price": 3.2,
+    "price": 2.72,
     "merchant": "Galaxias"
   },
   {
@@ -69361,7 +69331,7 @@
   },
   {
     "name": "LURPAK SOFT ΑΛΑΤΙΣΜΕΝΟ ΣΚΑΦ. 12/225G",
-    "price": 4.2,
+    "price": 3.97,
     "merchant": "Lidl"
   },
   {
@@ -69466,7 +69436,7 @@
   },
   {
     "name": "LURPAK ΒΟΥΤΥΡΟ LIGHT ΑΝΑΛΑΤΟ 20/200G",
-    "price": 2.99,
+    "price": 3.52,
     "merchant": "Galaxias"
   },
   {
@@ -69681,7 +69651,7 @@
   },
   {
     "name": "CASTELLO DANABLU ΜΠΛΕ ΤΥΡΙ 100GR",
-    "price": 1.85,
+    "price": 2.06,
     "merchant": "Galaxias"
   },
   {
@@ -69801,7 +69771,7 @@
   },
   {
     "name": "NESTLE FITNESS DEL. BARS ΣΟΚ. ΓΑΛ. 18/6ΤΕΜ.",
-    "price": 3.8,
+    "price": 2.85,
     "merchant": "Galaxias"
   },
   {
@@ -69841,7 +69811,7 @@
   },
   {
     "name": "NESTLE FITNESS BARS RED BERRIES 16/6ΤΕΜ",
-    "price": 3.8,
+    "price": 2.85,
     "merchant": "Galaxias"
   },
   {
@@ -69886,7 +69856,7 @@
   },
   {
     "name": "NESTLE FITNESS BARS ΜΠΑΝΑΝΑ 16/6ΤΕΜ",
-    "price": 3.8,
+    "price": 2.85,
     "merchant": "Galaxias"
   },
   {
@@ -69921,7 +69891,7 @@
   },
   {
     "name": "FITNESS COCOA PROTEIN BAR 4X20G",
-    "price": 2.88,
+    "price": 2.16,
     "merchant": "Galaxias"
   },
   {
@@ -70041,7 +70011,7 @@
   },
   {
     "name": "HEINZ ΜΑΓΙΟΝΕΖΑ TOP DOWN 10/400ML",
-    "price": 2.88,
+    "price": 3.29,
     "merchant": "Synka"
   },
   {
@@ -70086,7 +70056,7 @@
   },
   {
     "name": "HEINZ MAYOKETCHUP 10/415ML",
-    "price": 3.21,
+    "price": 3.66,
     "merchant": "Synka"
   },
   {
@@ -70376,11 +70346,6 @@
   },
   {
     "name": "KITEKAT ΦΑΚ. ΚΟΤΟΠΟΥΛΟ ΣΕ ΣΑΛΤΣΑ 28X85G",
-    "price": 0.69,
-    "merchant": "Market In"
-  },
-  {
-    "name": "KITEKAT ΦΑΚ. ΚΟΤΟΠΟΥΛΟ ΣΕ ΣΑΛΤΣΑ 28X85G",
     "price": 0.63,
     "merchant": "Μασούτης"
   },
@@ -70471,7 +70436,7 @@
   },
   {
     "name": "WHISKAS AD. ΠΛ. ΞΗΡ. ΤΡ. ΓΑΤ. ΚΡ. ΜΟΣΧ. 6/1. 9KG",
-    "price": 7.66,
+    "price": 10.95,
     "merchant": "Galaxias"
   },
   {
@@ -70486,7 +70451,7 @@
   },
   {
     "name": "WHISKAS AD. ΠΛ. ΞΗΡ. ΤΡ. ΓΑΤ. ΚΡ. ΜΟΣΧ. 6/1. 9KG",
-    "price": 10.95,
+    "price": 7.65,
     "merchant": "Σκλαβενίτης"
   },
   {
@@ -70516,7 +70481,7 @@
   },
   {
     "name": "WHISKAS AD. ΞΗΡ. ΤΡ. ΓΑΤΑΣ. ΚΟΤΟΠΟΥΛΟ6/1. 9KG",
-    "price": 7.66,
+    "price": 10.95,
     "merchant": "Galaxias"
   },
   {
@@ -70706,7 +70671,7 @@
   },
   {
     "name": "HARPIC ΥΓΡΟ WC ACT. FR. PINE 12/750ML",
-    "price": 1.89,
+    "price": 1.8,
     "merchant": "Galaxias"
   },
   {
@@ -70751,7 +70716,7 @@
   },
   {
     "name": "NESQUIK ΡΟΦΗΜΑ ΣΑΚΟΥΛΑ 14/400G",
-    "price": 3.07,
+    "price": 4.1,
     "merchant": "Galaxias"
   },
   {
@@ -70891,11 +70856,6 @@
   },
   {
     "name": "PEDIGREE DENTASTIX ΜΠΙΣΚ. SM. 10/110G",
-    "price": 2.99,
-    "merchant": "Market In"
-  },
-  {
-    "name": "PEDIGREE DENTASTIX ΜΠΙΣΚ. SM. 10/110G",
     "price": 2.98,
     "merchant": "Μασούτης"
   },
@@ -70986,7 +70946,7 @@
   },
   {
     "name": "HELL ENERGY DRINK 500ML",
-    "price": 1.39,
+    "price": 1.18,
     "merchant": "Galaxias"
   },
   {
@@ -71031,7 +70991,7 @@
   },
   {
     "name": "HELL ENERGY DRINK 24/250ML",
-    "price": 0.7,
+    "price": 0.82,
     "merchant": "Galaxias"
   },
   {
@@ -71081,7 +71041,7 @@
   },
   {
     "name": "HELL ENERGY DRINK APPLE 24/250ML.",
-    "price": 0.7,
+    "price": 0.82,
     "merchant": "Galaxias"
   },
   {
@@ -71346,7 +71306,7 @@
   },
   {
     "name": "LIPTON ΤΣΑΙ ΠΥΡΑΜ. ΦΡΟΥΤΑ ΔΑΣΟΥΣ 12/20ΦΑΚ",
-    "price": 2.38,
+    "price": 2.98,
     "merchant": "Galaxias"
   },
   {
@@ -71426,7 +71386,7 @@
   },
   {
     "name": "TENA DISCREET MAXI 12/12ΤΕΜ",
-    "price": 4.45,
+    "price": 4.89,
     "merchant": "Galaxias"
   },
   {
@@ -71516,7 +71476,7 @@
   },
   {
     "name": "LIBRESSE MAXI GOODNIGHT ΣΕΡΒ/ΤΕΣ 12/10ΤE",
-    "price": 1.57,
+    "price": 1.73,
     "merchant": "Galaxias"
   },
   {
@@ -71586,7 +71546,7 @@
   },
   {
     "name": "TENA PANTS PLUS NIGHT LARGE 4/12ΤΕΜ",
-    "price": 9.65,
+    "price": 10.61,
     "merchant": "Galaxias"
   },
   {
@@ -71631,7 +71591,7 @@
   },
   {
     "name": "TENA LADY DISCREET NORMAL 12/24TEM",
-    "price": 4.6,
+    "price": 5.06,
     "merchant": "Galaxias"
   },
   {
@@ -71721,7 +71681,7 @@
   },
   {
     "name": "TENA DISCREET MAXI NIGHT . 6/12Τ.",
-    "price": 4.55,
+    "price": 5,
     "merchant": "Galaxias"
   },
   {
@@ -71766,7 +71726,7 @@
   },
   {
     "name": "TENA DISCREET EXTRA 12/20TΕΜ",
-    "price": 4.83,
+    "price": 5.31,
     "merchant": "Galaxias"
   },
   {
@@ -71991,7 +71951,7 @@
   },
   {
     "name": "TENA PANTS PL. MED. ΕΣΩ. ΑΚΡ. 4/14ΤΕΜ",
-    "price": 8.36,
+    "price": 9.2,
     "merchant": "Galaxias"
   },
   {
@@ -72036,7 +71996,7 @@
   },
   {
     "name": "TENA PANTS PLUS LARGE ΕΣΩ. ΑΚΡ. 4/14Τ",
-    "price": 9.35,
+    "price": 10.28,
     "merchant": "Galaxias"
   },
   {
@@ -72081,7 +72041,7 @@
   },
   {
     "name": "TENA PANTS PLUS EXTRA LARGE ΕΣΩ. ΑΚ. 4/12Τ",
-    "price": 9.68,
+    "price": 10.65,
     "merchant": "Galaxias"
   },
   {
@@ -72176,7 +72136,7 @@
   },
   {
     "name": "NESTLE LION ΔΗΜ. ΚΑΡΑΜΕΛΑ&ΣΟΚΟΛ. 16/400G",
-    "price": 3.3,
+    "price": 4.4,
     "merchant": "Galaxias"
   },
   {
@@ -72441,7 +72401,7 @@
   },
   {
     "name": "NESTLE LION WILD ΔΗΜΗΤΡΙΑΚΑ 16/410G",
-    "price": 3.73,
+    "price": 4.98,
     "merchant": "Galaxias"
   },
   {
@@ -72601,7 +72561,7 @@
   },
   {
     "name": "NESCAFE ESPRESSO AZERA 12/95G.",
-    "price": 7.28,
+    "price": 4.37,
     "merchant": "Μασούτης"
   },
   {
@@ -72656,7 +72616,7 @@
   },
   {
     "name": "NESCAFE DOLCE GUSTO CAPPUC. ΚΑΨ. 6/186G.",
-    "price": 4.48,
+    "price": 6.4,
     "merchant": "Σκλαβενίτης"
   },
   {
@@ -72741,7 +72701,7 @@
   },
   {
     "name": "NESCAFE DOLCE GUSTO FREDDO ES. ΚΑΨ. 3/128G",
-    "price": 4.77,
+    "price": 6.82,
     "merchant": "Σκλαβενίτης"
   },
   {
@@ -72781,11 +72741,6 @@
   },
   {
     "name": "NESCAFE DOLCE GUSTO ESP. INTEN. ΚΑΨ. 6/112G",
-    "price": 6.8,
-    "merchant": "Market In"
-  },
-  {
-    "name": "NESCAFE DOLCE GUSTO ESP. INTEN. ΚΑΨ. 6/112G",
     "price": 6.82,
     "merchant": "Μασούτης"
   },
@@ -72796,7 +72751,7 @@
   },
   {
     "name": "NESCAFE DOLCE GUSTO ESP. INTEN. ΚΑΨ. 6/112G",
-    "price": 4.77,
+    "price": 6.82,
     "merchant": "Σκλαβενίτης"
   },
   {
@@ -72821,7 +72776,7 @@
   },
   {
     "name": "STARBUCKS ESPR. COLOMBIA ΚΑΨ. 12/57G",
-    "price": 3.94,
+    "price": 5.25,
     "merchant": "Galaxias"
   },
   {
@@ -72856,7 +72811,7 @@
   },
   {
     "name": "STARBUCKS ESPR. HOUSE BLEND ΚΑΨ. 12/57G",
-    "price": 3.71,
+    "price": 4.95,
     "merchant": "Galaxias"
   },
   {
@@ -72891,7 +72846,7 @@
   },
   {
     "name": "STARBUCKS ESPR. CAFFE VERONA ΚΑΨ. 12/55G",
-    "price": 3.71,
+    "price": 4.95,
     "merchant": "Galaxias"
   },
   {
@@ -72921,7 +72876,7 @@
   },
   {
     "name": "STARBUCKS ESPRESSO ROAST DECAF 12/57G",
-    "price": 3.71,
+    "price": 4.95,
     "merchant": "Galaxias"
   },
   {
@@ -72956,7 +72911,7 @@
   },
   {
     "name": "STARBUCKS ESPRESSO BLONDE ΚΑΨΟΥΛ. 12/53G",
-    "price": 3.71,
+    "price": 4.95,
     "merchant": "Galaxias"
   },
   {
@@ -72991,7 +72946,7 @@
   },
   {
     "name": "STARBUCKS ESPR. PIKE PLACE ΚΑΨ. 12/53G",
-    "price": 3.71,
+    "price": 4.95,
     "merchant": "Galaxias"
   },
   {
@@ -73026,7 +72981,7 @@
   },
   {
     "name": "STARBUCKS ESPRESSO ROAST ΚΑΨΟΥΛΕΣ 12/57G",
-    "price": 3.71,
+    "price": 4.95,
     "merchant": "Galaxias"
   },
   {
@@ -73086,7 +73041,7 @@
   },
   {
     "name": "NESCAFE ESPRESSO AZERA DECAF 6/100G",
-    "price": 6.78,
+    "price": 4.07,
     "merchant": "Μασούτης"
   },
   {
@@ -73236,7 +73191,7 @@
   },
   {
     "name": "MAGGI CUP PASTA SPAGHETTI NAPOLI 8/57G",
-    "price": 1.24,
+    "price": 1.65,
     "merchant": "Galaxias"
   },
   {
@@ -73251,7 +73206,7 @@
   },
   {
     "name": "MAGGI CUP PASTA CARBONARA 8/50G",
-    "price": 1.24,
+    "price": 1.65,
     "merchant": "Galaxias"
   },
   {
@@ -73271,7 +73226,7 @@
   },
   {
     "name": "STARBUCKS ESPRESSO ITAL. ΚΑΨ. 12/10Τ. 56G",
-    "price": 3.71,
+    "price": 4.95,
     "merchant": "Galaxias"
   },
   {
@@ -73586,7 +73541,7 @@
   },
   {
     "name": "NESCAFE ΣΤΙΓΜ. ΚΑΦ. GOLD BLEND 12/95G",
-    "price": 6.75,
+    "price": 4.05,
     "merchant": "Μασούτης"
   },
   {
@@ -73631,7 +73586,7 @@
   },
   {
     "name": "NESCAFE ΣΤΙΓΜ. ΚΑΦ. GOLD BLEND 6/190G",
-    "price": 12.47,
+    "price": 7.48,
     "merchant": "Μασούτης"
   },
   {
@@ -73666,7 +73621,7 @@
   },
   {
     "name": "TOBLERONE ΣΟΚΟΛΑΤΑ ΓΑΛΑΚΤΟΣ 20/100G",
-    "price": 2.85,
+    "price": 2.28,
     "merchant": "Galaxias"
   },
   {
@@ -73716,7 +73671,7 @@
   },
   {
     "name": "ΠΑΥΛΙΔΗΣ ΣΟΚ. ΥΓ. ΚΡΕΜΑ ΦΡΑΟΥΛΑ 14/100G",
-    "price": 2.56,
+    "price": 1.92,
     "merchant": "Galaxias"
   },
   {
@@ -73866,7 +73821,7 @@
   },
   {
     "name": "MERENDA ΠΡΑΛΙΝΑ ΦΟΥΝΤΟΥΚΙΟΥ 12/570G.",
-    "price": 5.17,
+    "price": 4.39,
     "merchant": "Galaxias"
   },
   {
@@ -73976,7 +73931,7 @@
   },
   {
     "name": "PHILADELPHIA ΤΥΡΙ ΚΡΕΜΑ EXTR. PROT10/175G",
-    "price": 2.24,
+    "price": 2.8,
     "merchant": "Galaxias"
   },
   {
@@ -74078,11 +74033,6 @@
     "name": "ΠΑΥΛΙΔΗΣ ΣΟΚΟΛ. ΥΓΕΙΑΣ 70% MINI 18/350G",
     "price": 12.26,
     "merchant": "ΑΒ Βασιλόπουλος"
-  },
-  {
-    "name": "ΠΑΥΛΙΔΗΣ ΣΟΚΟΛ. ΥΓΕΙΑΣ 70% MINI 18/350G",
-    "price": 11.68,
-    "merchant": "Galaxias"
   },
   {
     "name": "ΠΑΥΛΙΔΗΣ ΣΟΚΟΛ. ΥΓΕΙΑΣ 70% MINI 18/350G",
@@ -74351,7 +74301,7 @@
   },
   {
     "name": "KISS ΣΟΚ. ΜΕ ΚΡΕΜΑ ΓΑΛΑ-ΦΡΑΟΥΛΑ 25/27. 5G",
-    "price": 0.58,
+    "price": 0.49,
     "merchant": "Galaxias"
   },
   {
@@ -74651,7 +74601,7 @@
   },
   {
     "name": "OREO ΜΠΙΣΚΟΤΑ ΒΑΝΙΛΙΑ 16/154G",
-    "price": 1.58,
+    "price": 1.26,
     "merchant": "Galaxias"
   },
   {
@@ -74701,7 +74651,7 @@
   },
   {
     "name": "ΠΑΥΛΙΔΗΣ ΣΟΚΟΛΑΤΑ ΥΓΕΙΑΣ 70% 14/100G",
-    "price": 2.76,
+    "price": 2.48,
     "merchant": "Galaxias"
   },
   {
@@ -74746,7 +74696,7 @@
   },
   {
     "name": "ΠΑΥΛΙΔΗΣ ΣΟΚΟΛΑΤΑ ΥΓΕΙΑΣ ΜΕ ΠΟΡΤ. 14/100G",
-    "price": 2.56,
+    "price": 1.92,
     "merchant": "Galaxias"
   },
   {
@@ -74831,7 +74781,7 @@
   },
   {
     "name": "ΠΑΥΛΙΔΗΣ ΣΟΚΟΛ. ΥΓΕΙΑΣ ΓΕΜ. ΚΡ. ΚΑΚ 14/100G",
-    "price": 2.87,
+    "price": 2.15,
     "merchant": "Galaxias"
   },
   {
@@ -75107,6 +75057,11 @@
   {
     "name": "GILLETTE MACH3 ΞΥΡΑΦ. ΑΝΤΑΛ. 10/5Τ.",
     "price": 14.99,
+    "merchant": "Market In"
+  },
+  {
+    "name": "GILLETTE MACH3 ΞΥΡΑΦ. ΑΝΤΑΛ. 10/5Τ.",
+    "price": 14.99,
     "merchant": "Μασούτης"
   },
   {
@@ -75143,6 +75098,11 @@
     "name": "GILLETTE FUSION ΞΥΡΑΦΑΚΙΑ ΑΝΤ/ΚΑ 10/4ΤΕ",
     "price": 17.44,
     "merchant": "Galaxias"
+  },
+  {
+    "name": "GILLETTE FUSION ΞΥΡΑΦΑΚΙΑ ΑΝΤ/ΚΑ 10/4ΤΕ",
+    "price": 17.49,
+    "merchant": "Market In"
   },
   {
     "name": "GILLETTE FUSION ΞΥΡΑΦΑΚΙΑ ΑΝΤ/ΚΑ 10/4ΤΕ",
@@ -75486,7 +75446,7 @@
   },
   {
     "name": "LAVAZZA ΚΑΨ. ESPRESSO ORO 10/10Τ. (55G)",
-    "price": 5.92,
+    "price": 4.14,
     "merchant": "Galaxias"
   },
   {
@@ -75531,7 +75491,7 @@
   },
   {
     "name": "LAVAZZA ΚΑΨ. ESPR. ROSSA 10/10T. (57G)",
-    "price": 5.67,
+    "price": 3.97,
     "merchant": "Galaxias"
   },
   {
@@ -75571,7 +75531,7 @@
   },
   {
     "name": "LAVAZZA ΚΑΨ. ESPR. ROS. 8/(30ΤΕΜ. )171G",
-    "price": 15.84,
+    "price": 11.09,
     "merchant": "Galaxias"
   },
   {
@@ -75616,7 +75576,7 @@
   },
   {
     "name": "CRUNCH ΣΟΚΟΛΑΤΑ ΓΑΛΑΚΤΟΣ Χ. ΓΛΟΥΤ. 20/100G",
-    "price": 1.89,
+    "price": 2.36,
     "merchant": "Galaxias"
   },
   {
@@ -75661,7 +75621,7 @@
   },
   {
     "name": "FERRERO ROCHER ΣΟΚΟΛΑΤΑΚΙΑ Τ. 16 200G",
-    "price": 3.37,
+    "price": 6.48,
     "merchant": "Galaxias"
   },
   {
@@ -75881,7 +75841,7 @@
   },
   {
     "name": "FERRERO ROCHER ΣΟΚΟΛΑΤΑΚΙΑ Τ. 30 375G",
-    "price": 9.58,
+    "price": 11.98,
     "merchant": "Galaxias"
   },
   {
@@ -76191,6 +76151,11 @@
   },
   {
     "name": "ALWAYS PLATINUM ULTRA NORMAL 8/16",
+    "price": 2.49,
+    "merchant": "Market In"
+  },
+  {
+    "name": "ALWAYS PLATINUM ULTRA NORMAL 8/16",
     "price": 2.36,
     "merchant": "Μασούτης"
   },
@@ -76206,7 +76171,7 @@
   },
   {
     "name": "ALWAYS PLATINUM ULTRA NORMAL 8/16",
-    "price": 2.99,
+    "price": 2.36,
     "merchant": "Synka"
   },
   {
@@ -76236,6 +76201,11 @@
   },
   {
     "name": "ALWAYS PLATINUM ULTRA SUPER 10/14",
+    "price": 2.49,
+    "merchant": "Market In"
+  },
+  {
+    "name": "ALWAYS PLATINUM ULTRA SUPER 10/14",
     "price": 2.36,
     "merchant": "Μασούτης"
   },
@@ -76251,7 +76221,7 @@
   },
   {
     "name": "ALWAYS PLATINUM ULTRA SUPER 10/14",
-    "price": 2.99,
+    "price": 2.36,
     "merchant": "Synka"
   },
   {
@@ -76301,7 +76271,7 @@
   },
   {
     "name": "ALWAYS PLATINUM ULTRA NIGHT 10/12Τ",
-    "price": 2.99,
+    "price": 2.36,
     "merchant": "Synka"
   },
   {
@@ -76371,7 +76341,7 @@
   },
   {
     "name": "VIAKAL ΚΑΘΑΡΙΣΤΙΚΟ ΑΛΑΤΩΝ 15/500ML.",
-    "price": 4.56,
+    "price": 3.65,
     "merchant": "Μασούτης"
   },
   {
@@ -76628,11 +76598,6 @@
     "name": "FAIRY ULTRA ΚΑΝΟΝΙΚΟ 650ML",
     "price": 2.59,
     "merchant": "efresh"
-  },
-  {
-    "name": "FAIRY ULTRA ΚΑΝΟΝΙΚΟ 650ML",
-    "price": 2.99,
-    "merchant": "Galaxias"
   },
   {
     "name": "FAIRY ULTRA ΚΑΝΟΝΙΚΟ 650ML",
@@ -77431,7 +77396,7 @@
   },
   {
     "name": "UNCONVENTIONAL BURGER ΦΥΤ. ΠΡΩΤ. ΚΤΨ8/220G",
-    "price": 3.98,
+    "price": 4.98,
     "merchant": "My Market"
   },
   {
@@ -77441,12 +77406,12 @@
   },
   {
     "name": "UNCONVENTIONAL ΦΥΤΙΚ. ΦΙΛ. ΚΟΤ. ΚΤΨ. 8/180G",
-    "price": 3.98,
+    "price": 4.98,
     "merchant": "My Market"
   },
   {
     "name": "UNCONVENTIONAL ΛΟΥK. . ΦΥΤ. ΚΤΨ(2X90)180G",
-    "price": 4.35,
+    "price": 5.44,
     "merchant": "My Market"
   },
   {
@@ -77796,7 +77761,7 @@
   },
   {
     "name": "OVERLAY EXPRESS ΛΙΠΟΚ. ΛΕΜ ΑΝΤΛ 12/650ML",
-    "price": 2.48,
+    "price": 2.68,
     "merchant": "Galaxias"
   },
   {
@@ -77848,6 +77813,11 @@
     "name": "OMINO BIANCO ΑΦΡΟΣ Μ. ΥΓΡΟ 37Μ. 12/1. 480ML",
     "price": 4.05,
     "merchant": "Lidl"
+  },
+  {
+    "name": "OMINO BIANCO ΑΦΡΟΣ Μ. ΥΓΡΟ 37Μ. 12/1. 480ML",
+    "price": 4.99,
+    "merchant": "Market In"
   },
   {
     "name": "OMINO BIANCO ΑΦΡΟΣ Μ. ΥΓΡΟ 37Μ. 12/1. 480ML",
@@ -77971,7 +77941,7 @@
   },
   {
     "name": "RIO MARE ΤΟΝΟΣ ΕΛΑΙΟΥ ΣΕ ΦΑΚΕΛΟ 48/80G",
-    "price": 1.87,
+    "price": 2.67,
     "merchant": "Galaxias"
   },
   {
@@ -78021,7 +77991,7 @@
   },
   {
     "name": "RIO MARE ΤΟΝΟΣ AL NATURALE ΦΑΚ 48/80G",
-    "price": 1.87,
+    "price": 1.68,
     "merchant": "Galaxias"
   },
   {
@@ -78066,7 +78036,7 @@
   },
   {
     "name": "RIO MARE ΤΟΝΟΣ ΣΕ ΕΛΑΙΟΛΑΔΟ 160G 24/(3Τ)",
-    "price": 7.63,
+    "price": 10.9,
     "merchant": "Galaxias"
   },
   {
@@ -78081,7 +78051,7 @@
   },
   {
     "name": "RIO MARE ΤΟΝΟΣ ΣΕ ΕΛΑΙΟΛΑΔΟ 160G 24/(3Τ)",
-    "price": 7.81,
+    "price": 11.48,
     "merchant": "Synka"
   },
   {
@@ -78111,7 +78081,7 @@
   },
   {
     "name": "RIO MARE ΤΟΝΟΣ ΠΙΚΑΝΤΙΚΟΣ 130G 24/(2TEM)",
-    "price": 6,
+    "price": 8.82,
     "merchant": "Synka"
   },
   {
@@ -78126,7 +78096,7 @@
   },
   {
     "name": "RIO MARE ΤΟΝΟΣ SUPER NATURALE 112G 24/2T",
-    "price": 6.29,
+    "price": 5.66,
     "merchant": "Galaxias"
   },
   {
@@ -78166,7 +78136,7 @@
   },
   {
     "name": "RIO MARE ΤΟΝΟΣ AL NATURALE 80G 32/(3ΤΕΜ)",
-    "price": 4.86,
+    "price": 4.37,
     "merchant": "Galaxias"
   },
   {
@@ -78191,7 +78161,7 @@
   },
   {
     "name": "RIO MARE ΤΟΝΟΣ AL NATURALE 80G 32/(3ΤΕΜ)",
-    "price": 4.75,
+    "price": 6.98,
     "merchant": "Synka"
   },
   {
@@ -78216,7 +78186,7 @@
   },
   {
     "name": "RIO MARE ΤΟΝΟΣ ΣΕ ΕΛΑΙΟΛΑΔΟ 80G 32/(3ΤΕΜ",
-    "price": 4.86,
+    "price": 6.94,
     "merchant": "Galaxias"
   },
   {
@@ -78241,7 +78211,7 @@
   },
   {
     "name": "RIO MARE ΤΟΝΟΣ ΣΕ ΕΛΑΙΟΛΑΔΟ 80G 32/(3ΤΕΜ",
-    "price": 4.75,
+    "price": 6.98,
     "merchant": "Synka"
   },
   {
@@ -78266,7 +78236,7 @@
   },
   {
     "name": "RIO MARE ΤΟΝΟΣ AL NATURALE 160G 24/(2ΤΕΜ",
-    "price": 5.99,
+    "price": 4.96,
     "merchant": "Galaxias"
   },
   {
@@ -78316,7 +78286,7 @@
   },
   {
     "name": "RIO MARE ΤΟΝΟΣ ΣΕ ΕΛΑΙΟΛΑΔΟ 160G 24/(2Τ)",
-    "price": 5.99,
+    "price": 4.96,
     "merchant": "Galaxias"
   },
   {
@@ -78341,7 +78311,7 @@
   },
   {
     "name": "RIO MARE ΤΟΝΟΣ ΣΕ ΕΛΑΙΟΛΑΔΟ 160G 24/(2Τ)",
-    "price": 5.89,
+    "price": 8.66,
     "merchant": "Synka"
   },
   {
@@ -78366,7 +78336,7 @@
   },
   {
     "name": "RIO MARE INSALATISSIME ΚΑΛΑΜΠ. 160G 18/2Τ",
-    "price": 5.91,
+    "price": 5.32,
     "merchant": "Galaxias"
   },
   {
@@ -78396,7 +78366,7 @@
   },
   {
     "name": "RIO MARE INSALATISSIME ΚΑΛΑΜΠ. 160G 18/2Τ",
-    "price": 5.77,
+    "price": 8.48,
     "merchant": "Synka"
   },
   {
@@ -78421,7 +78391,7 @@
   },
   {
     "name": "RIO MARE INSALATISSIME MEXICANA 160G(2Τ)",
-    "price": 5.91,
+    "price": 4.9,
     "merchant": "Galaxias"
   },
   {
@@ -78451,7 +78421,7 @@
   },
   {
     "name": "RIO MARE INSALATISSIME MEXICANA 160G(2Τ)",
-    "price": 5.77,
+    "price": 8.48,
     "merchant": "Synka"
   },
   {
@@ -78521,7 +78491,7 @@
   },
   {
     "name": "FERRERO KINDER BUENO ΣΟΚΟΛΑΤΑ 60/43G.",
-    "price": 1.1,
+    "price": 0.93,
     "merchant": "Galaxias"
   },
   {
@@ -78956,6 +78926,11 @@
   },
   {
     "name": "ALWAYS ULTRA SECURE NIGHT 6/24Τ.",
+    "price": 3.99,
+    "merchant": "Market In"
+  },
+  {
+    "name": "ALWAYS ULTRA SECURE NIGHT 6/24Τ.",
     "price": 7.98,
     "merchant": "Μασούτης"
   },
@@ -79016,7 +78991,7 @@
   },
   {
     "name": "ALWAYS ULTRA SECURE NIGHT EXTRA 14/10ΤΕΜ",
-    "price": 2.99,
+    "price": 2.36,
     "merchant": "Synka"
   },
   {
@@ -79256,8 +79231,13 @@
   },
   {
     "name": "FAIRY MAX POWER ΥΓΡΟ ΠΙΑΤΩΝ ΚΑΝ. 8/450ML",
-    "price": 2.12,
+    "price": 1.93,
     "merchant": "Galaxias"
+  },
+  {
+    "name": "FAIRY MAX POWER ΥΓΡΟ ΠΙΑΤΩΝ ΚΑΝ. 8/450ML",
+    "price": 2.49,
+    "merchant": "Market In"
   },
   {
     "name": "FAIRY MAX POWER ΥΓΡΟ ΠΙΑΤΩΝ ΚΑΝ. 8/450ML",
@@ -79501,7 +79481,7 @@
   },
   {
     "name": "PAMPERS PANTS N. 8 19+KG 3/32Τ.",
-    "price": 12.71,
+    "price": 13.67,
     "merchant": "Galaxias"
   },
   {
@@ -79713,6 +79693,11 @@
     "name": "ALWAYS PROTECT EXTR LONG ΣΕΡ/KΙΑ 8/24ΤΕΜ",
     "price": 2.27,
     "merchant": "Galaxias"
+  },
+  {
+    "name": "ALWAYS PROTECT EXTR LONG ΣΕΡ/KΙΑ 8/24ΤΕΜ",
+    "price": 1.99,
+    "merchant": "Market In"
   },
   {
     "name": "ALWAYS PROTECT EXTR LONG ΣΕΡ/KΙΑ 8/24ΤΕΜ",
@@ -80161,7 +80146,7 @@
   },
   {
     "name": "LENOR ΜΑΛΑΚΤΙΚΟ ΡΟΥΧ. HAUTE COUT. 8/55ΜΕΖ.",
-    "price": 7.95,
+    "price": 3.82,
     "merchant": "Μασούτης"
   },
   {
@@ -80451,7 +80436,7 @@
   },
   {
     "name": "KELLOGG'S CORN FLAKES 12/375G",
-    "price": 3.08,
+    "price": 3.85,
     "merchant": "Galaxias"
   },
   {
@@ -80816,6 +80801,11 @@
   },
   {
     "name": "NEUTRO ROBERTS ΑΠΟΣΜ. ROLL ON POWD. FR. 50",
+    "price": 2.99,
+    "merchant": "Market In"
+  },
+  {
+    "name": "NEUTRO ROBERTS ΑΠΟΣΜ. ROLL ON POWD. FR. 50",
     "price": 2.9,
     "merchant": "Μασούτης"
   },
@@ -80906,7 +80896,7 @@
   },
   {
     "name": "FERRERO KINDER BUENO WHITE 30/39G",
-    "price": 1.1,
+    "price": 0.93,
     "merchant": "Galaxias"
   },
   {
@@ -81926,7 +81916,7 @@
   },
   {
     "name": "NATURE VALLEY BARS CHOCOLATE 5/(5Τ. )42G",
-    "price": 2.99,
+    "price": 3.74,
     "merchant": "Galaxias"
   },
   {
@@ -81976,7 +81966,7 @@
   },
   {
     "name": "NATURE VALLEY BARS OATS&HON. 5/(5Τ. )42G",
-    "price": 2.99,
+    "price": 3.74,
     "merchant": "Galaxias"
   },
   {
@@ -82016,7 +82006,7 @@
   },
   {
     "name": "NAT. VALLEY ΜΠΑΡΕΣ ΠΡ. ΣΟΚ. ΧΩΡ. ΓΛΟΥΤ8/160G",
-    "price": 3.96,
+    "price": 4.95,
     "merchant": "Galaxias"
   },
   {
@@ -82111,7 +82101,7 @@
   },
   {
     "name": "KELLOGG'S CORN FLAKES 14/500G",
-    "price": 3.94,
+    "price": 4.93,
     "merchant": "Galaxias"
   },
   {
@@ -82218,11 +82208,6 @@
     "name": "HALLS ORIGINAL ΚΑΡΑΜ ΜΑΣΟΥΡΙ X. Z 20TEM.",
     "price": 1.16,
     "merchant": "Galaxias"
-  },
-  {
-    "name": "HALLS ORIGINAL ΚΑΡΑΜ ΜΑΣΟΥΡΙ X. Z 20TEM.",
-    "price": 0.89,
-    "merchant": "Market In"
   },
   {
     "name": "HALLS ORIGINAL ΚΑΡΑΜ ΜΑΣΟΥΡΙ X. Z 20TEM.",
@@ -82386,7 +82371,7 @@
   },
   {
     "name": "STARBUCKS ESPR. CARAMEL ΚΑΨ. 12/51G.",
-    "price": 3.73,
+    "price": 4.98,
     "merchant": "Galaxias"
   },
   {
@@ -82421,7 +82406,7 @@
   },
   {
     "name": "STARBUCKS ESPR. VANILLA ΚΑΨ. 12/51G.",
-    "price": 3.73,
+    "price": 4.98,
     "merchant": "Galaxias"
   },
   {
@@ -82451,7 +82436,7 @@
   },
   {
     "name": "GERBER ORGANIC ΒΡ. ΔΗΜ. ΣΙΤ. ΜΠ. BIO 9/200G",
-    "price": 3.56,
+    "price": 4.75,
     "merchant": "Galaxias"
   },
   {
@@ -82471,7 +82456,7 @@
   },
   {
     "name": "GERBER ORGANIC ΒΡ. ΔΗΜ. ΣΙΤ. ΒΑΝ. BIO 9/200G",
-    "price": 3.56,
+    "price": 4.75,
     "merchant": "Galaxias"
   },
   {
@@ -82491,7 +82476,7 @@
   },
   {
     "name": "GERBER ORGANIC ΦΡΟΥΤ. ΑΧ. Μ. ΜΠΑΝ. BIO16/90G",
-    "price": 1.76,
+    "price": 2.35,
     "merchant": "Galaxias"
   },
   {
@@ -82526,7 +82511,7 @@
   },
   {
     "name": "NESCAFE AZERA FREDDO ESPR. INT. 6/90G",
-    "price": 6.98,
+    "price": 4.19,
     "merchant": "Μασούτης"
   },
   {
@@ -82576,7 +82561,7 @@
   },
   {
     "name": "NESTLE KIT KAT ΔΗΜΗΤΡΙΑΚΑ 14/330G",
-    "price": 3.73,
+    "price": 4.97,
     "merchant": "Galaxias"
   },
   {
@@ -82666,7 +82651,7 @@
   },
   {
     "name": "MAGGI ΖΩΜΟΣ ΚΟΤΑΣ (12ΤΕΜ. ) 6L",
-    "price": 2.48,
+    "price": 1.98,
     "merchant": "Galaxias"
   },
   {
@@ -82711,7 +82696,7 @@
   },
   {
     "name": "MAGGI ΖΩΜΟΣ ΛΑΧΑΝΙΚΩΝ (12ΤΕΜ. ) 6L",
-    "price": 2.48,
+    "price": 1.98,
     "merchant": "Galaxias"
   },
   {
@@ -82756,7 +82741,7 @@
   },
   {
     "name": "MAGGI ΝΟΣΤΙΜΙΑ ΛΑΧΑΝΙΚΑ-MΠΑΧ/ΚΑ 130G",
-    "price": 2.52,
+    "price": 2.02,
     "merchant": "Galaxias"
   },
   {
@@ -83071,6 +83056,11 @@
   },
   {
     "name": "ALWAYS ULTRA LONG PLUS GIGA P. 6/36ΤΕΜ.",
+    "price": 3.99,
+    "merchant": "Market In"
+  },
+  {
+    "name": "ALWAYS ULTRA LONG PLUS GIGA P. 6/36ΤΕΜ.",
     "price": 7.98,
     "merchant": "Μασούτης"
   },
@@ -83236,7 +83226,7 @@
   },
   {
     "name": "QUAKER OATS ΝΙΦΑΔΕΣ ΒΡΩΜΗΣ 24/500G",
-    "price": 2.54,
+    "price": 3.18,
     "merchant": "Galaxias"
   },
   {
@@ -83276,7 +83266,7 @@
   },
   {
     "name": "MCCAIN ΠΑΤΑΤΕΣ TRADITION ΚΤΨ 12/1KG",
-    "price": 3,
+    "price": 4.28,
     "merchant": "Galaxias"
   },
   {
@@ -83321,7 +83311,7 @@
   },
   {
     "name": "MCCAIN ΠΑΤΑΤΕΣ GOLDEN LONG ΚΤΨ 12/1KG",
-    "price": 3.19,
+    "price": 4.56,
     "merchant": "Galaxias"
   },
   {
@@ -83736,7 +83726,7 @@
   },
   {
     "name": "KNORR ΣΠΙΤΙΚΟΣ ΖΩΜΟΣ ΒΟΔΙΝΟΥ 8/28G(4Τ)",
-    "price": 2.16,
+    "price": 1.66,
     "merchant": "Galaxias"
   },
   {
@@ -83891,7 +83881,7 @@
   },
   {
     "name": "OMO ΤΡ. ΛΟΥΛ. ΑΠΟΡΡ. ΠΛ. ΣΚΟΝΗ 45Μ 4/2. 520KG",
-    "price": 5.99,
+    "price": 7.19,
     "merchant": "Market In"
   },
   {
@@ -84296,7 +84286,7 @@
   },
   {
     "name": "L'OR ΚΑΨΟΥΛΕΣ ES. RISTRETTO DEC 20/10TEM",
-    "price": 3.75,
+    "price": 4.87,
     "merchant": "Galaxias"
   },
   {
@@ -84336,7 +84326,7 @@
   },
   {
     "name": "L'OR ΚΑΨΟΥΛΕΣ ESPRESSO LUNGO 20/10TEM",
-    "price": 3.75,
+    "price": 4.87,
     "merchant": "Galaxias"
   },
   {
@@ -84381,7 +84371,7 @@
   },
   {
     "name": "L'OR ΚΑΨΟΥΛΕΣ ESPRESSO RISTRETTO 20/10T",
-    "price": 3.75,
+    "price": 4.87,
     "merchant": "Galaxias"
   },
   {
@@ -84431,7 +84421,7 @@
   },
   {
     "name": "L'OR ΚΑΨΟΥΛΕΣ LUNGO PROFONDO 10/(20 TEM)",
-    "price": 7.14,
+    "price": 9.27,
     "merchant": "Galaxias"
   },
   {
@@ -84476,7 +84466,7 @@
   },
   {
     "name": "L'OR ΚΑΨΟΥΛΕΣ RISTRETTO 10/(20 TEM).",
-    "price": 7.14,
+    "price": 9.27,
     "merchant": "Galaxias"
   },
   {
@@ -84571,7 +84561,7 @@
   },
   {
     "name": "L'OR ESPRESSO RISTRETTO ΚΑΨΟΥΛΕΣ 5/40Τ.",
-    "price": 13.84,
+    "price": 17.98,
     "merchant": "Galaxias"
   },
   {
@@ -84611,7 +84601,7 @@
   },
   {
     "name": "L'OR ΚΑΨΟΥΛΕΣ ESPRESSO COLOMBIA 10/20T.",
-    "price": 7.44,
+    "price": 9.66,
     "merchant": "Galaxias"
   },
   {
@@ -84816,7 +84806,7 @@
   },
   {
     "name": "L'OR ΚΑΨΟΥΛΕΣ BARISTA 20/10Τ.",
-    "price": 3.75,
+    "price": 4.87,
     "merchant": "Galaxias"
   },
   {
@@ -84856,7 +84846,7 @@
   },
   {
     "name": "L'OR ESPRESSO ΚΑΨΟΥΛΕΣ CAR. 10/(10Τ. )52G",
-    "price": 3.84,
+    "price": 4.99,
     "merchant": "Galaxias"
   },
   {
@@ -84896,7 +84886,7 @@
   },
   {
     "name": "TASSIMO ESPRESSO FREDDO 5/144G",
-    "price": 7.72,
+    "price": 6.18,
     "merchant": "Galaxias"
   },
   {
@@ -85146,7 +85136,7 @@
   },
   {
     "name": "KNORR ΖΩΜΟΣ ΚΟΤΑΣ (12ΤΕΜ. ) 6L.",
-    "price": 2.69,
+    "price": 2.21,
     "merchant": "Synka"
   },
   {
@@ -85201,7 +85191,7 @@
   },
   {
     "name": "KNORR ΖΩΜΟΣ ΚΟΤΑΣ (24 ΤΕΜ. ) 12L",
-    "price": 4.95,
+    "price": 4.06,
     "merchant": "Galaxias"
   },
   {
@@ -85221,7 +85211,7 @@
   },
   {
     "name": "KNORR ΖΩΜΟΣ ΚΟΤΑΣ (24 ΤΕΜ. ) 12L",
-    "price": 4.95,
+    "price": 4.06,
     "merchant": "Synka"
   },
   {
@@ -85266,7 +85256,7 @@
   },
   {
     "name": "KNORR ΖΩΜΟΣ ΒΟΔΙΝΟ (12TEM. ) 6L",
-    "price": 2.69,
+    "price": 2.21,
     "merchant": "Synka"
   },
   {
@@ -85326,7 +85316,7 @@
   },
   {
     "name": "ALGIDA MAGIC DBL CARAMEL 8/310G (440ML)",
-    "price": 5.22,
+    "price": 8.09,
     "merchant": "Σκλαβενίτης"
   },
   {
@@ -85396,7 +85386,7 @@
   },
   {
     "name": "MAGIC ΠΑΓ. ΚΥΠ. DBL GOLD CAR. 8/303G(440ML)",
-    "price": 8.68,
+    "price": 8.95,
     "merchant": "Σκλαβενίτης"
   },
   {
@@ -85781,7 +85771,7 @@
   },
   {
     "name": "MAILLE DIJON ΜΟΥΣΤΑΡΔΑ 6/215G",
-    "price": 3.77,
+    "price": 3.02,
     "merchant": "Galaxias"
   },
   {
@@ -85871,7 +85861,7 @@
   },
   {
     "name": "MAGIC ΠΑΓΩΤΟ ΚΥΠΕΛΛΑΚΙ CLASSIC 8/297G(44",
-    "price": 6.08,
+    "price": 8.95,
     "merchant": "Σκλαβενίτης"
   },
   {
@@ -85906,7 +85896,7 @@
   },
   {
     "name": "MAGIC ΠΑΓΩΤ ΚΥΠΕΛΑΚΙ ΑΜΥΓΔΑΛΟ 8/297G",
-    "price": 8.68,
+    "price": 8.95,
     "merchant": "Σκλαβενίτης"
   },
   {
@@ -85936,7 +85926,7 @@
   },
   {
     "name": "KNORR NOODLES ΚΑΡΙ 11/70G",
-    "price": 0.59,
+    "price": 0.88,
     "merchant": "Galaxias"
   },
   {
@@ -85966,7 +85956,7 @@
   },
   {
     "name": "KNORR NOODLES ΚΟΤΟΠΟΥΛΟ 11/70G",
-    "price": 0.59,
+    "price": 0.88,
     "merchant": "Galaxias"
   },
   {
@@ -86131,7 +86121,7 @@
   },
   {
     "name": "KRAFT ΜΑΓΙΟΝΕΖΑ 15/185ML",
-    "price": 1.71,
+    "price": 1.61,
     "merchant": "Galaxias"
   },
   {
@@ -86171,7 +86161,7 @@
   },
   {
     "name": "KRAFT ΜΑΓΙΟΝΕΖΑ 12/490ML",
-    "price": 3.09,
+    "price": 2.92,
     "merchant": "Galaxias"
   },
   {
@@ -86266,7 +86256,7 @@
   },
   {
     "name": "HEINZ BIO TOM. KETCHUP TOP DOWN 10/580G",
-    "price": 3.52,
+    "price": 3.77,
     "merchant": "Synka"
   },
   {
@@ -86311,7 +86301,7 @@
   },
   {
     "name": "HEINZ ΚΕΤΣΑΠ SQUEEZY 12/570G.",
-    "price": 3.16,
+    "price": 3.57,
     "merchant": "Synka"
   },
   {
@@ -86356,7 +86346,7 @@
   },
   {
     "name": "HEINZ ΚΕΤΣΑΠ TOP DOWN 10/460G",
-    "price": 2.97,
+    "price": 3.4,
     "merchant": "Synka"
   },
   {
@@ -86376,7 +86366,7 @@
   },
   {
     "name": "HEINZ ΚΕΤΣΑΠ ΠΛΑΣΤΙΚΗ ΦΙΑΛΗ TD 10/700G",
-    "price": 5.6,
+    "price": 4.48,
     "merchant": "Galaxias"
   },
   {
@@ -86396,7 +86386,7 @@
   },
   {
     "name": "HEINZ ΚΕΤΣΑΠ ΠΛΑΣΤΙΚΗ ΦΙΑΛΗ TD 10/700G",
-    "price": 3.96,
+    "price": 4.51,
     "merchant": "Synka"
   },
   {
@@ -86486,7 +86476,7 @@
   },
   {
     "name": "ΝΟΥΝΟΥ ΓΑΛΑ ΣΥΜΠΥΚΝΩΜΕΝΟ 96/170G",
-    "price": 0.82,
+    "price": 0.7,
     "merchant": "Galaxias"
   },
   {
@@ -86536,7 +86526,7 @@
   },
   {
     "name": "ΝΟΥΝΟΥ ΓΑΛΑ ΖΑΧΑΡΟΥΧΟ 48/397G.",
-    "price": 2.1,
+    "price": 1.78,
     "merchant": "Galaxias"
   },
   {
@@ -86556,7 +86546,7 @@
   },
   {
     "name": "ΝΟΥΝΟΥ ΓΑΛΑ ΖΑΧΑΡΟΥΧΟ 48/397G.",
-    "price": 2.1,
+    "price": 1.8,
     "merchant": "Σκλαβενίτης"
   },
   {
@@ -86586,7 +86576,7 @@
   },
   {
     "name": "ΝΟΥΝΟΥ LIGHT ΓΑΛΑ ΣΥΜΠΥΚΝΩΜΕΝΟ 48/170G",
-    "price": 0.82,
+    "price": 0.7,
     "merchant": "Galaxias"
   },
   {
@@ -86636,7 +86626,7 @@
   },
   {
     "name": "ΝΟΥΝΟΥ ΣΥΜΠΥΚΝΩΜΕΝΟ ΓΑΛΑ 48/400G",
-    "price": 1.26,
+    "price": 1.07,
     "merchant": "Galaxias"
   },
   {
@@ -86686,7 +86676,7 @@
   },
   {
     "name": "ΝΟΥΝΟΥ ΣΥΜΠΥΚΝΩΜΕΝΟ ΓΑΛΑ LIGHT 48/400G.",
-    "price": 1.26,
+    "price": 1.07,
     "merchant": "Galaxias"
   },
   {
@@ -86731,7 +86721,7 @@
   },
   {
     "name": "ΝΟΥΝΟΥ KID ΣΥΜΠ. ΡΟΦΗΜΑ ΓΑΛΑΚΤΟΣ 48/400G",
-    "price": 1.37,
+    "price": 1.16,
     "merchant": "Galaxias"
   },
   {
@@ -86776,7 +86766,7 @@
   },
   {
     "name": "ΝΟΥΝΟΥ ΓΑΛΑ ΣΥΜΠΥΚΝΩΜΕΝΟ 400G 8/(6ΤΕΜ)",
-    "price": 7.54,
+    "price": 6.41,
     "merchant": "Galaxias"
   },
   {
@@ -86831,7 +86821,7 @@
   },
   {
     "name": "ΝΟΥΝΟΥ ΓΑΛΑ ΣΥΜΠΥΚΝ. LIGHT 400G 8/(6ΤΕΜ)",
-    "price": 7.54,
+    "price": 6.41,
     "merchant": "Galaxias"
   },
   {
@@ -86886,7 +86876,7 @@
   },
   {
     "name": "ΝΟΥΝΟΥ KID ΣΥΜΠ. ΡΟΦ. ΓΑΛΑΚΤΟΣ 400G 8/(6T)",
-    "price": 8.2,
+    "price": 6.97,
     "merchant": "Galaxias"
   },
   {
@@ -86941,7 +86931,7 @@
   },
   {
     "name": "NOULAC ΣΥΜΠ. ΡΟΦΗΜΑ ΓΑΛΑΚΤ. 400G 8/(6ΤΕΜ)",
-    "price": 8.2,
+    "price": 6.97,
     "merchant": "Galaxias"
   },
   {
@@ -86991,7 +86981,7 @@
   },
   {
     "name": "ΝΟΥΝΟΥ ΣΥΜΠΥΚΝΩΜΕΝΟ ΓΑΛΑ 170G 24/(4ΤΕΜ)",
-    "price": 3.28,
+    "price": 2.79,
     "merchant": "Galaxias"
   },
   {
@@ -87031,7 +87021,7 @@
   },
   {
     "name": "ΝΟΥΝΟΥ LIGHT ΓΑΛΑ ΣΥΜΠ. 170G 12/(4ΤΕΜ)",
-    "price": 3.28,
+    "price": 2.79,
     "merchant": "Galaxias"
   },
   {
@@ -87911,7 +87901,7 @@
   },
   {
     "name": "HELLMANN'S REAL ΜΑΓΙΟΝΕΖΑ 12/225ML",
-    "price": 1.7,
+    "price": 2.13,
     "merchant": "Galaxias"
   },
   {
@@ -87961,7 +87951,7 @@
   },
   {
     "name": "HELLMANN'S REAL ΜΑΓΙΟΝΕΖΑ 12/450ML",
-    "price": 2.85,
+    "price": 3.56,
     "merchant": "Galaxias"
   },
   {
@@ -88016,7 +88006,7 @@
   },
   {
     "name": "HELLMANN'S REAL ΜΑΓΙΟΝΕΖΑ 12/650ML",
-    "price": 3.95,
+    "price": 4.94,
     "merchant": "Galaxias"
   },
   {
@@ -88056,7 +88046,7 @@
   },
   {
     "name": "CALVE ΦΥΣΤΙΚΟΒΟΥΤΥΡΟ ΑΠΑΛΟ 12/350G",
-    "price": 3.3,
+    "price": 4.72,
     "merchant": "Galaxias"
   },
   {
@@ -88091,7 +88081,7 @@
   },
   {
     "name": "CALVE ΦΥΣΤΙΚΟΒΟΥΤΥΡΟ ΤΡΑΓΑΝΟ 12/350G",
-    "price": 3.3,
+    "price": 4.72,
     "merchant": "Galaxias"
   },
   {
@@ -88161,7 +88151,7 @@
   },
   {
     "name": "KNORR ΣΠΙΤΙΚΟΣ ΖΩΜΟΣ ΛΑΧΑΝΙΚΩΝ 8/8X28G",
-    "price": 3.7,
+    "price": 2.85,
     "merchant": "Galaxias"
   },
   {
@@ -88196,7 +88186,7 @@
   },
   {
     "name": "KNORR ΣΠΙΤΙΚΟΣ ΖΩΜΟΣ ΚΟΤΑΣ 8/8X28G.",
-    "price": 3.7,
+    "price": 2.85,
     "merchant": "Galaxias"
   },
   {
@@ -88436,7 +88426,7 @@
   },
   {
     "name": "AJAX CRYSTAL CLEAN ΤΖΑΜ. ΑΝΤΛΙΑ 12/750ML",
-    "price": 2.98,
+    "price": 2.68,
     "merchant": "Galaxias"
   },
   {
@@ -88491,7 +88481,7 @@
   },
   {
     "name": "AJAX CRYSTAL CLEAN ΤΖΑΜ. ΑΝΤΑΛ. 12/750ML",
-    "price": 2.48,
+    "price": 2.23,
     "merchant": "Galaxias"
   },
   {
@@ -88636,7 +88626,7 @@
   },
   {
     "name": "PALMOLIVE NATUR. ΜΕΛΙ ΓΑΛΑ ΑΦΡ. 12/500ML",
-    "price": 2.42,
+    "price": 4.24,
     "merchant": "Galaxias"
   },
   {
@@ -88851,7 +88841,7 @@
   },
   {
     "name": "SOFLAN ΓΙΑ ΠΛΥΣΙΜΟ ΣΤΟ ΧΕΡΙ 900ML",
-    "price": 2.59,
+    "price": 2.19,
     "merchant": "Galaxias"
   },
   {
@@ -89006,7 +88996,7 @@
   },
   {
     "name": "PALMOLIVE ΑΦΡΟΛ. TH. SPA S. OIL 12/500ML",
-    "price": 4.24,
+    "price": 2.63,
     "merchant": "Μασούτης"
   },
   {
@@ -89261,7 +89251,7 @@
   },
   {
     "name": "PALMOLIVE ΚΡΕΜΟΣ. ΜΕΛΙ&ΓΑΛ. ΑΝΤΑΛ. 10/900ML",
-    "price": 2.44,
+    "price": 2.12,
     "merchant": "Galaxias"
   },
   {
@@ -90331,7 +90321,7 @@
   },
   {
     "name": "ΒΙΤΑΜ CULINESSE ΡΕΥΣΤΟ 12/500ML",
-    "price": 2.36,
+    "price": 2.95,
     "merchant": "Galaxias"
   },
   {
@@ -90376,7 +90366,7 @@
   },
   {
     "name": "BECEL PRO-ACTIVE ΚΛΑΣΙΚΟ 8/450G",
-    "price": 5.83,
+    "price": 4.66,
     "merchant": "Galaxias"
   },
   {
@@ -90476,7 +90466,7 @@
   },
   {
     "name": "BECEL PRO-ACTIVE ΜΕ ΕΛΑΙΟΛΑΔΟ 8/450G",
-    "price": 5.97,
+    "price": 4.78,
     "merchant": "Galaxias"
   },
   {
@@ -91836,7 +91826,7 @@
   },
   {
     "name": "LIPTON ΤΣΑΙ ΠΥΡΑΜΙΔΑ ΚΑΡΑΜΕΛΑ-ΒΑΝΙΛ. 20Φ.",
-    "price": 2.38,
+    "price": 2.98,
     "merchant": "Galaxias"
   },
   {
@@ -91876,7 +91866,7 @@
   },
   {
     "name": "KNORR ΣΠΙΤΙΚΟΣ ΖΩΜΟΣ ΚΟΤΑΣ 8/4Χ28G",
-    "price": 2.16,
+    "price": 1.66,
     "merchant": "Galaxias"
   },
   {
@@ -91921,7 +91911,7 @@
   },
   {
     "name": "KNORR ΣΠΙΤΙΚΟΣ ΖΩΜΟΣ ΛΑΧΑΝΙΚΩΝ 8/4Χ28G",
-    "price": 2.16,
+    "price": 1.66,
     "merchant": "Galaxias"
   },
   {
@@ -92091,7 +92081,7 @@
   },
   {
     "name": "HELLMANN'S ΜΑΓΙΟΝΕΖΑ LIGHT 12/225ML",
-    "price": 2.14,
+    "price": 2.68,
     "merchant": "Galaxias"
   },
   {
@@ -92136,7 +92126,7 @@
   },
   {
     "name": "HELLMANN'S ΜΑΓΙΟΝΕΖΑ LIGHT 12/450ML",
-    "price": 3.9,
+    "price": 4.87,
     "merchant": "Galaxias"
   },
   {
@@ -92231,7 +92221,7 @@
   },
   {
     "name": "RED BULL ENERGY DRINK 24/355ML",
-    "price": 1.78,
+    "price": 1.38,
     "merchant": "Galaxias"
   },
   {
@@ -92341,12 +92331,12 @@
   },
   {
     "name": "CAPTAIN IGLO ΦΙΛΕΤΟ ΜΠΑΚΑΛΙΑΡ. ΚΤΨ 8/240G",
-    "price": 2.59,
+    "price": 5.18,
     "merchant": "Galaxias"
   },
   {
     "name": "CAPTAIN IGLO ΦΙΛΕΤΟ ΜΠΑΚΑΛΙΑΡ. ΚΤΨ 8/240G",
-    "price": 5.2,
+    "price": 5.18,
     "merchant": "Μασούτης"
   },
   {
@@ -92391,7 +92381,7 @@
   },
   {
     "name": "IGLO FISH STICKS ΚΤΨ 12/420G.",
-    "price": 6.63,
+    "price": 4.97,
     "merchant": "Galaxias"
   },
   {
@@ -92461,7 +92451,7 @@
   },
   {
     "name": "RED BULL ENERGY DRINK 24/250 ML",
-    "price": 1.04,
+    "price": 1.32,
     "merchant": "Galaxias"
   },
   {
@@ -92491,7 +92481,7 @@
   },
   {
     "name": "RED BULL ENERGY DRINK 24/250 ML",
-    "price": 1,
+    "price": 1.06,
     "merchant": "Synka"
   },
   {
@@ -92541,7 +92531,7 @@
   },
   {
     "name": "RED BULL SUGARFREE 24/250ML",
-    "price": 1,
+    "price": 1.06,
     "merchant": "Synka"
   },
   {
